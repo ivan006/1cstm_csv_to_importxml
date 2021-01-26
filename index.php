@@ -63,17 +63,32 @@ ob_end_clean();
 
 
 
-$file="tsv.tsv";
+$file="step_1.html";
 $tsv= file_get_contents($file);
-$tsv= rtrim($tsv, "\n\r");
-// $array = array_map("str_getcsv", explode("\n", $tsv));
-$array = preg_split("/((\r?\n)|(\r\n?))/", $tsv);
-$array_2 = array();
-foreach ($array as $key => $value) {
-  $value = explode("\t", $value);
-  $array_2[$key] =$value;
 
+$tsv= rtrim($tsv, "\n\r");
+$array_0 = html_to_obj($tsv);
+// echo json_encode(, JSON_PRETTY_PRINT);
+$array_1 = $array_0["children"][0]["children"][0]["children"][1]["children"];
+foreach ($array_1 as $key => $value) {
+	$array_2[$key] = array();
+	foreach ($value["children"] as $key_2 => $value_2) {
+		$array_2[$key][$key_2] = "";
+		if (isset($value_2["html"])) {
+			$array_2[$key][$key_2] = $value_2["html"];
+		}
+	}
 }
+
+// $tsv= rtrim($tsv, "\n\r");
+// // $array = array_map("str_getcsv", explode("\n", $tsv));
+// $array = preg_split("/((\r?\n)|(\r\n?))/", $tsv);
+// $array_2 = array();
+// foreach ($array as $key => $value) {
+//   $value = explode("\t", $value);
+//   $array_2[$key] =$value;
+//
+// }
 
 $array_3 = array();
 foreach ($array_2 as $key => $value) {
@@ -85,6 +100,10 @@ foreach ($array_2 as $key => $value) {
   }
 }
 
+
+// header('Content-Type: application/json');
+// echo json_encode($array_3, JSON_PRETTY_PRINT);
+// exit;
 
 
 // header('Content-Type: application/json');
@@ -128,7 +147,7 @@ $acf = array(
   // ),
   "full_image"=>array(
     "acf_code"=>"field_5f900465eb4a0",
-    "import_name"=>"card_image"
+    "import_name"=>"Card_logo_2"
   ),
   "publication_file_downloads"=>array(
     "acf_code"=>"field_5f7720ed0848c",
@@ -144,35 +163,35 @@ $acf = array(
   ),
   "description_part_1"=>array(
     "acf_code"=>"field_5fd2211db5302",
-    "import_name"=>"Description"
+    "import_name"=>"Content_part_1"
   ),
   "video"=>array(
     "acf_code"=>"field_5fd221a4b5304",
-    "import_name"=>"video"
+    "import_name"=>"Video_link"
   ),
-  // "description_part_2"=>array(
-  //   "acf_code"=>"field_5fd225ec9ac99",
-  //   "import_name"=>"Description"
+  "description_part_2"=>array(
+    "acf_code"=>"field_5fd225ec9ac99",
+    "import_name"=>"Content_part_2"
+  ),
+  // "banner_image"=>array(
+  //   "acf_code"=>"field_5fd221bab5305",
+  //   "import_name"=>"banner_image"
   // ),
-  "banner_image"=>array(
-    "acf_code"=>"field_5fd221bab5305",
-    "import_name"=>"banner_image"
-  ),
   "banner_color"=>array(
     "acf_code"=>"field_5fd221d5b5306",
-    "import_name"=>"banner_color"
+    "import_name"=>"Banner_strip_colour"
   ),
   "quote_color"=>array(
     "acf_code"=>"field_5fd221e7b5307",
-    "import_name"=>"quote_color"
+    "import_name"=>"Content_accent_colour"
   ),
-  "quote_color"=>array(
-    "acf_code"=>"field_5fd221e7b5307",
-    "import_name"=>"quote_color"
-  ),
+  // "quote_color"=>array(
+  //   "acf_code"=>"field_5fd221e7b5307",
+  //   "import_name"=>"quote_color"
+  // ),
   "tools"=>array(
     "acf_code"=>"field_5fd3632b01ce9",
-    "import_name"=>"tools"
+    "import_name"=>"Sanitised list"
   ),
   // "publication_file_downloads"=>array(
   //   "acf_code"=>"field_5f7720ed0848c",
@@ -194,7 +213,7 @@ foreach ($array_3 as $key => $value) {
 
   <item>
     <title><?php echo $value["Heading"] ?></title>
-    <content:encoded><![CDATA[<?php echo $value["Description"] ?>]]></content:encoded>
+    <content:encoded><![CDATA[<?php echo $value["Content_part_1"] ?>]]></content:encoded>
     <wp:status><![CDATA[publish]]></wp:status>
     <wp:post_type><![CDATA[projects]]></wp:post_type>
 
@@ -271,7 +290,7 @@ foreach ($array_3 as $key => $value) {
 
         <wp:postmeta>
   				<wp:meta_key><![CDATA[<?php echo $key_2 ?>]]></wp:meta_key>
-  				<wp:meta_value><![CDATA[<?php echo $screenshots[$value[ $value_2["import_name"]]] ?>]]></wp:meta_value>
+  				<wp:meta_value><![CDATA[<?php echo $screenshots[$value[ $value_2["import_name"]]];  ?>]]></wp:meta_value>
   			</wp:postmeta>
         <?php
       } else {
@@ -298,7 +317,11 @@ foreach ($array_3 as $key => $value) {
 }
 $data["body"] = implode($data["body"]);
 
-echo $data["header"] . $data["body"] . $data["footer"];
+?>
+<textarea name="name" rows="8" cols="80"><?php echo $data["header"] . $data["body"] . $data["footer"]; ?></textarea>
+<textarea name="name" rows="8" cols="80"><?php echo 123; ?></textarea>
+<?php
+
 
 
 function slugify($text)
@@ -326,5 +349,27 @@ function slugify($text)
   }
 
   return $text;
+}
+
+function html_to_obj($html) {
+    $dom = new DOMDocument();
+    $dom->loadHTML($html);
+    return element_to_obj($dom->documentElement);
+}
+
+function element_to_obj($element) {
+    $obj = array( "tag" => $element->tagName );
+    foreach ($element->attributes as $attribute) {
+        $obj[$attribute->name] = $attribute->value;
+    }
+    foreach ($element->childNodes as $subElement) {
+        if ($subElement->nodeType == XML_TEXT_NODE) {
+            $obj["html"] = $subElement->wholeText;
+        }
+        else {
+            $obj["children"][] = element_to_obj($subElement);
+        }
+    }
+    return $obj;
 }
 ?>
