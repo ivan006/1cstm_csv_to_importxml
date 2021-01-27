@@ -100,11 +100,11 @@ $fields = array(
 		"type" => "semiadvanced_string",
 		"import_name" => "",
 	),
-	array(
-		"export_name" => "full_image",
-		"type" => "advanced_lookup",
-		"import_name" => "Card_logo_2",
-	),
+	// array(
+	// 	"export_name" => "full_image",
+	// 	"type" => "advanced_lookup",
+	// 	"import_name" => "Card_logo_2",
+	// ),
 	array(
 		"export_name" => "company_logo",
 		"type" => "advanced_lookup",
@@ -144,6 +144,11 @@ $fields = array(
 		"export_name" => "tools",
 		"type" => "advanced_multilookup",
 		"import_name" => "Sanitised list",
+	),
+	array(
+		"export_name" => "company_logo_for_card",
+		"type" => "advanced_lookup",
+		"import_name" => "Card_logo_2",
 	),
 );
 

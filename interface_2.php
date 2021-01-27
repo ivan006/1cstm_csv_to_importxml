@@ -86,7 +86,7 @@ foreach ($array_3 as $key => $value) {
 				}
 				elseif ($key_2 == "wp:status") {
 					?>
-          <content:encoded><![CDATA[publish]]></content:encoded>
+          <wp:status><![CDATA[publish]]></wp:status>
 					<?php
 				}
 				else {
@@ -97,6 +97,7 @@ foreach ($array_3 as $key => $value) {
 			}
 			elseif ($value_2["type"] == "simple_multilookup") {
 				$value_2["export_value"] = json_decode($value_2["export_value"]);
+				
 				foreach ($value_2["export_value"] as $key_3 => $value_3) {
 					?>
 					<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[<?php echo $value_3 ?>]]></category>
