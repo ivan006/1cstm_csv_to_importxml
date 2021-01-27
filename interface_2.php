@@ -71,7 +71,8 @@ foreach ($array_2 as $key => $value) {
 
 $lookups = array();
 foreach ($array_3[2] as $key => $value) {
-	if ($value["type"] == "semiadvanced_lookup" OR $value["type"] == "advanced_lookup") {
+	// if ($value["type"] == "semiadvanced_lookup" OR $value["type"] == "advanced_lookup") {
+	if ( in_array($value["type"], array('semiadvanced_lookup','advanced_lookup', 'simple_multilookup'), true ) ) {
 		// zzzzzzzzzzzzzz
 		if ($value["type"] == "advanced_lookup") {
 			$key = explode("; code:",$key);
@@ -126,6 +127,10 @@ foreach ($array_3[2] as $key => $value) {
 				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
 				// $temp_value = utf8_decode($temp_value);
 				// $temp_value = str_replace("’", "zzzzzzzzz", $temp_value);
+				if (!isset($value_1[0])) {
+					$errors[] =  $value_1;
+				}
+				// $lookup_array_3[$temp_value] = htmlspecialchars_decode($value_1[0]);
 				$lookup_array_3[$temp_value] = $value_1[0];
 				// foreach ($value_1 as $key_2 => $value_2) {
 				// 	// $array_3[$key_1][$array_2[0][$key_2]."; type:".$array_2[1][$key_2]] = $value_2;
@@ -145,7 +150,6 @@ foreach ($array_3[2] as $key => $value) {
 // header('Content-Type: application/json');
 // echo json_encode($lookup, JSON_PRETTY_PRINT);
 // exit;
-
 
 foreach ($array_3 as $key => $value) {
   ob_start();
@@ -182,9 +186,30 @@ foreach ($array_3 as $key => $value) {
 				}
 			}
 			elseif ($value_2["type"] == "simple_multilookup") {
-				$value_2["export_value"] = json_decode($value_2["export_value"]);
+
+
 
 				foreach ($value_2["export_value"] as $key_3 => $value_3) {
+
+					if ( !in_array($value_3, array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+						if (strlen($value_3) > 50) {
+							$value_3 = substr($value_3, 0, 50)."...";
+						}
+
+
+						if (isset($lookup[$key_2][$value_3])) {
+							$value_3 = $lookup[$key_2][$value_3];
+							// code...
+						} else {
+							echo "string"."lookup[$key_2][". $value_3."zzz";
+							// exit;
+						}
+					} else {
+						$value_3 = '';
+					}
+
+					$value_3 = json_decode($value_3);
+
 					?>
 					<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[<?php echo $value_3 ?>]]></category>
 					<?php
@@ -237,7 +262,8 @@ foreach ($array_3 as $key => $value) {
 							$value_2["export_value"] = $lookup[$temp_value[0]][$value_2["export_value"]];
 							// code...
 						} else {
-							$errors[] = $value_2["export_value"];
+							// $errors[] = $temp_value[0]." -- ".$value_2["export_value"];
+							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
 					} else {
@@ -286,10 +312,12 @@ foreach ($array_3 as $key => $value) {
 }
 $data["body"] = implode($data["body"]);
 
-
-header('Content-Type: application/json');
-echo json_encode($errors, JSON_PRETTY_PRINT);
-exit;
+if (!empty($errors)) {
+	// code...
+	header('Content-Type: application/json');
+	echo json_encode($errors, JSON_PRETTY_PRINT);
+	exit;
+}
 
 ob_start();
 ?>
