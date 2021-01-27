@@ -1,4 +1,14 @@
 <?php
+// $value_2["export_value"] = "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww";
+// if (strlen($value_2["export_value"]) > 50) {
+// 	// exit;
+// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+// 	echo strlen($value_2["export_value"])."<br>";
+// }
+//
+//
+// exit;
+
 
 $file="content/step_2.html";
 $tsv= file_get_contents($file);
@@ -59,6 +69,82 @@ foreach ($array_2 as $key => $value) {
 // advanced_multilookup -- get lookup ids
 // 	- tools
 
+$lookups = array();
+foreach ($array_3[2] as $key => $value) {
+	if ($value["type"] == "semiadvanced_lookup" OR $value["type"] == "advanced_lookup") {
+		// zzzzzzzzzzzzzz
+		if ($value["type"] == "advanced_lookup") {
+			$key = explode("; code:",$key);
+			$key = $key[0];
+		}
+
+		// header('Content-Type: application/json');
+		// echo json_encode($key, JSON_PRETTY_PRINT);
+		// exit;
+		$lookup_file="content/step_2_lookups/$key.html";
+		$lookup_tsv= file_get_contents($lookup_file);
+		// $tsv= str_replace("<br />", "\n\r", $tsv);
+		$lookup_tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $lookup_tsv);
+		$lookup_tsv= str_replace("<div>", "", $lookup_tsv);
+		$lookup_tsv= str_replace("</div>", "", $lookup_tsv);
+
+		// $tsv= rtrim($tsv, "\n\r");
+		$lookup_array_0 = html_to_obj($lookup_tsv);
+		// header('Content-Type: application/json');
+		// echo json_encode($lookup_array_0, JSON_PRETTY_PRINT);
+		// exit;
+
+		$lookup_array_1 = $lookup_array_0["children"][0]["children"][0]["children"][1]["children"];
+		foreach ($lookup_array_1 as $key_1 => $value_1) {
+			$lookup_array_2[$key_1] = array();
+			foreach ($value_1["children"] as $key_2 => $value_2) {
+				$array_2[$key_1][$key_2] = "";
+				if (isset($value_2["html"])) {
+					$lookup_array_2[$key_1][$key_2] = $value_2["html"];
+				}
+			}
+		}
+
+		$lookup_array_3 = array();
+		foreach ($lookup_array_2 as $key_1 => $value_1) {
+			// if ($key_1 !== 0 AND $key_1 !== 1) {
+			if ($key_1 !== 0) {
+				// $lookup_array_3[$value_2[0]]=$value_2[1];
+
+
+				// header('Content-Type: application/json');
+				// echo json_encode($value_1, JSON_PRETTY_PRINT);
+				// exit;
+				// if (isset($value_1[1])) {
+				// 	$lookup_array_3[$value_1[1]] = trim(preg_replace('/\t+/', '', $value_1[0]));
+				// 	// code...
+				// } else {
+				// 	header('Content-Type: application/json');
+				// 	echo json_encode($value_1[0], JSON_PRETTY_PRINT);
+				// 	exit;
+				// }
+				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
+				// $temp_value = utf8_decode($temp_value);
+				// $temp_value = str_replace("’", "zzzzzzzzz", $temp_value);
+				$lookup_array_3[$temp_value] = $value_1[0];
+				// foreach ($value_1 as $key_2 => $value_2) {
+				// 	// $array_3[$key_1][$array_2[0][$key_2]."; type:".$array_2[1][$key_2]] = $value_2;
+				// 	// $lookup_array_3[$key_1][$lookup_array_2[0][$key_2]]["export_value"] = $value_2;
+				// 	// $lookup_array_3[$key_1][$lookup_array_2[0][$key_2]]["type"] = $lookup_array_2[1][$key_2];
+				//
+				// 	$lookup_array_3[$key_1][$lookup_array_2[0][$key_2]] = trim(preg_replace('/\t+/', '', $value_2));
+				// 	// $array_3[$key_1][$key_2] = $array[0];
+				// }
+			}
+		}
+		$lookup[$key] = $lookup_array_3;
+
+	}
+}
+
+// header('Content-Type: application/json');
+// echo json_encode($lookup, JSON_PRETTY_PRINT);
+// exit;
 
 
 foreach ($array_3 as $key => $value) {
@@ -97,7 +183,7 @@ foreach ($array_3 as $key => $value) {
 			}
 			elseif ($value_2["type"] == "simple_multilookup") {
 				$value_2["export_value"] = json_decode($value_2["export_value"]);
-				
+
 				foreach ($value_2["export_value"] as $key_3 => $value_3) {
 					?>
 					<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[<?php echo $value_3 ?>]]></category>
@@ -105,10 +191,19 @@ foreach ($array_3 as $key => $value) {
 				}
 			}
 			elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
+
+				if (strlen($value_2["export_value"]) > 50) {
+					// echo strlen($value_2["export_value"])."<br>";
+					// exit;
+					$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+					// $value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
+					// exit;
+				}
+				$temp_value = $lookup[$key_2][$value_2["export_value"]];
 				?>
 				<wp:postmeta>
 					<wp:meta_key><![CDATA[<?php echo $key_2 ?>]]></wp:meta_key>
-					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"] ?>]]></wp:meta_value>
+					<wp:meta_value><![CDATA[<?php echo $temp_value ?>]]></wp:meta_value>
 				</wp:postmeta>
 				<?php
 			}
