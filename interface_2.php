@@ -141,7 +141,7 @@ foreach ($array_3[2] as $key => $value) {
 
 	}
 }
-
+//
 // header('Content-Type: application/json');
 // echo json_encode($lookup, JSON_PRETTY_PRINT);
 // exit;
@@ -192,23 +192,60 @@ foreach ($array_3 as $key => $value) {
 			}
 			elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
 
-				if (strlen($value_2["export_value"]) > 50) {
-					// echo strlen($value_2["export_value"])."<br>";
-					// exit;
-					$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
-					// $value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
-					// exit;
+
+				if ($value_2["type"] == "semiadvanced_lookup") {
+
+					if ( !in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+						if (strlen($value_2["export_value"]) > 50) {
+							$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+						}
+
+
+						if (isset($lookup[$key_2][$value_2["export_value"]])) {
+							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
+							// code...
+						} else {
+							echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
+							// exit;
+						}
+					} else {
+						$value_2["export_value"] = '';
+					}
+
 				}
-				$temp_value = $lookup[$key_2][$value_2["export_value"]];
 				?>
 				<wp:postmeta>
 					<wp:meta_key><![CDATA[<?php echo $key_2 ?>]]></wp:meta_key>
-					<wp:meta_value><![CDATA[<?php echo $temp_value ?>]]></wp:meta_value>
+					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"]; ?>]]></wp:meta_value>
 				</wp:postmeta>
 				<?php
 			}
 			elseif ($value_2["type"] == "advanced_string" OR $value_2["type"] == "advanced_lookup") {
 				$temp_value = explode("; code:",$key_2);
+
+
+
+				if ($value_2["type"] == "advanced_lookup") {
+
+					if ( !in_array($value_2["export_value"], array(''), true ) ) {
+						// if (strlen($value_2["export_value"]) > 50) {
+						// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+						// }
+
+
+						if (isset($lookup[$temp_value[0]][$value_2["export_value"]])) {
+							$value_2["export_value"] = $lookup[$temp_value[0]][$value_2["export_value"]];
+							// code...
+						} else {
+							$errors[] = $value_2["export_value"];
+							// exit;
+						}
+					} else {
+						$value_2["export_value"] = '';
+					}
+
+				}
+
 				?>
 				<wp:postmeta>
 					<wp:meta_key><![CDATA[<?php echo $temp_value[0]; ?>]]></wp:meta_key>
@@ -250,6 +287,9 @@ foreach ($array_3 as $key => $value) {
 $data["body"] = implode($data["body"]);
 
 
+header('Content-Type: application/json');
+echo json_encode($errors, JSON_PRETTY_PRINT);
+exit;
 
 ob_start();
 ?>
