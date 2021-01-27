@@ -219,11 +219,29 @@ ob_end_clean();
 
 $data["body"]= str_replace("_linebreak_", "<br />", $data["body"]);
 
-?><?php header("Content-type: text/xml"); ?><?php echo $data["header"] . $data["body"] . $data["footer"]; ?>
+
+?>
+<?php// header("Content-type: text/xml"); ?>
+<h1>Step 2</h1>
+<div class="">
+
+	<h2>whats happening</h2>
+	<p>
+		This step
+		<br>-replaces lookup field names with ids
+		<br>-turns the table data into xml data that wordpress can import
+	</p>
+	<h2>what do i do</h2>
+	<p>
+		-this uses data from "content/step_2.html"
+		<br>-please copy this into "content/step_3.html" for safe keeping but more important import into wordpress
+	</p>
+</div>
+<textarea name="name" rows="8" cols="80">
+	<?php echo $data["header"] . $data["body"] . $data["footer"]; ?>
+
+</textarea>
 <?php
-// <textarea name="name" rows="8" cols="80">
-// echo $data["header"] . $data["body"] . $data["footer"];
-// </textarea>
 
 
 

@@ -282,8 +282,32 @@ foreach ($multi_value_fields as $key => $value) {
 }
 
 ?>
-<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>
-<h1>table</h1>
+<h1>Step 1</h1>
+<div class="">
+
+	<h2>whats happening</h2>
+	<p>
+		This step
+		<br>-corrects column names
+		<br>-helps normalise the data by dealing with
+		<br>- -sets of checkboxed fields (e.g. instry 1? check, industry2? not check etc)
+		<br>- - -here it groups the data into a json string
+		<br>- - -it also checks which values are used and makes a lookup
+		<br>- -fields that are trying to be json strings but have unstandard separators like ",", "\n\r" or "/" etc
+		<br>- - -here it tries to standardise the separated strings into json strings
+		<br>- - -it also checks which values are used and makes a lookup
+	</p>
+	<h2>what do i do</h2>
+
+	<p>
+		-this uses data from "content/step_1.html" when inserting data into this file do this  "copy ur data into google sheets and then copy it from google sheets into this to format it into html
+		<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
+		<br>-please copy this into "content/step_2.html" but first "copy ur data into google sheets and then copy it from google sheets into this to format it into html
+		<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
+	</p>
+</div>
+<h2>content</h2>
+<h3>table</h3>
 <details>
 	<summary>Details</summary>
 	<div class="" style="border:solid 1px grey;">
@@ -293,7 +317,7 @@ foreach ($multi_value_fields as $key => $value) {
 	</div>
 </details>
 
-<h1>lookups</h1>
+<h3>lookups</h3>
 <?php
 foreach ($data["lookups"] as $key => $value) {
 	?>
