@@ -3,7 +3,15 @@
 $file="content/step_1.html";
 $tsv= file_get_contents($file);
 $tsv= str_replace("<br />", "_linebreak_", $tsv);
+// $tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $tsv);
+
+
+
 $tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $tsv);
+$tsv= str_replace("\r\n</div>\r\n", "", $tsv);
+$tsv= str_replace("\r\n<div>\r\n", "", $tsv);
+$tsv= str_replace("<div>", "", $tsv);
+$tsv= str_replace("</div>", "", $tsv);
 
 $tsv= rtrim($tsv, "\n\r");
 $array_0 = html_to_obj($tsv);
@@ -168,7 +176,7 @@ ob_start();
 		foreach ($fields as $key => $value) {
 			if ($value["type"] == "advanced_string" OR $value["type"] == "advanced_multilookup" OR $value["type"] == "advanced_lookup") {
 				?>
-				<td><?php echo $value["export_name"] ?>; code:</td>
+				<td><?php echo $value["export_name"] ?></td>
 				<?php
 			}
 			else {

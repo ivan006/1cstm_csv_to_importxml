@@ -14,8 +14,12 @@ $file="content/step_2.html";
 $tsv= file_get_contents($file);
 // $tsv= str_replace("<br />", "\n\r", $tsv);
 $tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $tsv);
+$tsv= str_replace("\r\n</div>\r\n", "", $tsv);
+$tsv= str_replace("\r\n<div>\r\n", "", $tsv);
 $tsv= str_replace("<div>", "", $tsv);
 $tsv= str_replace("</div>", "", $tsv);
+
+
 
 // $tsv= rtrim($tsv, "\n\r");
 $array_0 = html_to_obj($tsv);
@@ -71,29 +75,16 @@ foreach ($array_2 as $key => $value) {
 
 $lookups = array();
 foreach ($array_3[2] as $key => $value) {
-	// if ($value["type"] == "semiadvanced_lookup" OR $value["type"] == "advanced_lookup") {
-	if ( in_array($value["type"], array('semiadvanced_lookup','advanced_lookup', 'simple_multilookup'), true ) ) {
-		// zzzzzzzzzzzzzz
-		if ($value["type"] == "advanced_lookup") {
-			$key = explode("; code:",$key);
-			$key = $key[0];
-		}
+	if ( in_array($value["type"], array('semiadvanced_lookup','advanced_lookup', 'simple_multilookup', 'advanced_multilookup'), true ) ) {
 
-		// header('Content-Type: application/json');
-		// echo json_encode($key, JSON_PRETTY_PRINT);
-		// exit;
 		$lookup_file="content/step_2_lookups/$key.html";
 		$lookup_tsv= file_get_contents($lookup_file);
-		// $tsv= str_replace("<br />", "\n\r", $tsv);
 		$lookup_tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $lookup_tsv);
 		$lookup_tsv= str_replace("<div>", "", $lookup_tsv);
 		$lookup_tsv= str_replace("</div>", "", $lookup_tsv);
 
-		// $tsv= rtrim($tsv, "\n\r");
 		$lookup_array_0 = html_to_obj($lookup_tsv);
-		// header('Content-Type: application/json');
-		// echo json_encode($lookup_array_0, JSON_PRETTY_PRINT);
-		// exit;
+
 
 		$lookup_array_1 = $lookup_array_0["children"][0]["children"][0]["children"][1]["children"];
 		foreach ($lookup_array_1 as $key_1 => $value_1) {
@@ -108,47 +99,31 @@ foreach ($array_3[2] as $key => $value) {
 
 		$lookup_array_3 = array();
 		foreach ($lookup_array_2 as $key_1 => $value_1) {
-			// if ($key_1 !== 0 AND $key_1 !== 1) {
 			if ($key_1 !== 0) {
-				// $lookup_array_3[$value_2[0]]=$value_2[1];
 
-
-				// header('Content-Type: application/json');
-				// echo json_encode($value_1, JSON_PRETTY_PRINT);
-				// exit;
-				// if (isset($value_1[1])) {
-				// 	$lookup_array_3[$value_1[1]] = trim(preg_replace('/\t+/', '', $value_1[0]));
-				// 	// code...
-				// } else {
-				// 	header('Content-Type: application/json');
-				// 	echo json_encode($value_1[0], JSON_PRETTY_PRINT);
-				// 	exit;
-				// }
 				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
-				// $temp_value = utf8_decode($temp_value);
-				// $temp_value = str_replace("’", "zzzzzzzzz", $temp_value);
 				if (!isset($value_1[0])) {
 					$errors[] =  $value_1;
 				}
-				// $lookup_array_3[$temp_value] = htmlspecialchars_decode($value_1[0]);
+
 				$lookup_array_3[$temp_value] = $value_1[0];
-				// foreach ($value_1 as $key_2 => $value_2) {
-				// 	// $array_3[$key_1][$array_2[0][$key_2]."; type:".$array_2[1][$key_2]] = $value_2;
-				// 	// $lookup_array_3[$key_1][$lookup_array_2[0][$key_2]]["export_value"] = $value_2;
-				// 	// $lookup_array_3[$key_1][$lookup_array_2[0][$key_2]]["type"] = $lookup_array_2[1][$key_2];
-				//
-				// 	$lookup_array_3[$key_1][$lookup_array_2[0][$key_2]] = trim(preg_replace('/\t+/', '', $value_2));
-				// 	// $array_3[$key_1][$key_2] = $array[0];
-				// }
+
 			}
 		}
 		$lookup[$key] = $lookup_array_3;
 
 	}
 }
-//
+
+if (file_exists("content/step_2_lookups/acf_lookup.html")) {
+	$acf_lookup = parse_table_to_json_for_lookup("content/step_2_lookups/acf_lookup.html");
+}	else {
+	$acf_lookup = array();
+}
+
+
 // header('Content-Type: application/json');
-// echo json_encode($lookup, JSON_PRETTY_PRINT);
+// echo json_encode($lookup["tools"], JSON_PRETTY_PRINT);
 // exit;
 
 foreach ($array_3 as $key => $value) {
@@ -189,9 +164,19 @@ foreach ($array_3 as $key => $value) {
 
 
 
+				$value_2["export_value"] = json_decode($value_2["export_value"]);
+
+				// if (!is_array($value_2["export_value"])) {
+				// 	// code...
+				// 	header('Content-Type: application/json');
+				// 	echo json_encode($value_2["export_value"], JSON_PRETTY_PRINT);
+				// 	exit;
+				// }
 				foreach ($value_2["export_value"] as $key_3 => $value_3) {
 
-					if ( !in_array($value_3, array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+					if ( in_array($value_3, array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+						$value_3 = '';
+					} else {
 						if (strlen($value_3) > 50) {
 							$value_3 = substr($value_3, 0, 50)."...";
 						}
@@ -201,26 +186,26 @@ foreach ($array_3 as $key => $value) {
 							$value_3 = $lookup[$key_2][$value_3];
 							// code...
 						} else {
-							echo "string"."lookup[$key_2][". $value_3."zzz";
+							$errors[] = $key_2." -- ".$value_3;
+							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
-					} else {
-						$value_3 = '';
 					}
-
-					$value_3 = json_decode($value_3);
 
 					?>
 					<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[<?php echo $value_3 ?>]]></category>
 					<?php
 				}
 			}
-			elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
+			// elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
+			elseif (in_array($value_2["type"], array('semiadvanced_string','semiadvanced_lookup'), true ) ) {
 
 
 				if ($value_2["type"] == "semiadvanced_lookup") {
 
-					if ( !in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+					if ( in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+						$value_2["export_value"] = '';
+					} else {
 						if (strlen($value_2["export_value"]) > 50) {
 							$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
 						}
@@ -233,8 +218,6 @@ foreach ($array_3 as $key => $value) {
 							echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
 							// exit;
 						}
-					} else {
-						$value_2["export_value"] = '';
 					}
 
 				}
@@ -245,7 +228,8 @@ foreach ($array_3 as $key => $value) {
 				</wp:postmeta>
 				<?php
 			}
-			elseif ($value_2["type"] == "advanced_string" OR $value_2["type"] == "advanced_lookup") {
+			// elseif ($value_2["type"] == "advanced_string" OR $value_2["type"] == "advanced_lookup") {
+			elseif ( in_array($value_2["type"], array('advanced_string','advanced_lookup', 'advanced_multilookup'), true ) ) {
 				$temp_value = explode("; code:",$key_2);
 
 
@@ -258,11 +242,11 @@ foreach ($array_3 as $key => $value) {
 						// }
 
 
-						if (isset($lookup[$temp_value[0]][$value_2["export_value"]])) {
-							$value_2["export_value"] = $lookup[$temp_value[0]][$value_2["export_value"]];
+						if (isset($lookup[$key_2][$value_2["export_value"]])) {
+							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
 							// code...
 						} else {
-							// $errors[] = $temp_value[0]." -- ".$value_2["export_value"];
+							$errors[] = $key_2." -- ".$value_2["export_value"]." -- advanced_lookup";
 							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
@@ -271,28 +255,52 @@ foreach ($array_3 as $key => $value) {
 					}
 
 				}
+				elseif ($value_2["type"] == "advanced_multilookup") {
+
+					$temp_value = '';
+					$temp_array = array();
+					if (is_array(json_decode($value_2["export_value"]))) {
+						$value_2["export_value"] = json_decode($value_2["export_value"]);
+						foreach ($value_2["export_value"] as $key_3 => $value_3) {
+							// code...
+							// code...
+							// if (strlen($temp_value) > 50) {
+							// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+							// }
+
+
+							if (isset($lookup[$key_2][$value_3])) {
+								$temp_array[] = $lookup[$key_2][$value_3];
+								// code...
+							} else {
+								$errors[] = $key_2." -- ".$value_3." -- advanced_multilookup";
+								// echo "Error (".$value_2["export_value"].")";
+								// exit;
+							}
+						}
+						$temp_value = json_encode($temp_array);
+					}
+
+					$value_2["export_value"] = $temp_value;
+				}
+
+
+
+				if (isset($acf_lookup[$key_2])) {
+					// $value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
+				} else {
+					$errors[] = $key_2." -- acf_lookup";
+				}
+
 
 				?>
 				<wp:postmeta>
-					<wp:meta_key><![CDATA[<?php echo $temp_value[0]; ?>]]></wp:meta_key>
+					<wp:meta_key><![CDATA[<?php echo $key_2; ?>]]></wp:meta_key>
 					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"] ?>]]></wp:meta_value>
 				</wp:postmeta>
         <wp:postmeta>
-          <wp:meta_key><![CDATA[_<?php echo $temp_value[0] ?>]]></wp:meta_key>
-          <wp:meta_value><![CDATA[<?php echo $temp_value[1] ?>]]></wp:meta_value>
-        </wp:postmeta>
-				<?php
-			}
-			elseif ($value_2["type"] == "advanced_multilookup") {
-				$temp_value = explode("; code:",$key_2);
-				?>
-				<wp:postmeta>
-					<wp:meta_key><![CDATA[<?php echo $temp_value[0]; ?>]]></wp:meta_key>
-					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"] ?>]]></wp:meta_value>
-				</wp:postmeta>
-        <wp:postmeta>
-          <wp:meta_key><![CDATA[_<?php echo $temp_value[0] ?>]]></wp:meta_key>
-          <wp:meta_value><![CDATA[<?php echo $temp_value[1] ?>]]></wp:meta_value>
+          <wp:meta_key><![CDATA[_<?php echo $key_2 ?>]]></wp:meta_key>
+          <wp:meta_value><![CDATA[<?php echo $acf_lookup[$key_2] ?>]]></wp:meta_value>
         </wp:postmeta>
 				<?php
 			}
@@ -312,12 +320,7 @@ foreach ($array_3 as $key => $value) {
 }
 $data["body"] = implode($data["body"]);
 
-if (!empty($errors)) {
-	// code...
-	header('Content-Type: application/json');
-	echo json_encode($errors, JSON_PRETTY_PRINT);
-	exit;
-}
+
 
 ob_start();
 ?>
@@ -401,10 +404,25 @@ $data["body"]= str_replace("_linebreak_", "<br />", $data["body"]);
 		<br>-please copy this into "content/step_3.html" for safe keeping but more important import into wordpress
 	</p>
 </div>
+
+<h2>content</h2>
 <textarea name="name" rows="8" cols="80">
 	<?php echo $data["header"] . $data["body"] . $data["footer"]; ?>
 
 </textarea>
+
+<h2>errors</h2>
+<pre>
+	<?php
+
+	if (!empty($errors)) {
+		// code...
+		// header('Content-Type: application/json');
+		echo json_encode($errors, JSON_PRETTY_PRINT);
+		// exit;
+	}
+	?>
+</pre>
 <?php
 
 
@@ -463,6 +481,44 @@ function slugify($text)
   }
 
   return $text;
+}
+
+
+
+function parse_table_to_json_for_lookup($file){
+
+	$tsv= file_get_contents($file);
+	// $tsv= str_replace("<br />", "\n\r", $tsv);
+	$tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $tsv);
+	$tsv= str_replace("\r\n</div>\r\n", "", $tsv);
+	$tsv= str_replace("\r\n<div>\r\n", "", $tsv);
+	$tsv= str_replace("<div>", "", $tsv);
+	$tsv= str_replace("</div>", "", $tsv);
+
+	// $tsv= rtrim($tsv, "\n\r");
+	$array_0 = html_to_obj($tsv);
+	// header('Content-Type: application/json');
+	// echo json_encode($array_0, JSON_PRETTY_PRINT);
+	// exit;
+
+	$array_1 = $array_0["children"][0]["children"][0]["children"][1]["children"];
+	foreach ($array_1 as $key => $value) {
+		$array_2[$key] = array();
+		foreach ($value["children"] as $key_2 => $value_2) {
+			$array_2[$key][$key_2] = "";
+			if (isset($value_2["html"])) {
+				$array_2[$key][$key_2] = $value_2["html"];
+			}
+		}
+	}
+
+	$array_3 = array();
+	foreach ($array_2 as $key => $value) {
+		if ($key !== 0) {
+			$array_3[$value[1]] = $value[0];
+		}
+	}
+	return $array_3;
 }
 
 ?>
