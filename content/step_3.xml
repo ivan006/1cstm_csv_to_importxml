@@ -51,9 +51,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -150,12 +150,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -252,9 +252,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -545,9 +545,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -644,9 +644,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="media"><![CDATA[]]></category>
+            <category domain="industries" nicename="media"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -743,9 +743,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="health"><![CDATA[]]></category>
+            <category domain="industries" nicename="health"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -842,10 +842,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -942,9 +942,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1041,10 +1041,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="media"><![CDATA[]]></category>
+            <category domain="industries" nicename="media"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1141,9 +1141,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="agriculture"><![CDATA[]]></category>
+            <category domain="industries" nicename="agriculture"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1434,9 +1434,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1533,9 +1533,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1632,10 +1632,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1732,10 +1732,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="health"><![CDATA[]]></category>
+            <category domain="industries" nicename="health"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1832,9 +1832,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -1931,9 +1931,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2030,9 +2030,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2129,10 +2129,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2229,12 +2229,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2525,12 +2525,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2627,11 +2627,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2728,12 +2728,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -2927,11 +2927,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="travel"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="travel"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3028,11 +3028,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3129,13 +3129,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="media"><![CDATA[]]></category>
-              <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="media"><![CDATA[]]></category>
+                  <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3232,9 +3232,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3331,10 +3331,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3431,12 +3431,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3533,11 +3533,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="education"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="education"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3634,13 +3634,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3737,11 +3737,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3838,11 +3838,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -3939,11 +3939,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4040,11 +4040,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
-              <category domain="industries" nicename="health"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+                  <category domain="industries" nicename="health"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4141,11 +4141,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
-              <category domain="industries" nicename="health"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+                  <category domain="industries" nicename="health"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4242,9 +4242,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4341,11 +4341,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
-              <category domain="industries" nicename="health"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+                  <category domain="industries" nicename="health"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4442,9 +4442,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4541,10 +4541,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4641,11 +4641,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4742,10 +4742,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4842,10 +4842,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -4942,10 +4942,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5042,10 +5042,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5142,11 +5142,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5243,9 +5243,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5342,9 +5342,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5441,9 +5441,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5541,7 +5541,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5638,9 +5638,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5737,10 +5737,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5837,12 +5837,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -5939,9 +5939,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6038,11 +6038,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6139,9 +6139,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6238,11 +6238,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6339,11 +6339,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6440,10 +6440,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6540,11 +6540,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6641,9 +6641,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6740,10 +6740,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -6840,10 +6840,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
+            <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7037,10 +7037,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="technology"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="technology"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7137,13 +7137,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="health"><![CDATA[]]></category>
-              <category domain="industries" nicename="education"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="health"><![CDATA[]]></category>
+                  <category domain="industries" nicename="education"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7240,10 +7240,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7340,10 +7340,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7440,10 +7440,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7540,10 +7540,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7834,10 +7834,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="agriculture"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="agriculture"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -7934,11 +7934,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="energy"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="energy"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8035,9 +8035,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8134,9 +8134,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8330,9 +8330,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8429,11 +8429,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="technology"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="technology"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8530,10 +8530,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8630,9 +8630,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
+            <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8729,9 +8729,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8828,9 +8828,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -8927,11 +8927,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="insurance"><![CDATA[]]></category>
-              <category domain="industries" nicename="health"><![CDATA[]]></category>
+            <category domain="industries" nicename="insurance"><![CDATA[]]></category>
+                  <category domain="industries" nicename="health"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9028,11 +9028,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9129,9 +9129,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9228,9 +9228,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9327,10 +9327,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
-              <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                  <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9427,9 +9427,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9526,9 +9526,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="banking"><![CDATA[]]></category>
+            <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9625,10 +9625,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="education"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="education"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9725,11 +9725,11 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
+            <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="health"><![CDATA[]]></category>
-              <category domain="industries" nicename="education"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="health"><![CDATA[]]></category>
+                  <category domain="industries" nicename="education"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9826,10 +9826,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
-              <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
+            <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
+                  <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -9926,10 +9926,10 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="logistics"><![CDATA[]]></category>
-              <category domain="industries" nicename="none"><![CDATA[]]></category>
+            <category domain="industries" nicename="logistics"><![CDATA[]]></category>
+                  <category domain="industries" nicename="none"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -10221,7 +10221,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
 
-          <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
+            <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
@@ -10318,9 +10318,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
           <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-          <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+            <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
-          <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+            <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
         <wp:postmeta>
     <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
