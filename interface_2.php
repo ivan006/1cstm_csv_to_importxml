@@ -186,7 +186,7 @@ foreach ($array_3 as $key => $value) {
 							$value_3 = $lookup[$key_2][$value_3];
 							// code...
 						} else {
-							$errors[] = $key_2." -- ".$value_3;
+							$errors[] = "translation -- ".$key_2." -- ".$value_3." -- simple_multilookup";
 							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
@@ -214,7 +214,9 @@ foreach ($array_3 as $key => $value) {
 							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
 							// code...
 						} else {
-							echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
+							// echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
+							$errors[] = "translation -- ".$key_2." -- ".$value_2["export_value"]." -- semiadvanced_lookup";
+
 							// exit;
 						}
 					}
@@ -253,7 +255,7 @@ foreach ($array_3 as $key => $value) {
 							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
 							// code...
 						} else {
-							$errors[] = $key_2." -- ".$value_2["export_value"]." -- advanced_lookup";
+							$errors[] = "translation -- ".$key_2." -- ".$value_2["export_value"]." -- advanced_lookup";
 							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
@@ -280,7 +282,7 @@ foreach ($array_3 as $key => $value) {
 								$temp_array[] = $lookup[$key_2][$value_3];
 								// code...
 							} else {
-								$errors[] = $key_2." -- ".$value_3." -- advanced_multilookup";
+								$errors[] = "translation -- ".$key_2." -- ".$value_3." -- advanced_multilookup";
 								// echo "Error (".$value_2["export_value"].")";
 								// exit;
 							}
