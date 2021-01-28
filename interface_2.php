@@ -202,7 +202,6 @@ foreach ($array_3 as $key => $value) {
 
 
 				if ($value_2["type"] == "semiadvanced_lookup") {
-
 					if ( in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
 						$value_2["export_value"] = '';
 					} else {
@@ -218,6 +217,14 @@ foreach ($array_3 as $key => $value) {
 							echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
 							// exit;
 						}
+					}
+
+				}
+				elseif ($value_2["type"] == "semiadvanced_string") {
+
+					if ($key_2 == "dyncontel_elementor_templates") {
+
+						$value_2["export_value"] = "12797";
 					}
 
 				}
@@ -278,7 +285,8 @@ foreach ($array_3 as $key => $value) {
 								// exit;
 							}
 						}
-						$temp_value = json_encode($temp_array);
+						// $temp_value = json_encode($temp_array);
+						$temp_value = serialize($temp_array);
 					}
 
 					$value_2["export_value"] = $temp_value;
@@ -389,40 +397,50 @@ $data["body"]= str_replace("_linebreak_", "<br />", $data["body"]);
 
 ?>
 <?php// header("Content-type: text/xml"); ?>
-<h1>Step 2</h1>
-<div class="">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>csv to xml</title>
+	</head>
+	<body>
 
-	<h2>whats happening</h2>
-	<p>
-		This step
-		<br>-replaces lookup field names with ids
-		<br>-turns the table data into xml data that wordpress can import
-	</p>
-	<h2>what do i do</h2>
-	<p>
-		-this uses data from "content/step_2.html"
-		<br>-please copy this into "content/step_3.html" for safe keeping but more important import into wordpress
-	</p>
-</div>
+		<h1>Step 2</h1>
+		<div class="">
 
-<h2>content</h2>
-<textarea name="name" rows="8" cols="80">
-	<?php echo $data["header"] . $data["body"] . $data["footer"]; ?>
+			<h2>whats happening</h2>
+			<p>
+				This step
+				<br>-replaces lookup field names with ids
+				<br>-turns the table data into xml data that wordpress can import
+			</p>
+			<h2>what do i do</h2>
+			<p>
+				-this uses data from "content/step_2.html"
+				<br>-please copy this into "content/step_3.html" for safe keeping but more important import into wordpress
+			</p>
+		</div>
 
-</textarea>
+		<h2>content</h2>
+		<textarea name="name" rows="8" cols="80">
+			<?php echo $data["header"] . $data["body"] . $data["footer"]; ?>
 
-<h2>errors</h2>
-<pre>
-	<?php
+		</textarea>
 
-	if (!empty($errors)) {
-		// code...
-		// header('Content-Type: application/json');
-		echo json_encode($errors, JSON_PRETTY_PRINT);
-		// exit;
-	}
-	?>
-</pre>
+		<h2>errors</h2>
+		<pre>
+			<?php
+
+			if (!empty($errors)) {
+				// code...
+				// header('Content-Type: application/json');
+				echo json_encode($errors, JSON_PRETTY_PRINT);
+				// exit;
+			}
+			?>
+		</pre>
+	</body>
+</html>
 <?php
 
 

@@ -10,11 +10,11 @@ $array = '[
 [],
 [41,70,59,16,61,53,27]
 ]';
-foreach ($array as $key => $value){
-  foreach $value as $key_2 => $value_2){
-    $array[$key][$key_2] = $value_2;
-  }
-}
+// foreach ($array as $key => $value){
+//   foreach ($value as $key_2 => $value_2){
+//     $array[$key][$key_2] = $value_2;
+//   }
+// }
 $array = json_decode($array);
 foreach ($array as $key => $value) {
   echo serialize($value)."<br>";

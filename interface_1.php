@@ -295,62 +295,72 @@ foreach ($multi_value_fields as $key => $value) {
 }
 
 ?>
-<h1>Step 1</h1>
-<div class="">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>csv to xml</title>
+	</head>
+	<body>
 
-	<h2>whats happening</h2>
-	<p>
-		This step
-		<br>-corrects column names
-		<br>-helps normalise the data by dealing with
-		<br>- -sets of checkboxed fields (e.g. instry 1? check, industry2? not check etc)
-		<br>- - -here it groups the data into a json string
-		<br>- - -it also checks which values are used and makes a lookup
-		<br>- -fields that are trying to be json strings but have unstandard separators like ",", "\n\r" or "/" etc
-		<br>- - -here it tries to standardise the separated strings into json strings
-		<br>- - -it also checks which values are used and makes a lookup
-	</p>
-	<h2>what do i do</h2>
+		<h1>Step 1</h1>
+		<div class="">
 
-	<p>
-		-this uses data from "content/step_1.html" when inserting data into this file do this  "copy ur data into google sheets and then copy it from google sheets into this to format it into html
-		<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
-		<br>-please copy this into "content/step_2.html" but first "copy ur data into google sheets and then copy it from google sheets into this to format it into html
-		<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
-	</p>
-</div>
-<h2>content</h2>
-<h3>table</h3>
-<details>
-	<summary>Details</summary>
-	<div class="" style="border:solid 1px grey;">
+			<h2>whats happening</h2>
+			<p>
+				This step
+				<br>-corrects column names
+				<br>-helps normalise the data by dealing with
+				<br>- -sets of checkboxed fields (e.g. instry 1? check, industry2? not check etc)
+				<br>- - -here it groups the data into a json string
+				<br>- - -it also checks which values are used and makes a lookup
+				<br>- -fields that are trying to be json strings but have unstandard separators like ",", "\n\r" or "/" etc
+				<br>- - -here it tries to standardise the separated strings into json strings
+				<br>- - -it also checks which values are used and makes a lookup
+			</p>
+			<h2>what do i do</h2>
 
-		<!-- <textarea name="name" rows="8" cols="80"><?php //echo $data["body"] ?></textarea> -->
-		<?php echo $data["body"] ?>
-	</div>
-</details>
-
-<h3>lookups</h3>
-<?php
-foreach ($data["lookups"] as $key => $value) {
-	?>
-	<details>
-		<summary><?php echo $key ?>.html</summary>
-
-		<div class="" style="border:solid 1px grey; width:100%;">
-			<!-- <textarea name="name" rows="8" cols="80"><?php //echo $value; ?></textarea> -->
-			<?php echo $value; ?>
+			<p>
+				-this uses data from "content/step_1.html" when inserting data into this file do this  "copy ur data into google sheets and then copy it from google sheets into this to format it into html
+				<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
+				<br>-please copy this into "content/step_2.html" but first "copy ur data into google sheets and then copy it from google sheets into this to format it into html
+				<a href="https://html-online.com/editor/">https://html-online.com/editor/</a>"
+			</p>
 		</div>
-	</details>
-	<?php
-}
-?>
-<!--
-<details>
-	<summary>Details</summary>
+		<h2>content</h2>
+		<h3>table</h3>
+		<details>
+			<summary>Details</summary>
+			<div class="" style="border:solid 1px grey;">
 
-	<?php //echo json_encode(array_flip($temp_array_2)$multi_value_fields, JSON_PRETTY_PRINT); ?>
-</details> -->
+				<!-- <textarea name="name" rows="8" cols="80"><?php //echo $data["body"] ?></textarea> -->
+				<?php echo $data["body"] ?>
+			</div>
+		</details>
+
+		<h3>lookups</h3>
+		<?php
+		foreach ($data["lookups"] as $key => $value) {
+			?>
+			<details>
+				<summary><?php echo $key ?>.html</summary>
+
+				<div class="" style="border:solid 1px grey; width:100%;">
+					<!-- <textarea name="name" rows="8" cols="80"><?php //echo $value; ?></textarea> -->
+					<?php echo $value; ?>
+				</div>
+			</details>
+			<?php
+		}
+		?>
+		<!--
+		<details>
+		<summary>Details</summary>
+
+		<?php //echo json_encode(array_flip($temp_array_2)$multi_value_fields, JSON_PRETTY_PRINT); ?>
+	</details> -->
+	</body>
+</html>
 <?php
 
 
