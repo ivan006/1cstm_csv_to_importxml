@@ -43,7 +43,7 @@ foreach ($array_2 as $key => $value) {
 	if ($key !== 0 AND $key !== 1) {
 		foreach ($value as $key_2 => $value_2) {
 			// $array_3[$key][$array_2[0][$key_2]."; type:".$array_2[1][$key_2]] = $value_2;
-			$array_3[$key][$array_2[0][$key_2]]["export_value"] = urldecode($value_2);
+			$array_3[$key][$array_2[0][$key_2]]["export_value"] = $value_2;
 			$array_3[$key][$array_2[0][$key_2]]["type"] = $array_2[1][$key_2];
 			// $array_3[$key][$key_2] = $array[0];
 		}
@@ -286,6 +286,9 @@ foreach ($array_3 as $key => $value) {
 						}
 
 						$value_2["export_value"] = $temp_value;
+					}
+					elseif ($value_2["type"] == "advanced_string") {
+						$value_2["export_value"] = urldecode($value_2["export_value"]);
 					}
 
 

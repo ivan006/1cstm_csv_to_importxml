@@ -34,7 +34,7 @@ $array_3 = array();
 foreach ($array_2 as $key => $value) {
 	if ($key !== 0) {
 		foreach ($value as $key_2 => $value_2) {
-			$array_3[$key][$array_2[0][$key_2]] = urlencode($value_2);
+			$array_3[$key][$array_2[0][$key_2]] = $value_2;
 			// $array_3[$key][$key_2] = $array[0];
 		}
 	}
@@ -177,7 +177,12 @@ ob_start();
 	<tr>
 		<?php
 		foreach ($fields as $key => $value) {
-			if ($value["type"] == "advanced_string" OR $value["type"] == "advanced_multilookup" OR $value["type"] == "advanced_lookup") {
+			if ($value["type"] == "advanced_multilookup" OR $value["type"] == "advanced_lookup") {
+				?>
+				<td><?php echo $value["export_name"] ?></td>
+				<?php
+			}
+			elseif ($value["type"] == "advanced_string") {
 				?>
 				<td><?php echo $value["export_name"] ?></td>
 				<?php
@@ -256,6 +261,12 @@ ob_start();
 
 
 						}
+					}
+					elseif ($value_2["type"] == "advanced_string") {
+						if (isset($value[$value_2["import_name"]])) {
+							echo urlencode($value[$value_2["import_name"]]);
+						}
+
 					}
 					else {
 						if (isset($value[$value_2["import_name"]])) {
