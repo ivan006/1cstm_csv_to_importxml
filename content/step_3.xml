@@ -76,7 +76,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We're working towards making the user experience more effective for the substantial volume of users, both businesses and citizens electronically filing tax returns and accessing other electronic services.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect has a development services presence with belastingdienst (Holland's revenue authority) . <br /><br /><blockquote>Our developers are working on the Business and Citizens Tax Forms Online solutions.</blockquote><br /><br />We're working towards making the user experience more effective for the substantial volume of users, both businesses and citizens electronically filing tax returns and accessing other electronic services.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -177,7 +177,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The tech stack is dominated by Java and Kotlin, and paramount importance is given to the web shop's resilience and responsiveness.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[At Bol.com, an Entelect development team is part of a feature team driving the e-commerce giant's goals of effective but ethical utilisation of persuasion psychology online. <br /><br /><blockquote> This team is agile and full-stack, and is responsible for the whole feature rollout lifecycle, from hypothesis testing to engineering to UX monitoring.</blockquote> <br /><br />The tech stack is dominated by Java and Kotlin, and paramount importance is given to the web shop's resilience and responsiveness.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -222,7 +222,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"12979";i:1;s:5:"14395";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -276,7 +276,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Within the Cash Excellence team, we are responsible for writing, maintaining and upgrading all the back-end webservice API's that ATM's around Europe use to perform limit checks, identity management, deposits, retracts, and cash orchestration. An additional focus of ours within ING is the "We Are Code" team that strives to create a fun and stimulating culture for all engineers, uplifting culture, sharing new practices and boosting morale.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect supports ING with platform development services as well as software engineering leadership in their delivery environment. <br /><br /><blockquote> An Entelect Chapter Lead at ING not only enables and guides all developers within their area to grow, but also contributes on a technical level towards creating the core building blocks for all future web applications at the bank.</blockquote><br /><br />Within the Cash Excellence team, we are responsible for writing, maintaining and upgrading all the back-end webservice API's that ATM's around Europe use to perform limit checks, identity management, deposits, retracts, and cash orchestration. An additional focus of ours within ING is the "We Are Code" team that strives to create a fun and stimulating culture for all engineers, uplifting culture, sharing new practices and boosting morale.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -312,7 +312,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#010066]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23010066%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -375,7 +375,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We are a full stack development team operating on a full Microsoft stack, with all new architectures opering in Microsft Azure, Entelect is also assisting with the implementation of a migration and cloud-hybrid strategy for several existing applications]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is assisting Rabobank in their savings and investments tribe, where the primary tactical focus is to enable several internal roles and mandates including advisors and administrators. <br /><br /><blockquote> The sytems we're developing and enhancing are oriented to manage clients' investment portfolios in the Rabobank investment products (Rabo Zelf Beleggen and Rabo Beheerd Beleggen).</blockquote> <br /><br />We are a full stack development team operating on a full Microsoft stack, with all new architectures opering in Microsft Azure, Entelect is also assisting with the implementation of a migration and cloud-hybrid strategy for several existing applications]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -411,7 +411,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#263192]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23263192%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -420,7 +420,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14369";i:1;s:5:"12969";i:2;s:5:"14365";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -474,7 +474,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We migrated their existing web portal to React with a Golang based back-end, and enhanced their Golang back-end to provide additional management functionality. We also engaged a team of mobile developers that built a native iOS and Android app<br /><br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The Moon Unit (TMU) is a creative services company in New Zealand, which provides creative resources to international clients on a low touch basis. <br /><br /><blockquote> Entelect worked with TMU to port their existing crew management system from a Google Cloud Platform GKE setup to a GAE setup.</blockquote> <br /><br />We migrated their existing web portal to React with a Golang based back-end, and enhanced their Golang back-end to provide additional management functionality. We also engaged a team of mobile developers that built a native iOS and Android app<br /><br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -501,7 +501,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -510,7 +510,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -519,7 +519,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"12975";i:1;s:5:"14380";i:2;s:5:"14396";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -573,7 +573,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This included developing a NodeJS-based application to build a set of intermediary APIs that would be consumed by a 3rd party vendor building the mobile apps. The APIs were integrated into the Java based Smart Data Platform (SDP) using Keycloak for authentication.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Orion Health is a global, award-winning provider of health information technology, advancing population health and precision medicine solutions for the delivery of care across the entire health ecosystem.<br /><br /><blockquote> Entelect worked on the development on an application which would provide onsite healthcare professionals the ability to upload and share patient vitals.</blockquote> <br /><br />This included developing a NodeJS-based application to build a set of intermediary APIs that would be consumed by a 3rd party vendor building the mobile apps. The APIs were integrated into the Java based Smart Data Platform (SDP) using Keycloak for authentication.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -673,7 +673,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This includes the d evelopment of features on the coastal project, which is a platform to help manage container shipping around ports of New Zealand, as well as the redesign of the database to better identify container capacity across vessels and their voyages.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Kotahi collaborates with over 40 exporters, importers and industry partners to ensure New Zealand maintains a sustainable, secure supply chain and remains competitive on the world stage. <br /><br /><blockquote> Working together with Entelect, Kotahi has created an online ocean freight solution, using their skilled, experienced developers to enable smarter delivery of solutions to Kotahi’s customers.</blockquote> <br /><br />This includes the d evelopment of features on the coastal project, which is a platform to help manage container shipping around ports of New Zealand, as well as the redesign of the database to better identify container capacity across vessels and their voyages.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -700,7 +700,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -709,7 +709,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -718,7 +718,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12975";i:1;s:5:"14354";i:2;s:5:"14433";i:3;s:5:"14365";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -772,7 +772,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Data is presented on Google Maps, and can be used to help with routing, timing, driver-safety, coordination.<br /><br />The rewrite includes:<br />- Introduction of a new React front-end<br />- Introduction of a restful API to serve the new front-end<br />- Integrating into existing WCF services hosting in a Service Fabric cluster<br />- Improving load times and responsiveness of the application]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Coretex delivers compliance and fleet management solutions to more than 60,000 connected vehicles in the construction, mixed fleet and waste and recycling industries.<br /><br /><blockquote>This project involved a rewrite of the application front-end, in order to improve the user experience, and to improve data flows and responsiveness of a tracking application used to visually track vehicles and fleets.</blockquote> <br /><br />Data is presented on Google Maps, and can be used to help with routing, timing, driver-safety, coordination.<br /><br />The rewrite includes:<br />- Introduction of a new React front-end<br />- Introduction of a restful API to serve the new front-end<br />- Integrating into existing WCF services hosting in a Service Fabric cluster<br />- Improving load times and responsiveness of the application]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -817,7 +817,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14365";i:1;s:5:"12975";i:2;s:5:"14354";i:3;s:5:"14431";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -872,7 +872,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Vista is an Auckland-based company providing software products and services to the global cinema market.<br /><br />CIM is a part of this initiative and involves creating an easy-to-use centralised user management and authentication system.<br /><br />Currently products have discreet user maintenance stores of their own, which is often duplicated across locations. This project is a multi-tenant SaaS solution which is fully managed by Vista Services.<br /><br />“Vista partnered with Entelect to fast-track the delivery of our next-generation cloud platform and we’ve been delighted with the results. The Entelect team’s technical prowess, process know-how and good old-fashioned experience all made for a successful delivery across teams and time zones. A+ skills, A+ service.”- Grant Smith, Chief Operating Officer at Vista]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Vista is an Auckland-based company providing software products and services to the global cinema market.<br /><br />CIM is a part of this initiative and involves creating an easy-to-use centralised user management and authentication system.<br /><br />Currently products have discreet user maintenance stores of their own, which is often duplicated across locations. This project is a multi-tenant SaaS solution which is fully managed by Vista Services.<br /><br /><blockquote class=”quote-style-2”>“Vista partnered with Entelect to fast-track the delivery of our next-generation cloud platform and we’ve been delighted with the results. The Entelect team’s technical prowess, process know-how and good old-fashioned experience all made for a successful delivery across teams and time zones. A+ skills, A+ service.”<span>- Grant Smith, Chief Operating Officer at Vista</span></blockquote>]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -917,7 +917,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14369";i:1;s:5:"14354";i:2;s:5:"14431";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -971,7 +971,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Gallagher IS a global leader in the innovation and marketing of animal management, security, fuel systems and contract manufacturing solutions. <br /><br />Entelect created a native iOS application used to manage and monitor electric fences for animal management in farming. <br /><br />The application ecosystem included a .Net Core Service layer hosted on Azure, a native Android application, a shared Kotlin library, hardware integration (Fence Energizer) and integration to a third-party tool (BlinkUp). <br /><br />The user can manage and monitor their fence through the application. The project was run as an Agile project with developers working remotely.<br /><br />“I would like to recommend Entelect as an outstanding software development partner. Entelect team demonstrated a great attitude and went above and beyond to deliver our projects on time. Their team is very professional and technically competent. I look forward to working with Entelect again in future.”- Rob Heebink, Research and Development Executive at Gallagher]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Gallagher IS a global leader in the innovation and marketing of animal management, security, fuel systems and contract manufacturing solutions. <br /><br />Entelect created a native iOS application used to manage and monitor electric fences for animal management in farming. <br /><br />The application ecosystem included a .Net Core Service layer hosted on Azure, a native Android application, a shared Kotlin library, hardware integration (Fence Energizer) and integration to a third-party tool (BlinkUp). <br /><br />The user can manage and monitor their fence through the application. The project was run as an Agile project with developers working remotely.<br /><br /><blockquote class=”quote-style-2”>“I would like to recommend Entelect as an outstanding software development partner. Entelect team demonstrated a great attitude and went above and beyond to deliver our projects on time. Their team is very professional and technically competent. I look forward to working with Entelect again in future.”<span>- Rob Heebink, Research and Development Executive at Gallagher</span></blockquote>]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -998,7 +998,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1007,7 +1007,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -1016,7 +1016,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14434";i:1;s:5:"14395";i:2;s:5:"14365";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1115,7 +1115,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"12969";i:1;s:5:"12981";i:2;s:5:"14406";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1169,7 +1169,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The Debicheck solution ensures that all debit order collections are authenticated by the debtor on creation, amendment and cancellation. It also has a mobile offering for real-time debit order creation which enables Absa clients to create mandates on the go.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is engaged with Absa (Payments team) in working on various micro-service applications that are designed to cater for new legislative changes around debit order handling. <br /><br /><blockquote>Debicheck is a solution, governed by the Payment Association of South Africa (PASA) to eliminate fraud in the debit order industry.</blockquote><br /><br />The Debicheck solution ensures that all debit order collections are authenticated by the debtor on creation, amendment and cancellation. It also has a mobile offering for real-time debit order creation which enables Absa clients to create mandates on the go.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1214,7 +1214,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:8:{i:0;s:5:"12979";i:1;s:5:"12980";i:2;s:5:"12981";i:3;s:5:"12982";i:4;s:5:"14361";i:5;s:5:"12983";i:6;s:5:"12988";i:7;s:5:"13061";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1269,7 +1269,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The Oberon project is a team engagement with the Absa CIB department to redevelop their corporate loan pricing tools throughout Africa from previously managed Barclay’s IP into a new central pricing engine within Absa’s domain.<br /> <br />The aim for the tool is to not only consolidate the different product houses across the bank into a single system but to allow for easier cross selling between these product houses in order to optimise sales and returns at a portfolio level.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is engaged with Absa (AIMS) as a software engineering partner working on various enhancements to Absa online quotes and application services. <br /><br /><blockquote>These enhancements included new product additions, guaranteed products upgrades, digital signatures and advisor support portals for automation.</blockquote><br /><br />The Oberon project is a team engagement with the Absa CIB department to redevelop their corporate loan pricing tools throughout Africa from previously managed Barclay’s IP into a new central pricing engine within Absa’s domain.<br /> <br />The aim for the tool is to not only consolidate the different product houses across the bank into a single system but to allow for easier cross selling between these product houses in order to optimise sales and returns at a portfolio level.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1314,7 +1314,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"13035";i:1;s:5:"13037";i:2;s:5:"13042";i:3;s:5:"13044";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1369,7 +1369,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This platform would allow therapists to easily track treatment progress, view upcoming or previous events, and access notes or recordings of these events.<br /><br />A custom-developed solution allowed Entelect and Akeso the opportunity to get user input from nurses, therapists, patients and other stakeholders during the design of the solution from the ground up.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Akeso is a network of psychiatric rehabilitation hospitals part of the Netcare group. <br /><br />As part of a digitisation journey, they wanted to transform Akeso into a digital business to improve patient care and internal capabilities that support its core operations. <br /><br /><blockquote>An Entelect team is currently building a treatment dashboard that will give therapists a holistic view of all patient data.</blockquote><br /><br />This platform would allow therapists to easily track treatment progress, view upcoming or previous events, and access notes or recordings of these events.<br /><br />A custom-developed solution allowed Entelect and Akeso the opportunity to get user input from nurses, therapists, patients and other stakeholders during the design of the solution from the ground up.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1414,7 +1414,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14369";i:1;s:5:"14354";i:2;s:5:"12969";i:3;s:5:"14439";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1468,7 +1468,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The new system allowed the user to provide basic information investment services required, preferred language and location. Based on this criteria, the FAIFA platform matched the user with advisors. <br /><br />Following the engagement, the investor fills in a summary questionnaire on the advisor. Allan Gray aggregates this data, and reviews and manages the advisor profiles to ensure advisor profiles are updated.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Allan Gray’s Find An Independent Financial Advisor (FAIFA) service is to help potential investors find independent financial advisors offering tailored, holistic financial advice based on their specific requirements. Allan Gray already had a tool for advisors on their website, but it did not provide profile management or advanced searching.<br /><br /><blockquote>Allan Gray engaged with Entelect to develop a single page application that fitted into their public facing website's corporate identity.</blockquote><br /><br />The new system allowed the user to provide basic information investment services required, preferred language and location. Based on this criteria, the FAIFA platform matched the user with advisors. <br /><br />Following the engagement, the investor fills in a summary questionnaire on the advisor. Allan Gray aggregates this data, and reviews and manages the advisor profiles to ensure advisor profiles are updated.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1495,7 +1495,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1567,7 +1567,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Invest+ is an internal system that manages client investments. The auto-release system manages the release and associated workflow of various institutional applications.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Institutional is an investment division within Allan Gray for segregated portfolios, pooled portfolios, and unit trust funds. <br /><br />Their investment decisions are based upon exhaustive, proprietary, fundamental research, and understanding companies and investing where they represent fundamental value <br /><br /><blockquote>Entelect supports Institutional’s Invest+ and auto-release systems.</blockquote><br /><br />Invest+ is an internal system that manages client investments. The auto-release system manages the release and associated workflow of various institutional applications.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1594,7 +1594,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1612,7 +1612,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"12975";i:1;s:5:"14354";i:2;s:5:"12981";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1666,7 +1666,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />- Supporting some of their existing software systems (namely Allan Gray Online (AGO) and the communication engine), as well as working on the new stack (for new AGO and mobile platform).<br />- Building new investor and advisor reporting applications.<br />- Building transactional applications and workflows to support digital authorisation, through processing and manual form pre-population and submission.<br />- Writing new applications for employee retirement scheme reporting and management.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is distributed across various teams within the Retail Digital space. <br /><br /><blockquote>Entelect teams are helping Allan Gray in the following areas:</blockquote><br /><br />- Supporting some of their existing software systems (namely Allan Gray Online (AGO) and the communication engine), as well as working on the new stack (for new AGO and mobile platform).<br />- Building new investor and advisor reporting applications.<br />- Building transactional applications and workflows to support digital authorisation, through processing and manual form pre-population and submission.<br />- Writing new applications for employee retirement scheme reporting and management.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1693,7 +1693,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1711,7 +1711,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14369";i:1;s:5:"14431";i:2;s:5:"12975";i:3;s:5:"12981";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1768,7 +1768,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />1. Enable salespeople to identify and present thorough vehicle options to customers through an interactive vehicle selection and comparison tool. <br /><br />2. Provide procurement and analytics teams with easy access to detailed total cost of ownership (TCO), data for vehicles on offer, and comparative reflections against other selected options.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Avis Fleet Services (AFS) needed to provide an effective vehicle comparator/selection tool.<br /><br />AFS partnered with Entelect to build a new purpose-fit vehicle comparison tool that can satisfy the business needs.<br /><br /><blockquote>The tool had two broad objectives:</blockquote><br /><br />1. Enable salespeople to identify and present thorough vehicle options to customers through an interactive vehicle selection and comparison tool. <br /><br />2. Provide procurement and analytics teams with easy access to detailed total cost of ownership (TCO), data for vehicles on offer, and comparative reflections against other selected options.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1865,7 +1865,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Included functionality for SDP Core:<br />- Manual publish mode from authoring applications to support the data types as below<br />- Supporting metadata on publish and storage method<br />- Support for various coordinate systems based on data pilots<br />- Data storage method and standardisation by data type <br />- User search portal to query/return results of published/replicated data. Filter and sort options on search.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is working alongside Anglo American on their Spatial Data Portal (SDP), which aims to provide a centralised portal into which all spatial data from across Anglo’s 36 sites across the world.<br /><br /><blockquote>This data will be uploaded and housed on the SDP, and a consolidated view of data for each of these areas can be created and further used to help Anglo identify the next set of valuable sites to mine going forward.</blockquote><br /><br />Included functionality for SDP Core:<br />- Manual publish mode from authoring applications to support the data types as below<br />- Supporting metadata on publish and storage method<br />- Support for various coordinate systems based on data pilots<br />- Data storage method and standardisation by data type <br />- User search portal to query/return results of published/replicated data. Filter and sort options on search.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1892,7 +1892,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000049]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000049%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1901,7 +1901,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#002776]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23002776%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -1910,7 +1910,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:6:{i:0;s:5:"14354";i:1;s:5:"12975";i:2;s:5:"14365";i:3;s:5:"14394";i:4;s:5:"14433";i:5;s:5:"14421";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -1962,7 +1962,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Part of the project also includes creating and maintaining documentation for standards and guidelines across all data analytics projects. These span development standards, architectural patterns, best practices, CI/CD, technology and tools, security and infrastructure. This is followed by product analysis before all go-lives to establish whether the application conforms to defined standards, procedures and guidelines.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is part of a team at Anglo American that’s responsible for building an application toolkit library with the goal of consistent and compliant applications, that facilitates code reuse across the data analytics environment. The toolkit has a strong focus on compliance, governance, security and code quality.<br /><br /><blockquote>Entelect works in collaboration with respective chapter leads and architects to define and implement ways of working, release management and reporting.</blockquote><br /><br />Part of the project also includes creating and maintaining documentation for standards and guidelines across all data analytics projects.  These span development standards, architectural patterns, best practices, CI/CD, technology and tools, security and infrastructure. This is followed by product analysis before all go-lives to establish whether the application conforms to defined standards, procedures and guidelines.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -1989,7 +1989,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000049]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000049%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -1998,7 +1998,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#002776]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23002776%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -2007,7 +2007,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:6:{i:0;s:5:"14354";i:1;s:5:"12975";i:2;s:5:"14365";i:3;s:5:"14394";i:4;s:5:"14433";i:5;s:5:"14421";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -2063,7 +2063,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Based on trend analysis from past incidents, the platform will analyse, predict and inform Safety Managers about potential incidents that may occur somewhere on a given site – allowing the mine to take proactive measure to avoid that incident. <br /><br />These incidents are predicted based on a number of leading indicators.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[One of the world’s largest global mining companies, Anglo American is embarking on the holistic design and realisation of an end-to-end data strategy and IT platform for the health and safety division of the business. <br /><br /><blockquote>Entelect is currently creating a safety leading indicators management system with analytical dashboards and alerts to identify and prevent workplace incidents before they occur.</blockquote><br /><br />Based on trend analysis from past incidents, the platform will analyse, predict and inform Safety Managers about potential incidents that may occur somewhere on a given site – allowing the mine to take proactive measure to avoid that incident. <br /><br />These incidents are predicted based on a number of leading indicators.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2090,7 +2090,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000049]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000049%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -2099,7 +2099,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#002776]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23002776%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -2108,7 +2108,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:6:{i:0;s:5:"14354";i:1;s:5:"12975";i:2;s:5:"14365";i:3;s:5:"14394";i:4;s:5:"14433";i:5;s:5:"14421";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -2163,7 +2163,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />As one of the first sets of transformational deliverables towards the realisation of the BWE IT and digital strategy, this project set the tone for overall realisation for the strategy.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[In order to achieve their strategic digital transformation strategy, Barloworld Equipment (BWE) collaborated with Entelect to develop and deploy a user-centric in-field mobile solution; using agile delivery capabilities including user-centric design, agile architecture, agile software development, test-driven development, API-first design and DevOps. <br /><br /><blockquote>This solution mobilised and equipped BWE’s in-field service support artisans and supervisors.</blockquote><br /><br />As one of the first sets of transformational deliverables towards the realisation of the BWE IT and digital strategy, this project set the tone for overall realisation for the strategy.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2264,7 +2264,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Barloworld Logistics identified the following key areas to focus the audit on: <br />- Overall architecture, and the use of message-oriented middleware <br />- Database design<br />- Infrastructure, configuration and maintenance<br />- BI analysis and reporting to assess maturity<br />- Development processes and practices, such as the packaging and deployment of applications and services <br />- Multi-tenancy implementation to cater for various customer requests<br />- System performance and health monitoring <br /><br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect was approached to perform a technical audit of the current IT architecture and development environment within Barloworld Logistics.<br /><br /><blockquote>The aim was to identify risks and possible areas of improvement, and provide recommendations and a suggested roadmap going forward.</blockquote><br /><br />Barloworld Logistics identified the following key areas to focus the audit on: <br />- Overall architecture, and the use of message-oriented middleware <br />- Database design<br />- Infrastructure, configuration and maintenance<br />- BI analysis and reporting to assess maturity<br />- Development processes and practices, such as the packaging and deployment of applications and services <br />- Multi-tenancy implementation to cater for various customer requests<br />- System performance and health monitoring <br /><br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2291,7 +2291,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#283583]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23283583%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -2361,7 +2361,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Bayport also wanted an efficient process to appoint prospective external Tracers as independent contractors, and the ability for the appointed Tracer to select matters within its area of operation according to pre-determined business rules<br /><br />Since the end of 2019, the proven efficiency of the system has resulted in Bayport now “selling” this system to other financial companies as a service.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Bayport is a leading registered Credit Provider in Personal Loans, Debt Consolidation, Employee Financial Wellness and Payroll Lending Solutions.<br /><br />Bayport approached Entelect to build a system called Baytrace, known as a “Tracer Management System”. A Tracer is someone who, essentially, collects debt and follows up on people with outstanding payments.<br /><br /><blockquote>The main goal for Bayport was to turn an entirely manual process consisting of mostly paperwork into an online system.</blockquote><br /><br />Bayport also wanted an efficient process to appoint prospective external Tracers as independent contractors, and the ability for the appointed Tracer to select matters within its area of operation according to pre-determined business rules<br /><br />Since the end of 2019, the proven efficiency of the system has resulted in Bayport now “selling” this system to other financial companies as a service.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2462,7 +2462,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The system has significantly increased data quality. This validation enforces rules on the field sizes to ensure data reaches the brands in a consistent format. <br /><br />Errors are fed into a dashboard for the team to review. A Master Product dimension has been created across the different brands to allow for like-for-like reporting.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect was approached to transform BidTravel’s reporting standards by using a business intelligence (BI) methodology.<br /><br /><blockquote>Their previous system overstated product cost and the new system Entelect implemented increased reporting accuracy.</blockquote><br /><br />The system has significantly increased data quality. This validation enforces rules on the field sizes to ensure data reaches the brands in a consistent format. <br /><br />Errors are fed into a dashboard for the team to review. A Master Product dimension has been created across the different brands to allow for like-for-like reporting.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2562,7 +2562,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Leveraging cutting edge browser and web technologies, Entelect developed an online, cloud-based design tool with drag-and-drop usability, inline configuration and real-time calculations and validation to guide the process. The tool also then allows the designer to save, version, and retrieve a bill of materials for their diagram using standard or customised parts that could be sourced from CBI-electric.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The CBI-electric Group has been in existence for over a hundred years and has built a diversified group of highly vertically integrated companies, each with a major footprint in different sectors of the electrical and telecommunication industries. <br /><br />CBI-electric had a dated system in place that allowed clients and consulting engineers to design and perform basic evaluation of single-line diagrams for electric installations. The system could not be updated due to its distribution medium being a physical CD. <br /><br /><blockquote>Following a detailed analysis and prototyping period, Entelect was engaged to architect and build out a modern, web-based replacement for this system, to be called CBI³.</blockquote><br /><br />Leveraging cutting edge browser and web technologies, Entelect developed an online, cloud-based design tool with drag-and-drop usability, inline configuration and real-time calculations and validation to guide the process. The tool also then allows the designer to save, version, and retrieve a bill of materials for their diagram using standard or customised parts that could be sourced from CBI-electric.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2664,7 +2664,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We’ve been working in various agile squads complete with all the required skills in the digital transformation initiatives. <br /><br />These squads have tackled upgrades or full rebuilds of solutions for online self-service, in-store sales support and Black, Cell C’s disruptive video-on-demand streaming platform.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect has been working with Cell C in a number of streams on digital projects all aimed at overhauling and dramatically improving customer experience across their largest customer touchpoints. <br /><br /><blockquote>These initiatives included everything from analysis and UX, to development and devotion to specific experiences.</blockquote><br /><br />We’ve been working in various agile squads complete with all the required skills in the digital transformation initiatives. <br /><br />These squads have tackled upgrades or full rebuilds of solutions for online self-service, in-store sales support and Black, Cell C’s disruptive video-on-demand streaming platform.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2709,7 +2709,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"14423";i:1;s:5:"12979";i:2;s:5:"13061";i:3;s:5:"14441";i:4;s:5:"14379";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -2763,7 +2763,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />An Entelect team developed and enhances the Coronation correspondence platform, a complex solution for managing regulations for the sending and tracking of statements, transfer documents, and other communications across a variety of product sets.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect software teams have worked on numerous projects with Coronation over the past several years. <br /><br />Entelect has participated in the design and development of a large-scale internal administration and workflow platform. <br /><br /><blockquote>This workflow platform helped Coronation to migrate away from outsourced administration.</blockquote><br /><br />An Entelect team developed and enhances the Coronation correspondence platform, a complex solution for managing regulations for the sending and tracking of statements, transfer documents, and other communications across a variety of product sets.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2808,7 +2808,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14402";i:1;s:5:"14428";i:2;s:5:"14426";i:3;s:5:"13037";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -2862,7 +2862,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The system requirements were to:<br />- Import and maintain material master lists and colli lists<br />- Provide users the means to easily view and process material through the various states – from raw materials, to machining or refining, to production<br />- View a summarised progress report on the project’s material requirements and utilisation<br />- Easily view the location and status of any quantity of material at any point on the workflow <br />- Track and audit all actions against materials throughout the process<br /><br />Additionally, the material management system needed to support the varied workflows adopted by two of the other major operations underway within DB Thermal.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[DB Thermal (an SPX company) required a solution to efficiently track raw and refined materials from order to production at their project site in Nigel. <br /><br /><blockquote>Entelect was approached to build a bespoke, web-based solution to give the business stakeholders a material reconciliation system.</blockquote><br /><br />The system requirements were to:<br />- Import and maintain material master lists and colli lists<br />- Provide users the means to easily view and process material through the various states – from raw materials, to machining or refining, to production<br />- View a summarised progress report on the project’s material requirements and utilisation<br />- Easily view the location and status of any quantity of material at any point on the workflow <br />- Track and audit all actions against materials throughout the process<br /><br />Additionally, the material management system needed to support the varied workflows adopted by two of the other major operations underway within DB Thermal.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -2963,7 +2963,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The De Beers team wanted to move away from the constraints of their existing system. The primary objective of the project is to combine multiple existing systems (product availability forecasting, future intake forecasting, allocation optimisation, customer data management, and order management) into a single application.<br /><br />The new system will also be able to manage multiple different supply contracts and their unique requirements, and their expanded product range and collections.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The world's leading diamond company, De Beers Group Diamond Trading required a bespoke system to support revenue growth, and increased flexibility and extensibility for new products and services.<br /><br /><blockquote>Entelect is currently in the process of designing, developing and implementing a custom sales planning system to support their product planning team’s adaption to current sales processes.</blockquote><br /><br />The De Beers team wanted to move away from the constraints of their existing system. The primary objective of the project is to combine multiple existing systems (product availability forecasting, future intake forecasting, allocation optimisation, customer data management, and order management) into a single application.<br /><br />The new system will also be able to manage multiple different supply contracts and their unique requirements, and their expanded product range and collections.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3008,7 +3008,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"12975";i:1;s:5:"14365";i:2;s:5:"14431";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3063,7 +3063,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect was involved in providing the initial detailed specification for the project and thereafter engaged with us to develop and implement the specified solution. The Deloitte AGR solution will be to be used to manage, track and report the recruitment process of a graduate from the application step up to the time where a Training Contract is awarded, through the process until they are ultimately employed by Deloitte.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Deloitte Audit Graduate Recruitment (AGR) is a division within Deloitte which focuses on the identification, recruitment and training of graduates, termed Audit Graduates, who are studying towards obtaining a Chartered Accountant qualification, CA(SA). <br /><br />A need was identified to provide an application which allows Deloitte AGR users to recruit Audit Graduates, track performance and manage graduates from the time they apply for the programme to the time they complete a training (achieve the CA(SA) status) unlike other systems which do not allow users to track graduate performance over the course of their study.<br /><br /><blockquote>Deloitte looked to Entelect to provide an automation and workflow system to facilitate and optimise this process.</blockquote><br /><br />Entelect was involved in providing the initial detailed specification for the project and thereafter engaged with us to develop and implement the specified solution. The Deloitte AGR solution will be to be used to manage, track and report the recruitment process of a graduate from the application step up to the time where a Training Contract is awarded, through the process until they are ultimately employed by Deloitte. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3090,7 +3090,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -3099,7 +3099,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -3108,7 +3108,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14358";i:1;s:5:"14378";i:2;s:5:"14370";i:3;s:5:"14433";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3165,7 +3165,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The DESMAT system is customisable per sector and also tracks the import/export of alcohol and Coca-Cola Africa’s sugar tax compliance.<br /><br />As a real-time regulatory and compliance process management tool, the application was required to have both intra- and inter- company functionalities that fulfil statutory requirements, payable and claimable statutory levies and taxes.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect developed and supported the Deloitte “DESMAT & ICM” system. Deloitte worked with Entelect to develop an application that could effectively track and report on the PetroChemical manufacturing and movement of products (such as oil, gas and paraffin). <br /><br /><blockquote>DESMAT effectively tracks and manages compliance for over a million transactions per month and – for the financial period of 2018 – tracked import movements to the value of over $200 million.</blockquote><br /><br />The DESMAT system is customisable per sector and also tracks the import/export of alcohol and Coca-Cola Africa’s sugar tax compliance.<br /><br />As a real-time regulatory and compliance process management tool, the application was required to have both intra- and inter- company functionalities that fulfil statutory requirements, payable and claimable statutory levies and taxes. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3192,7 +3192,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -3201,7 +3201,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -3210,7 +3210,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14371";i:1;s:5:"14374";i:2;s:5:"14404";i:3;s:5:"14367";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3265,7 +3265,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The data warehouse serves as a central consolidation point to leverage existing Deloitte data for use within the new solution. <br /><br />The Entelect team provides the Deloitte Benchmarking project with a number of homegrown tools and bleeding-edge technologies, coupled with an agile approach to the software development lifecycle to achieve its goals.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Deloitte engaged Entelect to combine three business units: Benchmarking, Total Rewards and Best Company to Work For, with the vision of enabling Deloitte and its clients the power to extract deeper insights from the data. <br /><br /><blockquote>The data collection system, built by the Entelect team, is a dynamic and highly configurable questionnaire engine able to handle thousands of simultaneous users.</blockquote><br /><br />The data warehouse serves as a central consolidation point to leverage existing Deloitte data for use within the new solution. <br /><br />The Entelect team provides the Deloitte Benchmarking project with a number of homegrown tools and bleeding-edge technologies, coupled with an agile approach to the software development lifecycle to achieve its goals.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3292,7 +3292,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -3301,7 +3301,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -3310,7 +3310,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"14400";i:1;s:5:"14402";i:2;s:5:"14431";i:3;s:5:"14374";i:4;s:5:"14359";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3365,7 +3365,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect discovered the solution to the challenges DetNet was facing by seamlessly combining user experience (UX) with software development using design thinking and agile methodologies.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[World leaders in the mining and blast enhancing technologies, DetNet needed to refresh the user interface (UI) and back-end API of one of their most popular systems, BlastWeb. <br /><br />The web-based UI provides real-time and intuitive visibility of the blasting configuration, status and results following a highly thorough testing and communication paradigm. <br /><br /><blockquote>DetNet approached Entelect to upgrade their front-end to a modern framework, and improve their API for quicker response times and broadened functionality.</blockquote><br /><br />Entelect discovered the solution to the challenges DetNet was facing by seamlessly combining user experience (UX) with software development using design thinking and agile methodologies.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3410,7 +3410,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14440";i:1;s:5:"12969";i:2;s:5:"14380";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3466,7 +3466,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The solution is used by multiple users throughout the risk and pricing process across multiple business units. This includes the risk and pricing, and franchise teams. <br /><br />The solution is geared to generate actual quote packs and prepares them for installation in Discovery’s underlying policy management systems.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect was engaged to plan and execute a software project which would see the replacing of an ageing and rigid pricing tool for group risk with a new generation flexible pricing engine. We developed a full group risk pricing engine which is capable of pricing highly complex benefit permutations (in the dozens), as well as pension and provident benefits for umbrella products. <br /><br /><blockquote>Our solution included a comprehensive set of web-based user interfaces and a quoting workflow which runs above the pricing engine.</blockquote><br /><br />The solution is used by multiple users throughout the risk and pricing process across multiple business units. This includes the risk and pricing, and franchise teams. <br /><br />The solution is geared to generate actual quote packs and prepares them for installation in Discovery’s underlying policy management systems.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3511,7 +3511,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"13061";i:1;s:5:"14410";i:2;s:5:"12969";i:3;s:5:"14382";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3566,7 +3566,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect is also involved in numerous projects across the department, including the clinical payment gateway system, and engagement and compensation solution, the first clinical compliance system in South Africa and a family member tool which analyses medical risks.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect provides development services in the Discovery Clinical Systems environment. <br /><br /><blockquote>The initiative focused on corporate wellness as well as a re-engineering of the systems supporting the claims system.</blockquote><br /><br />Entelect is also involved in numerous projects across the department, including the clinical payment gateway system, and engagement and compensation solution, the first clinical compliance system in South Africa and a family member tool which analyses medical risks. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3666,7 +3666,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Doctors can use HealthID to check all the claims patients have submitted to their scheme for consultations with healthcare providers, as well as the results of any laboratory tests they have undergone that were processed through the scheme. <br /><br />The Entelect team helped build out the HealthID web proof of concept into a fully featured production Angular app and supplied the back-end services for all integrations.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect assisted Discovery Health with the design and development for HealthID. <br /><br /><blockquote>HealthID is a web and mobile platform that allows doctors to securely access a patient's electronic health record and provide instant feedback.</blockquote><br /><br />Doctors can use HealthID to check all the claims patients have submitted to their scheme for consultations with healthcare providers, as well as the results of any laboratory tests they have undergone that were processed through the scheme. <br /><br />The Entelect team helped build out the HealthID web proof of concept into a fully featured production Angular app and supplied the back-end services for all integrations. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3711,7 +3711,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12969";i:1;s:5:"14392";i:2;s:5:"14430";i:3;s:5:"14366";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3765,7 +3765,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The mall provides a better user interface to easily find vouchers by category, Vitality partner or interactive banner. Members can then spend their reward points on vouchers from various rewards partners on the app.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is involved in the development of many projects within the Discovery environment. One of these is the Vitality Active Rewards Mall.<br /><br />Vitality Active Rewards is a programme where members earn guaranteed rewards by achieving your weekly exercise, drive and money goals. <br /><br /><blockquote>Entelect was involved to give the Active Rewards Mall a new look and feel, and make navigation easier for members.</blockquote><br /><br />The mall provides a better user interface to easily find vouchers by category, Vitality partner or interactive banner. Members can then spend their reward points on vouchers from various rewards partners on the app.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3810,7 +3810,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12969";i:1;s:5:"14392";i:2;s:5:"14430";i:3;s:5:"14366";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3865,7 +3865,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The trusted partnership with Discovery Vitality is built on the high quality of our work and the consistent delivery of our teams. <br /><br />The Vitality programme has over 1.9 million active users.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Over the last 10 years, Discovery has engaged with Entelect to build and implement its innovative health and rewards programme, Discovery Vitality. <br /><br />The systems developed by Entelect were designed to continually evolve in-line with the Discovery Vitality business, including new benefits offered every year, new partner integrations for the rewards offering, as well as data collection and more recently, wearable device integration. <br /><br /><blockquote>Extending outside of Vitality, Entelect’s partnership with Discovery spans dozens of successful projects and an on-the-ground presence of over 150 software engineers.</blockquote><br /><br />The trusted partnership with Discovery Vitality is built on the high quality of our work and the consistent delivery of our teams. <br /><br />The Vitality programme has over 1.9 million active users.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -3910,7 +3910,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:8:{i:0;s:5:"14372";i:1;s:5:"14375";i:2;s:5:"14386";i:3;s:5:"14355";i:4;s:5:"14390";i:5;s:5:"14429";i:6;s:5:"14360";i:7;s:5:"12969";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -3964,7 +3964,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The team also manages key portals such as the Financial Advisor Zone, Virtual Assistant and Direct to Customer. In the Interactive Messaging space we are aiding Discovery with rewrites of legacy systems that handle bulk communications.<br /> <br />The mobile team is responsible for supporting the progression of the RSA Discovery member app on both the Android and iOS platforms. We also provide UX experience to GIS which aims to be a centre of excellence for UI and UX design thinking across Discovery.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect has supported Discovery Group Information Services (GIS) with multiple teams to aid in the development of web and mobile applications.<br /> <br /><blockquote>The GIS web team owns, operates and enhances the framework for the entire Discovery web presence at discovery.co.za</blockquote><br /><br />The team also manages key portals such as the Financial Advisor Zone, Virtual Assistant and Direct to Customer. In the Interactive Messaging space we are aiding Discovery with rewrites of legacy systems that handle bulk communications.<br /> <br />The mobile team is responsible for supporting the progression of the RSA Discovery member app on both the Android and iOS platforms. We also provide UX experience to GIS which aims to be a centre of excellence for UI and UX design thinking across Discovery.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4009,7 +4009,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14357";i:1;s:5:"14391";i:2;s:5:"14360";i:3;s:5:"12969";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4064,7 +4064,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Purple Group is a proudly South African fintech company that aims to empower South Africans by offering a cost-effective, user-friendly and engaging investment and trading tool. The Entelect team worked closely with Purple to develop the EasyEquities platform. <br /><br />Entelect developed a mobile-friendly platform that also enabled Purple’s clients to invest in securities. The platform is a solution designed to allow users to trade securities on the Johannesburg Stock Exchange and in US markets. This includes whole-share and Fractional Share Rights (FSRs). <br /><br />Entelect’s flexible engagement models and cost-effective approach helped Purple to deliver on its mission, by providing dynamic implementation solutions to the EasyEquities platform.<br /><br />The platform currently has 85 000 users.<br /><br />“The engagement of the entire team in the delivery continues to impress me. Seeking first to understand the business case and then constructively provide solutions to meet and often exceed expectations.”- Paul Jansen van Vuuren, Chief Technology Officer at Purple Group]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Purple Group is a proudly South African fintech company that aims to empower South Africans by offering a cost-effective, user-friendly and engaging investment and trading tool. The Entelect team worked closely with Purple to develop the EasyEquities platform. <br /><br />Entelect developed a mobile-friendly platform that also enabled Purple’s clients to invest in securities. The platform is a solution designed to allow users to trade securities on the Johannesburg Stock Exchange and in US markets. This includes whole-share and Fractional Share Rights (FSRs). <br /><br />Entelect’s flexible engagement models and cost-effective approach helped Purple to deliver on its mission, by providing dynamic implementation solutions to the EasyEquities platform.<br /><br />The platform currently has 85 000 users.<br /><br /><blockquote class=”quote-style-2”>“The engagement of the entire team in the delivery continues to impress me. Seeking first to understand the business case and then constructively provide solutions to meet and often exceed expectations.”<span>- Paul Jansen van Vuuren, Chief Technology Officer at Purple Group</span></blockquote>]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4109,7 +4109,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14402";i:1;s:5:"12969";i:2;s:5:"13037";i:3;s:5:"14438";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4165,7 +4165,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is the primary software engineering partner for the professional tools (ProTools) set of digital products owned and run by eBay emerging markets in South Africa, Mexico and elsewhere around the world. An Entelect team in Cape Town has been working alongside eBay teams in San Francisco.<br /><br />The teams are working to enhance and operate a large scale and disruptive real-estate classifieds product set. <br /><br />Our team is responsible for the full spectrum of software services, including design, DevOps, technical support, development of new and peripheral products and continuous integration.<br /><br /><blockquote class=”quote-style-2”>“It continues to be a true pleasure working with the Entelect team. Each member of the team is dedicated, professional, and has made a tremendous effort to understand and embed themselves into solving the business requirements from quarter to quarter. I value their willingness to help each other succeed, their commitment to quality work and their agility to do what it takes to meet our business requirements.”<span>- Jaco Swarts, Software Engineering Tech Lead at eBay Classifieds Group, Emerging Markets</span></blockquote><br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4210,7 +4210,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"14377";i:1;s:5:"14376";i:2;s:5:"14409";i:3;s:5:"14358";i:4;s:5:"12975";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4265,7 +4265,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The primary users of the platform are insurance call centre agents, Europcar call centre, customer care and branch users that confirms the requested reservations.<br /> <br />A key driver for the project is speed to market for new insurers and operational efficiency in the call centre by having teams service multiple insurers on a single system instead of having dedicated teams per system and insurer.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Europcar partners with insurance companies to provide rental vehicles when the insured parties require a replacement vehicle in the event of an accident. Each of the insurers has unique rules and fields which they capture when creating a reservation with Europcar. This was managed on 7 different systems. <br /><br /><blockquote>Entelect was tasked with creating a single, dynamic platform that can onboard new insurers with minimal development effort, as well as manage all existing insurers on a single platform.</blockquote><br /><br />The primary users of the platform are insurance call centre agents, Europcar call centre, customer care and branch users that confirms the requested reservations.<br /> <br />A key driver for the project is speed to market for new insurers and operational efficiency in the call centre by having teams service multiple insurers on a single system instead of having dedicated teams per system and insurer.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4365,7 +4365,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />A key driver for improving the CX and UX is for Europcar to ‘own their own customers’. With a smooth and efficient direct and collection model, more customers will choose to book directly or simply go instore as ease of use is improved.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Europcar identified a need to innovate in their sector, reduce queuing and improving overall customer experience (CX) and user experience (UX) through technology. Europcar is currently partnered with Entelect to relook at the overall Europcar CX model both online and in branch.<br /><br /><blockquote>A thorough CX and UX plan is being utilised to effectively redesign the existing customer journey and also offer opportunities for innovative solutions.</blockquote><br /><br />A key driver for improving the CX and UX is for Europcar to ‘own their own customers’. With a smooth and efficient direct and collection model, more customers will choose to book directly or simply go instore as ease of use is improved. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4465,7 +4465,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The requirements were to replace their legacy desktop-based application with a redesigned web-based platform to support their underwriting, registry, claims and pensions departments working from branches located in Johannesburg, Cape Town and Durban. <br /><br />The platform utilises the latest Microsoft Azure technologies and is built for scale and flexibility as more companies move from the Compensation Fund over to FEM. <br /><br />The Entelect team is involved end-to-end as the technology provider from analysis, UX, development, testing, support and infrastructure setup.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The Federated Employers Mutual Assurance Company (FEM) provides insurance to employers in the construction industry against their liabilities under the Compensation for Occupational Injuries and Diseases Act 1993 (COIDA).<br /><br /><blockquote>FEM approached Entelect to help with a large-scale modernisation project.</blockquote><br /><br />The requirements were to replace their legacy desktop-based application with a redesigned web-based platform to support their underwriting, registry, claims and pensions departments working from branches located in Johannesburg, Cape Town and Durban. <br /><br />The platform utilises the latest Microsoft Azure technologies and is built for scale and flexibility as more companies move from the Compensation Fund over to FEM.  <br /><br />The Entelect team is involved end-to-end as the technology provider from analysis, UX, development, testing, support and infrastructure setup.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4501,7 +4501,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#326295]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23326295%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -4510,7 +4510,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14365";i:1;s:5:"14354";i:2;s:5:"14431";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4564,7 +4564,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect worked closely with FleetAfrica's Risk & Pricing division to model the many financial risks, and then overhaul the quality of the fleet modelling. <br /><br />Entelect provided FleetAfrica with an end-to-end, fleet quoting platform with real-time risk analysis and pricing. The team consolidated data from various sources to improve risk modelling and financial forecasting, to reduce quote turnaround times.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[FleetAfrica are providers of fleet leasing, fleet maintenance, and vehicle tracking and monitoring solutions across Africa. FleetAfrica engaged Entelect to develop a risk engine and quoting platform for fleets of vehicles. <br /><br /><blockquote>FleetAfrica's existing risk models were in need of a refresh to allow modelling tenders for larger fleets, which required improvements to the risk engine.</blockquote><br /><br />Entelect worked closely with FleetAfrica's Risk & Pricing division to model the many financial risks, and then overhaul the quality of the fleet modelling.  <br /><br />Entelect provided FleetAfrica with an end-to-end, fleet quoting platform with real-time risk analysis and pricing. The team consolidated data from various sources to improve risk modelling and financial forecasting, to reduce quote turnaround times.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4609,7 +4609,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12969";i:1;s:5:"14403";i:2;s:5:"14433";i:3;s:5:"14435";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4665,7 +4665,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We provided 3 full-stack web developers to build both the front-end and the underlying back-end infrastructure. The project took approximately 10 months to deliver.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect was engaged by FNB Securities to deliver an online trading platform that could replace FNB Securities’ existing site. <br /><br />The FNB Securities website serves as both a pre-login marketing and information site, as well as a post-login online trading system. Customers can view their portfolios, buy or sell shares, watch the markets with live streaming data, and have access to various other trading tools. <br /><br /><blockquote>Entelect was part of a bigger team comprising permanent developers and a UI/UX design company.</blockquote> <br /><br />We provided 3 full-stack web developers to build both the front-end and the underlying back-end infrastructure. The project took approximately 10 months to deliver. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4692,7 +4692,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -4701,7 +4701,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -4710,7 +4710,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14402";i:1;s:5:"12969";i:2;s:5:"14416";i:3;s:5:"14433";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4764,7 +4764,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The platform follows FNB’s advice philosophy when providing unit trust projections. Robo-advisors engage with customers on how it expects funds to perform and predict whether customers would reach their investment goals or not. Thereafter, the platform allows for client onboarding onto the unit trust platform.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Wanting to move away from being a purely traditional bank to an integrated financial services organisation, FNB explored the roll-out of robo financial advice. <br /><br />Robo-advisors are a class of financial advisors that provide online investment advice with moderate to minimal human intervention.<br /><br /><blockquote>FNB reached out to Entelect to build the front-end of the platform, and assisted with the integration into back-end applications.</blockquote><br /><br />The platform follows FNB’s advice philosophy when providing unit trust projections. Robo-advisors engage with customers on how it expects funds to perform and predict whether customers would reach their investment goals or not. Thereafter, the platform allows for client onboarding onto the unit trust platform.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4791,7 +4791,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -4800,7 +4800,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -4863,7 +4863,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This includes helping business banking clients start, run and grow their businesses. While nav» within FNB covers both retail and business segments, our team focuses on the business banking space.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect’s nav» team works on building value-add offerings that FNB provides for their clients. <br /><br />nav» is a smart new tool designed to point you in the right direction when it comes to making decisions about your money. It's like a financial GPS that steers the way, wherever you need it most.<br /><br /><blockquote>These value-add offerings are aimed at providing services to customers that extend beyond traditional banking.</blockquote><br /><br />This includes helping business banking clients start, run and grow their businesses. While nav» within FNB covers both retail and business segments, our team focuses on the business banking space.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4890,7 +4890,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -4899,7 +4899,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -4908,7 +4908,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14427";i:1;s:5:"12980";i:2;s:5:"14436";i:3;s:5:"14414";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -4962,7 +4962,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The Entelect team is working alongside FNB Business Banking to build a new system which has helped FNB’s relationship managers on-board clients and manage the product offerings more efficiently. <br /><br />The CRM system, Apollo, automates and consolidates many business processes into a single system, and services business banking clients, ranging from SMEs to large corporates with multiple bank accounts. Apollo’s functionalities include business workflow, managing outstanding documentation and FICA requirements, and digital signature on mandates.<br /><br />Entelect’s technology services for Apollo extend from architecture and technology decision-making through to implementation, coaching and support. <br /><br />The Apollo solution has drastically shortened the new customer on-boarding from 30 days to 4 hours.<br /><br /><blockquote class=”quote-style-2”>“The work Entelect has done on Apollo has proved to be a worthwhile investment for us, as it’s yielded positive returns in the form of cost reduction in new sales acquisition, business process automation, as well as quicker and real-time delivery of products and services to our customers.”<span>- Nomaswati Mogashoa, Head: Assisted Channels at FNB Business</span></blockquote><br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -4989,7 +4989,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -4998,7 +4998,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009999]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009999%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -5007,7 +5007,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12979";i:1;s:5:"14402";i:2;s:5:"13037";i:3;s:5:"14398";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5060,7 +5060,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The system allowed the smart CRM to connect to the PABX, and also pull up a call centre script for the agent to refer to throughout the call.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Greenstone Financial Services approached Entelect to help with their call centre administration system.<br /><br />With approximately 400 call centre agents, the system would administer incoming calls and filter queries like cancellations directly to the correct agent. This allowed for more effective traffic control.<br /><br /><blockquote>The agents could then use the system to pull up the caller’s full client history, such as previous account details and policies.</blockquote><br /><br />The system allowed the smart CRM to connect to the PABX, and also pull up a call centre script for the agent to refer to throughout the call.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5105,7 +5105,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14424";i:1;s:5:"14402";i:2;s:5:"14413";i:3;s:5:"14433";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5159,7 +5159,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The questionnaire engine also required a designer tool to allow administrators to configure the look, feel and sectioning of different questions, plus white-label the web platform for different re-insurers.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Hollard Financial Services (now Greenstone Financial Services) in Australia required a new underwriting system which was able to import a questionnaire structure ‘mind map’, generated by the re-insurers and display that as a group of questions on a web platform. <br /><br />The questionnaire information needed to be shown to users in a simple multiple choice format. <br /><br /><blockquote>It had to include conditional, reflexive logic with routing down to different question paths based on answers to previous questions.</blockquote><br /><br />The questionnaire engine also required a designer tool to allow administrators to configure the look, feel and sectioning of different questions, plus white-label the web platform for different re-insurers.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5204,7 +5204,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14424";i:1;s:5:"14402";i:2;s:5:"14413";i:3;s:5:"14433";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5259,7 +5259,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect managed to prototype a seamless digital system that will provide a centralised data repository and mode of communication in turn improving overall efficiency and reducing cost to company.<br /><br />The entire process allowed Entelect to not only provide an effective solution, but to instil a clear UX direction which allowed us to make a big impact on the business in a short timeframe.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Hollard needed a design for an end-to-end digital system that simplified an ad hoc manual quoting process for marine brokers, as well as their clients. <br /><br /><blockquote>The system had to allow the broker to issue insurance autonomously and be simple enough to use that a direct client could do it themselves.</blockquote><br /><br />Entelect managed to prototype a seamless digital system that will provide a centralised data repository and mode of communication in turn improving overall efficiency and reducing cost to company.<br /><br />The entire process allowed Entelect to not only provide an effective solution, but to instil a clear UX direction which allowed us to make a big impact on the business in a short timeframe.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5286,7 +5286,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -5295,7 +5295,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -5304,7 +5304,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"12979";i:1;s:5:"14383";i:2;s:5:"14402";i:3;s:5:"14443";i:4;s:5:"14363";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5361,7 +5361,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Entelect provides a number full-service and full-stack software engineering teams to Hollard in South Africa, enabling them to build out strategic solutions at high speed.<br /><br />The projects we’re running and/or supporting include online customer self-service, corporate web presence, mobile applications, converged APIs, broker quoting tools and digital marketing initiatives. <br /><br />This included their funeral insurance and car insurance product quotations.<br /><br />Entelect helped build the back-end for the Hollard mobile app, and redeveloped their client portal.<br /><br />“I’ve had only good experiences working with Entelect. They are experts in their field, their technical abilities are first-class and you won’t go wrong working with them.”- Liesl Dembovsky, Digital Platform Manager at Hollard]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect provides a number full-service and full-stack software engineering teams to Hollard in South Africa, enabling them to build out strategic solutions at high speed.<br /><br />The projects we’re running and/or supporting include online customer self-service, corporate web presence, mobile applications, converged APIs, broker quoting tools and digital marketing initiatives. <br /><br />This included their funeral insurance and car insurance product quotations.<br /><br />Entelect helped build the back-end for the Hollard mobile app, and redeveloped their client portal.<br /><br /><blockquote class=”quote-style-2”>“I’ve had only good experiences working with Entelect. They are experts in their field, their technical abilities are first-class and you won’t go wrong working with them.”<span>- Liesl Dembovsky, Digital Platform Manager at Hollard</span></blockquote>]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5388,7 +5388,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -5397,7 +5397,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -5406,7 +5406,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"12979";i:1;s:5:"14383";i:2;s:5:"14402";i:3;s:5:"14443";i:4;s:5:"14363";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5460,7 +5460,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The application handles complex integrations with the line-of-business system to provide the users with a real-time view of clients and quotes across all branches nationwide and ensures that the rating across branches is consistent.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Hollard required an intuitive and efficient web application to bring their commercial insurance quoting process into the 21st century. Being aware of the barriers of adoption, Entelect created an application that is flexible enough for the users to adopt <br /><br /><blockquote>The application still enforces the underwriting and rating rules defined by the actuarial team.</blockquote><br /><br />The application handles complex integrations with the line-of-business system to provide the users with a real-time view of clients and quotes across all branches nationwide and ensures that the rating across branches is consistent.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5487,7 +5487,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -5496,7 +5496,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#442358]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23442358%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -5505,7 +5505,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:5:{i:0;s:5:"12979";i:1;s:5:"14383";i:2;s:5:"14402";i:3;s:5:"14443";i:4;s:5:"14363";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5561,7 +5561,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />After the initial architecture analysis and designing, an Entelect team implemented a solution to replace their existing IoT Hub utilising a number of Microsoft Azure services.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Insure Telematics Solutions (ITS), a leading UK-based provider of telematics devices and systems for automotive insurance, partnered with Entelect to develop a data strategy that could support their increasing data needs and give them access to the data in a way that would allow them to tackle new business opportunities and challenges. <br /><br /><blockquote>Entelect assisted with designing and building a new architecture for ITS’s IoT solution, with a view towards how new technology will allow them to continue scaling.</blockquote><br /><br />After the initial architecture analysis and designing, an Entelect team implemented a solution to replace their existing IoT Hub utilising a number of Microsoft Azure services.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5606,7 +5606,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14399";i:1;s:5:"14419";i:2;s:5:"14381";i:3;s:5:"14421";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5662,7 +5662,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The solution is completely mobile, enabling the advisory in the field to produce life insurance quotes real-time on their laptops.<br /><br />It also allows brokers to capture electronic proposals and kick off the policy initiation and underwriting processes automatically.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect has engaged with Liberty’s retail unit to assist in the redesign and implementation of their mobile insurance broker solutions. <br /><br /><blockquote>The project offers an in-the-field mobile solution which allows brokers to capture client applications and provide real-time quotes with their mobile devices and easily integrate with line-of-business systems.</blockquote><br /><br />The solution is completely mobile, enabling the advisory in the field to produce life insurance quotes real-time on their laptops.<br /><br />It also allows brokers to capture electronic proposals and kick off the policy initiation and underwriting processes automatically.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5707,7 +5707,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14407";i:1;s:5:"14442";i:2;s:5:"14393";i:3;s:5:"14397";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5763,7 +5763,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The second component is the call centre dashboard for MyLiberty that allows agents to view user account status and log into MyLiberty on behalf of a client to assist with registration issues.<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Liberty approached Entelect to build their MyLiberty platform. MyLiberty is the client facing website for Liberty. The purpose for MyLiberty is two-fold:<br /><br />1. Help clients take control of their financial independence by giving them a real-time view of the performance of their policies.<br /><br />2. Gives clients the ability to make basic service changes without having to go through a call-centre or financial advisor.<br /><br /><blockquote>This makes clients less reliant on financial advisors and call centre agents.</blockquote><br /><br />The second component is the call centre dashboard for MyLiberty that allows agents to view user account status and log into MyLiberty on behalf of a client to assist with registration issues.<br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5863,7 +5863,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The system interfaces with new systems like the InTouch App and existing systems like BPO, helping to bridge the gaps faced by client’s in their journey with Liberty. These gaps range from improving the Underwriting process to simpler tasks of pre-populating digital/digitised application forms where possible. <br /><br />Entelect also developed an admin portal, which enables the monitoring and analysis requests for data via consumers of the Client Connect Portal.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Liberty partnered with Entelect to work on the Liberty Client Connect Portal. <br /><br /><blockquote>The portal is designed to connect advisors to potential clients to help improve the on-boarding journey when considering Liberty’s Risk Products.</blockquote><br /><br />The system interfaces with new systems like the InTouch App and existing systems like BPO, helping to bridge the gaps faced by client’s in their journey with Liberty. These gaps range from improving the Underwriting process to simpler tasks of pre-populating digital/digitised application forms where possible. <br /><br />Entelect also developed an admin portal, which enables the monitoring and analysis requests for data via consumers of the Client Connect Portal.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -5908,7 +5908,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"14433";i:1;s:5:"14354";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -5964,7 +5964,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Stash also helps users save with its Sunny Money feature that checks the weather and stashes money safely away if it’s sunny. <br /><br />Entelect supports the entire SDLC, including two native mobile apps, with a comprehensive full stack team. This includes new feature development, technical support as well as facilitating the Agile development process.<br /><br />Stash currently has 32 000+ active investors with R23 million assets under management.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect has worked with Liberty to develop an innovative tool to drive micro-investing.<br /><br /><blockquote>Stash is an innovative tax-free equity-based investment platform that helps users save while ‘on-the-go’.</blockquote><br /><br />Stash also helps users save with its Sunny Money feature that checks the weather and stashes money safely away if it’s sunny. <br /><br />Entelect supports the entire SDLC, including two native mobile apps, with a comprehensive full stack team. This includes new feature development, technical support as well as facilitating the Agile development process.<br /><br />Stash currently has 32 000+ active investors with R23 million assets under management.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6009,7 +6009,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14412";i:1;s:5:"12976";i:2;s:5:"12977";i:3;s:5:"14364";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6063,7 +6063,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect was involved from the initial scoping and delivery scheduling, and moved into the management and final implementation of the project. <br /><br />Our team worked closely with the Lightstone technical and business team, resulting in a successful project outcome by providing the client with the ability to easily scale and add new features into the platform.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Lightstone provides information, valuations and market intelligence on properties in South Africa. Their Property Toolkit gives subscribers access to a set of tailored Residential Property reports.<br /><br />As one of their service offerings in their set, the Lightstone EZVal property valuation system is used as a portal for banks to request a property valuation and facilitate the bonding and asset evaluation process.  The system is also directly integrated into various banks for both incoming requests and outgoing results. <br /><br /><blockquote>Entelect was engaged to manage the rewrite of EZVal while also introducing new features and client requirements.</blockquote><br /><br />Entelect was involved from the initial scoping and delivery scheduling, and moved into the management and final implementation of the project. <br /><br />Our team worked closely with the Lightstone technical and business team, resulting in a successful project outcome by providing the client with the ability to easily scale and add new features into the platform.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6108,7 +6108,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"14433";i:1;s:5:"14354";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6163,7 +6163,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />We were required to do an entire migration of the development and test hosting to the Domofond environment. Entelect also assisted with implementing a new listing capture feature, as well as a realtor recommendation. <br /><br />We used a distributed team model while alongside Property24 and made use of a virtual office concept to ensure seamless collaboration. This allowed us to communicate regularly with Domofond, and held weekly meetings on priority and new features to be added.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect and Property24 worked together to create a property website for Domofond. Domofond is the leading real estate vertical in Russia. <br /><br /><blockquote>Together we were able to create a fast and reliable search engine for finding and advertising real estate in the country.</blockquote><br /><br />We were required to do an entire migration of the development and test hosting to the Domofond environment. Entelect also assisted with implementing a new listing capture feature, as well as a realtor recommendation. <br /><br />We used a distributed team model while alongside Property24 and made use of a virtual office concept to ensure seamless collaboration. This allowed us to communicate regularly with Domofond, and held weekly meetings on priority and new features to be added.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6263,7 +6263,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Design and user experience were key factors from the start of the project in order to ensure better user journeys. Some of the functionalities include purchasing of airtime, data bundles, fibre to the home, prepaid electricity, and payment towards DStv subscriptions.<br /><br />Entelect is also currently building the front-end for MyZaka Mascom Money – a mobile money service that offers Mascom customers a convenient and secure way to send, receive, buy and pay using their mobile phones anywhere in Botswana.<br /><br />The next phase is building the Mascom mobile app for both iOS and Android.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Mascom is Botswana's leading telecommunications provider with a network coverage of 95% of the population. Mascom partnered with Entelect to design, build and implement their online portal.<br /><br /><blockquote>The Entelect team sits remotely in Johannesburg and has a clear line of communication with the team in Gaborone through frequent stand-ups, sprint planning and retrospectives.</blockquote><br /><br />Design and user experience were key factors from the start of the project in order to ensure better user journeys. Some of the functionalities include purchasing of airtime, data bundles, fibre to the home, prepaid electricity, and payment towards DStv subscriptions.<br /><br />Entelect is also currently building the front-end for MyZaka Mascom Money – a mobile money service that offers Mascom customers a convenient and secure way to send, receive, buy and pay using their mobile phones anywhere in Botswana.<br /><br />The next phase is building the Mascom mobile app for both iOS and Android.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6299,7 +6299,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#333333]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23333333%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -6308,7 +6308,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14354";i:1;s:5:"14433";i:2;s:5:"12977";i:3;s:5:"12976";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6360,7 +6360,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The No Funds platform goes beyond offering a static webpage, and MTN aims to use this project as a testing ground for innovative ways for interacting with subscribers, analysing usage to promote real data-driven decisions, and productising the platform across the various MTN operating countries.<br /><br />The platform engineered by Entelect aims to provide an enhanced user experience, surfacing product information to customers, and funnel traffic to MTN’s suite of applications such as Ayoba, MusicTime, and MoMo, and third-party advertisers. <br /><br />Additionally, the platform aims to reduce operating costs by intelligently optimising bandwidth for the site, and enabling AB split testing and dynamic content functionality.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[MTN have operated a basic but effective “No Funds” web page over the past several years which automatically presents balance information and a variety of free services to mobile users without data, driving traffic to products such as Ayoba and MusicTime, as well as allowing them to top up their balance in several ways.<br /><br /><blockquote>MTN intends to use this project as a testing ground for innovative ways to interact with customers, make data-driven decisions, and productise the platform.</blockquote><br /><br />The No Funds platform goes beyond offering a static webpage, and MTN aims to use this project as a testing ground for innovative ways for interacting with subscribers, analysing usage to promote real data-driven decisions, and productising the platform across the various MTN operating countries.<br /><br />The platform engineered by Entelect aims to provide an enhanced user experience, surfacing product information to customers, and funnel traffic to MTN’s suite of applications such as Ayoba, MusicTime, and MoMo, and third-party advertisers. <br /><br />Additionally, the platform aims to reduce operating costs by intelligently optimising bandwidth for the site, and enabling AB split testing and dynamic content functionality.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6504,7 +6504,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"14369";i:1;s:5:"14354";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6561,7 +6561,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Those metrics and sessions are synchronised from the skills simulator devices to an Azure hosted MSSQL server. Every hour a caching job runs to aggregate and calculate all the current data synchronised into proficiencies, time spent on simulators, passes and fails.<br /><br />The MScore user portal then displays the information in a graphical way to show the user their progress/proficiency in a curriculum/exercise and how that compares to the institution to which they belong. Institution administrators have access to see all the users of their institutes data for further evaluation.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[MScore is a surgical skill proficiency portal. The user simulates surgical skills on skill simulator devices which captures metrics for various exercises part of a curriculum.<br /><br /><blockquote>The portal measures a trainee’s level of proficiency, and uses the comprehensive metrics and experienced surgeon data of Mimic’s MScore.</blockquote><br /><br />Those metrics and sessions are synchronised from the skills simulator devices to an Azure hosted MSSQL server. Every hour a caching job runs to aggregate and calculate all the current data synchronised into proficiencies, time spent on simulators, passes and fails.<br /><br />The MScore user portal then displays the information in a graphical way to show the user their progress/proficiency in a curriculum/exercise and how that compares to the institution to which they belong. Institution administrators have access to see all the users of their institutes data for further evaluation.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6588,7 +6588,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#000000]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23000000%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -6606,7 +6606,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12978";i:1;s:5:"14387";i:2;s:5:"14425";i:3;s:5:"14364";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6661,7 +6661,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This is quantified as the continuous process of planning and managing an individual’s money so that they can afford their expenses (and reach their goals over their lifetime). As such, Entelect software engineering experts supported the Multiply journey towards creating a digital platform and front-ends for both web and mobile channels that blend personal financial management with transactional and servicing capabilities. <br /><br />The recently launched multi-channel solution is integrated to the Multiply rewards programme, and is easy to use and fun – guiding individuals on making better day-to-day decisions, and promoting spend-management.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[MMI is a preferred lifetime financial wellness partner to existing and new clients, with a reputation for innovation and trustworthiness. <br /><br /><blockquote>We were engaged in a project with MMI to promote the principles of financial wellness.</blockquote><br /><br />This is quantified as the continuous process of planning and managing an individual’s money so that they can afford their expenses (and reach their goals over their lifetime). As such, Entelect software engineering experts supported the Multiply journey towards creating a digital platform and front-ends for both web and mobile channels that blend personal financial management with transactional and servicing capabilities. <br /><br />The recently launched multi-channel solution is integrated to the Multiply rewards programme, and is easy to use and fun – guiding individuals on making better day-to-day decisions, and promoting spend-management.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6706,7 +6706,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14356";i:1;s:5:"12977";i:2;s:5:"12979";i:3;s:5:"14417";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6761,7 +6761,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This involved taking ownership of the analysis and specification phase, project management, software and solution architecture, system development, deployment and post production support. <br /><br />After successful deployment of the new Multiply system, customers now have access to a wide range of tools, assessments, advice and incentives for clients to adapt their behaviour to improve their overall wellbeing.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Momentum Multiply is a leading South African wellness and customer loyalty program which offers members awards and discounts for maintaining a healthy lifestyle. Entelect was commissioned by Momentum to provide a full analysis of the current IT environment<br /><br /><blockquote>Entelect made suggestions regarding improved IT architecture and redesigned the Multiply portal.</blockquote> <br /><br />This involved taking ownership of the analysis and specification phase, project management, software and solution architecture, system development, deployment and post production support.  <br /><br />After successful deployment of the new Multiply system, customers now have access to a wide range of tools, assessments, advice and incentives for clients to adapt their behaviour to improve their overall wellbeing. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6806,7 +6806,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14391";i:1;s:5:"14442";i:2;s:5:"14385";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6861,7 +6861,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />- Smart Underwriting<br />- Smart Exits<br />- Smart Retirement<br />- Smart Onboarding<br />- Multiply for Corporates<br /><br />This includes upgrades to the technology tool chain and the introduction of modern software quality practices.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The Entelect software development teams at Momentum Corporate work across a variety of projects aimed creating new or enhanced digital experiences for products across the group. <br /><br />Entelect's mandate extends to upliftment of the technology ecosystem. <br /><br /><blockquote>Our teams have been instrumental in the design and implementation of several solutions in the following spaces:</blockquote><br /><br />- Smart Underwriting<br />- Smart Exits<br />- Smart Retirement<br />- Smart Onboarding<br />- Multiply for Corporates<br /><br />This includes upgrades to the technology tool chain and the introduction of modern software quality practices.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -6906,7 +6906,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"13035";i:1;s:5:"13037";i:2;s:5:"13042";i:3;s:5:"13044";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -6961,7 +6961,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[Entelect was approached by Nando’s to assist with a point-of-sale project. <br /><br />The nature of the project was to produce a detailed list of needs in order to compare against various products and services to select and standardise on one point-of-sale system across all Nando’s stores. <br /><br />We required input from all levels of the organisation and collation and discovery of current and future business drivers.<br /><br />It involved cross-selling of business drivers within the organisation in order obtain mutual agreement on priorities and expectations of practical outcomes.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect was approached by Nando’s to assist with a point-of-sale project. <br /><br />The nature of the project was to produce a detailed list of needs in order to compare against various products and services to select and standardise on one point-of-sale system across all Nando’s stores. <br /><br /></blockquote>We required input from all levels of the organisation and collation and discovery of current and future business drivers.</blockquote><br /><br />It involved cross-selling of business drivers within the organisation in order obtain mutual agreement on priorities and expectations of practical outcomes.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7058,7 +7058,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect teams were engaged end-to-end as the technology partner along this journey.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Old Mutual Digital was formed with the aim of helping the group achieve several ambitious Digital Transformation goals. <br /><br />Driven by modern customer expectations and an appetite to both refresh and differentiate the brand in South Africa, one such objective was to re-imagine the mobile channels offered to customers across both Wealth and Personal banking businesses. <br /> <br /><blockquote>On Old Mutual’s 175th birthday in 2020, My Old Mutual and My Old Mutual Wealth were launched with full UX and engineering overhauls.</blockquote><br /><br />Entelect teams were engaged end-to-end as the technology partner along this journey.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7085,7 +7085,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009678]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009678%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -7094,7 +7094,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009678]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009678%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -7155,7 +7155,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /> <br />They wanted a way to keep the look and feel consistent while giving each country the freedom to build and update the content of each site. <br /> <br />To date, the web team has consistently built seven new public websites that easily displays information on our solutions and capabilities, with some of the websites delivered also having e-commerce services included.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect and Old Mutual built a new public-facing web application. It was built as a platform that could be used for multiple countries and sites in South Africa, Botswana, Eswatini, Malawi, Namibia, Zimbabwe, and for Old Mutual Invest. <br /><br /><blockquote>The scope of the project was to build a single converged web platform that could be used across the whole Old Mutual group of companies.</blockquote><br /> <br />They wanted a way to keep the look and feel consistent while giving each country the freedom to build and update the content of each site. <br /> <br />To date, the web team has consistently built seven new public websites that easily displays information on our solutions and capabilities, with some of the websites delivered also having e-commerce services included.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7182,7 +7182,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009678]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009678%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -7191,7 +7191,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#009678]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23009678%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -7272,7 +7272,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_2]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The Omnia mobile and web solutions provide internal agronomists and sales representatives with a consolidated view of Omnia Fertilizer’s recommendation and sales processes, equipping the team with efficient tools to handle administrative tasks and adding value to their clients’ businesses.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Several years ago Omnia and Entelect put heads together for the first time to put real technology passion and skill behind a set of novel and innovative agritech ideas. Entelect provides Omnia with guidance and implementation of big data, cloud strategy, and digitisation.<br /><br /><blockquote>Agricultural advisors can provide farmers with advanced data-driven services that should increase yields, improve efficiencies, reduce risk and ensure long-term sustainability.</blockquote><br /><br />The Omnia mobile and web solutions provide internal agronomists and sales representatives with a consolidated view of Omnia Fertilizer’s recommendation and sales processes, equipping the team with efficient tools to handle administrative tasks and adding value to their clients’ businesses.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_2]]></wp:meta_key>
@@ -7299,7 +7299,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:6:{i:0;s:5:"14357";i:1;s:5:"14391";i:2;s:5:"14360";i:3;s:5:"12976";i:4;s:5:"12969";i:5;s:5:"14420";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -7372,7 +7372,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_2]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Effectively the solution enables and empowers the organisation to transition away from many manual and disparate process towards a centralised set of data and workflows which have allowed POWERX to scale.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect partnered with the team at POWERX to conceive, formulate and build the end-to-end platform which supports their core business functions related to sales tracking, supply and demand, allocation and reporting.<br /><br /><blockquote>This new platform is now managing all aspects of the business cycle without overcomplicating functions and roles – an important consideration for their smaller operations team.</blockquote><br /><br />Effectively the solution enables and empowers the organisation to transition away from many manual and disparate process towards a centralised set of data and workflows which have allowed POWERX to scale.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_2]]></wp:meta_key>
@@ -7399,7 +7399,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14402";i:1;s:5:"13037";i:2;s:5:"14433";i:3;s:5:"14437";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -7453,7 +7453,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This project focused specifically on identifying behavioural changes in trading patterns for various clients across multiple instruments and provide a means to measure and analyse these behavioural changes in a quantifiable manner.<br /><br />This time series data science problem extracts the mean shift of trading volume and value from clients, showing the optimal number of break points of a client’s trading behaviour.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect partnered with Rand Merchant Bank (RMB), one of South Africa’s largest Global Markets banking providers to service business intelligence and data science capabilities to several internal departments. <br /><br /><blockquote>The Global Markets offering spans across the fixed income, currency and credit markets to offer strategic insight across multiple sectors.</blockquote><br /><br />This project focused specifically on identifying behavioural changes in trading patterns for various clients across multiple instruments and provide a means to measure and analyse these behavioural changes in a quantifiable manner.<br /><br />This time series data science problem extracts the mean shift of trading volume and value from clients, showing the optimal number of break points of a client’s trading behaviour. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7498,7 +7498,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14384";i:1;s:5:"14381";i:2;s:5:"14362";i:3;s:5:"14433";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -7552,7 +7552,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect supported their new client-driven analysis, assisting the finance department to do financial and client reporting, and upskilling the team on Power BI.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect architected, implemented and now supports an end-to-end data warehouse that encompasses most of the RMB Corporate Banking product offering. The project included building reporting cubes for all the bank’s products. <br /><br /><blockquote>This data warehouse is used to support financial, as well as operational decision making.</blockquote><br /><br />Entelect supported their new client-driven analysis, assisting the finance department to do financial and client reporting, and upskilling the team on Power BI.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7597,7 +7597,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14371";i:1;s:5:"14374";i:2;s:5:"14368";i:3;s:5:"14432";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -7649,7 +7649,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The RASCL (RGA’s Automated System for Claims Leakage) system, is a data-driven rules engine that was designed to integrate into an insurer’s existing claims process flow, allowing for an evolving feedback mechanism.<br /> <br />Further building on the static rulesets that is offered, several machine learning validations have been built leveraging on the scale of RGA’s data.<br /><br />RASCL also offers insurers and third-party administrators the functionality of capturing and viewing claims via a client portal.<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Reinsurance Group of America (RGA) specialises in providing life and health-related reinsurance and financial solutions to help their clients effectively manage risk and capital.<br /><br /><blockquote>RGA required a system that would aid in identifying fraudulent or potentially incorrect actioned claims.</blockquote><br /><br />The RASCL (RGA’s Automated System for Claims Leakage) system, is a data-driven rules engine that was designed to integrate into an insurer’s existing claims process flow, allowing for an evolving feedback mechanism.<br /> <br />Further building on the static rulesets that is offered, several machine learning validations have been built leveraging on the scale of RGA’s data.<br /><br />RASCL also offers insurers and third-party administrators the functionality of capturing and viewing claims via a client portal.<br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7748,7 +7748,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This solution supported dynamic surveying, instant and parameterised loading calculations, easy integratability and flexible deployment strategies.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Reinsurance Group of America (RGA) required an automated way to provided insurers with the results of underwriting evaluation, in real time. <br /><br />Entelect developed a bespoke e-underwriting platform for the RGA team.<br /><br /><blockquote>The platform can service the local market at a lower capital and operational cost to existing bulky offerings.</blockquote><br /><br />This solution supported dynamic surveying, instant and parameterised loading calculations, easy integratability and flexible deployment strategies.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -7793,7 +7793,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14410";i:1;s:5:"14416";i:2;s:5:"12975";i:3;s:5:"14358";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -7866,7 +7866,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_2]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />By building payroll integration connectors, creating the ability to dynamically complete scenario planning and ultimately automate score calculations, the Entelect delivery team continues to make it easier for the Sage BEE123 clients to adhere and surpass their B-BBEE programme goals.<br /><br />We continue to work closely with the Sage BEE123 product owner as technical advisors, delivery and execution teams. Our work includes full-stack software development services, database optimisation and continued innovation – to ensure optimal performance, while always pushing the product forward.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[From day one, and over the last five years, Entelect has nurtured the technology requirements from conception through to market readiness – of what is now a successful commercial venture used by the top South African enterprise-level companies.<br /><br /><blockquote>Entelect's ownership of the technical delivery stream extended into the advisement of the end-customers on how to directly integrate for an end-to-end automated solution.</blockquote><br /><br />By building payroll integration connectors, creating the ability to dynamically complete scenario planning and ultimately automate score calculations, the Entelect delivery team continues to make it easier for the Sage BEE123 clients to adhere and surpass their B-BBEE programme goals.<br /><br />We continue to work closely with the Sage BEE123 product owner as technical advisors, delivery and execution teams. Our work includes full-stack software development services, database optimisation and continued innovation – to ensure optimal performance, while always pushing the product forward.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_2]]></wp:meta_key>
@@ -7875,7 +7875,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#003249]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23003249%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -7884,7 +7884,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#003249]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23003249%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -7993,7 +7993,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"12979";i:1;s:5:"14431";i:2;s:5:"12969";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8047,7 +8047,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /> <br />Our technology partnership needed to deliver all web development requirements within Silica's large product architecture. <br /><br />Software streams catered both for internal initiatives and for several Silica customers indirectly. Entelect teams flexed over this multi-year journey, and covered all technology disciplines including custom software, business analysis and data solutions.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Silica is one of South Africa's leading business process outsourcing and technology companies, specialising in the provision of investment product and shareholder administration services and solutions to Africa, Europe, the Middle East and Asia.<br /> <br /><blockquote>Dedicated Entelect teams were created for several parallel workstreams, multiple commercial models and variable skill and capacity requirements.</blockquote><br /> <br />Our technology partnership needed to deliver all web development requirements within Silica's large product architecture. <br /><br />Software streams catered both for internal initiatives and for several Silica customers indirectly. Entelect teams flexed over this multi-year journey, and covered all technology disciplines including custom software, business analysis and data solutions.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8146,7 +8146,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />These systems tended to lead to archaic practices and process for business, increasing inefficiencies and increased costs. Key deliverable was to create a simple, secure, efficient, modern service-based API to facilitate multi-party and multi-application integration to cater toward demand from clients and partners for direct integration which weren’t available in the legacy systems. <br /><br />The system fosters a customisable, continuously evolving, online ‘financial eco-system’ with advisors, investors, and integrators. At the same time, it minimises costs, maximises efficiency and increase market competitiveness.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Silica and Entelect embarked on a set of projects to revamp and reengineer the Investec Asset Management Services (in the future to be known as Ninety One‎). <br /><br /><blockquote>The aim was to replace a set of legacy systems that were aging in both process and technology, that weren’t flexible, scalable or easily maintainable.</blockquote><br /><br />These systems tended to lead to archaic practices and process for business, increasing inefficiencies and increased costs. Key deliverable was to create a simple, secure, efficient, modern service-based API to facilitate multi-party and multi-application integration to cater toward demand from clients and partners for direct integration which weren’t available in the legacy systems. <br /><br />The system fosters a customisable, continuously evolving, online ‘financial eco-system’ with advisors, investors, and integrators. At the same time, it minimises costs, maximises efficiency and increase market competitiveness.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8245,7 +8245,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Providing a mobile framework that would empower users with functionality that would accelerate traditional operational processes. <br /><br />Entelect was chosen as the Smollan partner of choice due to our large-scale capacity, and our reputation as industry and technical leaders.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Core to Smollan, is the use of mobile field technology, designed to enable growth for brands by efficiently capturing and delivering real-time information for brand activations. <br /><br /><blockquote>Entelect successfully developed a dynamic and rich mobile survey platform that provides rich editing and data collection features to Smollan.</blockquote><br /><br />Providing a mobile framework that would empower users with functionality that would accelerate traditional operational processes. <br /><br />Entelect was chosen as the Smollan partner of choice due to our large-scale capacity, and our reputation as industry and technical leaders.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8272,7 +8272,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#002447]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23002447%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
@@ -8281,7 +8281,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[#002447]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23002447%]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
@@ -8290,7 +8290,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14401";i:1;s:5:"12969";i:2;s:5:"14373";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8346,7 +8346,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect provided a dedicated team to architect and build a custom sales solution that provided ubiquitous access to sales, leads and customer information across web browsers and iPads.<br /><br />The portal included full offline functionality, document management, signing and workflow tracking.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Spectramed (now Health Squared Medical Scheme after merging with Resolution Health) is a leading medical and financial services provider in South Africa. <br /><br /><blockquote>Spectramed required a sales tracking and management portal that could be used seamlessly by their sales force out in the field (called Spectramed Pulse).</blockquote><br /><br />Entelect provided a dedicated team to architect and build a custom sales solution that provided ubiquitous access to sales, leads and customer information across web browsers and iPads.<br /><br />The portal included full offline functionality, document management, signing and workflow tracking.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8391,7 +8391,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"14369";i:1;s:5:"14354";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8447,7 +8447,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The team also helped build a solution for license disk renewal. This also included some of the back-end API integration and integration with 3rd party service providers. <br /><br />While doing the mobile dev for license disk we worked in parallel to make the lotto games available on web for Standard Bank’s internet banking site. We followed an approach where we had to use a different tech stack than the main internet banking website so that we can futureproof the work to fit in with their future digital strategy. <br /><br />Lotto for web is also in production with Lotto and Powerball, with Daily Lotto in its final testing.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Due to Entelect’s existing relationship with Standard Bank, we were approached to build the Android Lotto playing functionality for Standard Bank’s retail banking mobile application.<br /><br /><blockquote>An Entelect team did analysis, UX design and development for the Android platform, and also helped out with the iOS analysis and design.</blockquote><br /><br />The team also helped build a solution for license disk renewal. This also included some of the back-end API integration and integration with 3rd party service providers. <br /><br />While doing the mobile dev for license disk we worked in parallel to make the lotto games available on web for Standard Bank’s internet banking site. We followed an approach where we had to use a different tech stack than the main internet banking website so that we can futureproof the work to fit in with their future digital strategy. <br /><br />Lotto for web is also in production with Lotto and Powerball, with Daily Lotto in its final testing.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8492,7 +8492,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14357";i:1;s:5:"14391";i:2;s:5:"12977";i:3;s:5:"12969";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8546,7 +8546,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect also developed a risk warehouse which acted as a central repository for control first and enrich and include a variety of risk data across the bank.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect conducted a large end-to-end digital solution development exercise with Standard Bank Group Control. <br /><br />Our shared goal was to completely architect a control, risk and indicator capture platform used by thousands of international employees daily to track and manage risk controls across departments and borders.<br /><br />This project saw a full-service software team work on site directly with the Group Control analysts, product owners and other key business and IT stakeholders.<br /><br /><blockquote>The control capture system provides Standard Bank with early warning indicators to mitigate and report on risk.</blockquote><br /><br />Entelect also developed a risk warehouse which acted as a central repository for control first and enrich and include a variety of risk data across the bank.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8591,7 +8591,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14357";i:1;s:5:"14391";i:2;s:5:"14360";i:3;s:5:"12969";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8645,7 +8645,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The aim was to create an accessible forex trading solution that focuses on time. Time being the main factor with most forex application out there as booking trades can be a cumbersome process at times. The aim wasn’t to imitate similar solutions that already exist but to find the gap within these solutions and focus on the missing piece. Therefore, we aimed to simplify the viewing process for currency pairs within the African region, and allow for setting currency pairs to a watch list and setting alerts for rates. <br /><br />Standard Bank is the global leader in providing clients with accurate and reliable information with regards to the African financial markets.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is working with Standard Bank on their African Markets Tracker (AMT) platform. AMT affords uses with the opportunity to in manage the movements in African financial markets. The application is available allows you to monitor African currencies, set alerts and trade forex. <br /> <br /><blockquote>The application provides users with an easy digitised platform to leverage Standard Banks in-depth African markets knowledge to actively manage your forex transactions.</blockquote><br /><br />The aim was to create an accessible forex trading solution that focuses on time. Time being the main factor with most forex application out there as booking trades can be a cumbersome process at times. The aim wasn’t to imitate similar solutions that already exist but to find the gap within these solutions and focus on the missing piece. Therefore, we aimed to simplify the viewing process for currency pairs within the African region, and allow for setting currency pairs to a watch list and setting alerts for rates.  <br /><br />Standard Bank is the global leader in providing clients with accurate and reliable information with regards to the African financial markets.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8690,7 +8690,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14405";i:1;s:5:"14418";i:2;s:5:"12976";i:3;s:5:"12977";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -8745,7 +8745,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect is currently involved in the following projects:<br />- Risk App Store: The platform, pipeline and architecture in its entirety<br />- Digital Credit Paper: An application that digitises the processes for approving and declining corporate loans<br />- Legal Agent: An application to automate and generate legal documents<br />- Market Risk Limits: An application to measure the market risk exposures and alert limit breaches regarding trades and investments<br />- Covenant Tracker: An application to track all covenants regarding loans and deals<br />- Credit Consideration Matrix: An application to set up regulated question answers for big customers that is used to measure its risk when approving or declining a loan<br />- Property Valuation: An application to capture and calculate large properties’ market value<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Within CIB Risk at Standard Bank, the “Risk App Store” is a shared platform for the Corporate and division to leverage data, applications and infrastructure right across the customer lending journey.<br /><br /><blockquote>The Risk App Store is responsible for providing a single platform to the business users, and allowing developers to rapidly add and digitise CIB Risk processes that are inefficient.</blockquote><br /><br />Entelect is currently involved in the following projects:<br />- Risk App Store: The platform, pipeline and architecture in its entirety<br />- Digital Credit Paper: An application that digitises the processes for approving and declining corporate loans<br />- Legal Agent: An application to automate and generate legal documents<br />- Market Risk Limits: An application to measure the market risk exposures and alert limit breaches regarding trades and investments<br />- Covenant Tracker: An application to track all covenants regarding loans and deals<br />- Credit Consideration Matrix: An application to set up regulated question answers for big customers that is used to measure its risk when approving or declining a loan<br />- Property Valuation: An application to capture and calculate large properties’ market value<br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8844,7 +8844,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Legal Agent’s primary purpose is to handle the automated generation of legal contracts. Above and beyond that the system allows credit, legal and client coordination staff to collaborate on a legal agreement to ensure that the customer’s needs are tailored for.<br /><br />The system is moving to a phase where any department in the bank will be able to create and manage their own custom legal agreement templates used to generate their required legal agreements.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is involved in several projects in the Standard Bank Corporate and Investment Banking (CIB) Risk division. <br /><br /><blockquote>One of these projects was an application to automate and generate legal documents – Legal Agent  – developed and added to the Risk App Store.</blockquote><br /><br />Legal Agent’s primary purpose is to handle the automated generation of legal contracts. Above and beyond that the system allows credit, legal and client coordination staff to collaborate on a legal agreement to ensure that the customer’s needs are tailored for.<br /><br />The system is moving to a phase where any department in the bank will be able to create and manage their own custom legal agreement templates used to generate their required legal agreements.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8943,7 +8943,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect have further provided full-stack development services and technical leadership for the development of numerous digital banking products for Standard Bank which are unique in the South African market. <br /><br />The teams and products where Entelect is partnered include internet banking, online share trading, and back-end transaction fulfilment functionality.<br /><br />Entelect is involved in the Online Business Banking(OBB) functionality and Security for Standard Bank’s Internet banking offering. OBB is focusing on onboarding small and medium enterprise clients onto the OBB platform<br /> <br />Our security team is focused on applying modern security features and architecture to Standard Bank’s existing environment.<br /><br />]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect partnered with Standard Bank and runs the technical side of the AIMS solution at Standard Bank Digital. <br /><br /><blockquote>The solution represents a subset of functionality for online and mobile banking which provides insights into banking habits and customer financial intelligence on spending.</blockquote><br /><br />Entelect have further provided full-stack development services and technical leadership for the development of numerous digital banking products for Standard Bank which are unique in the South African market. <br /><br />The teams and products where Entelect is partnered include internet banking, online share trading, and back-end transaction fulfilment functionality.<br /><br />Entelect is involved in the Online Business Banking(OBB) functionality and Security for Standard Bank’s Internet banking offering. OBB is focusing on onboarding small and medium enterprise clients onto the OBB platform<br /> <br />Our security team is focused on applying modern security features and architecture to Standard Bank’s existing environment.<br /><br />]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -8988,7 +8988,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14379";i:1;s:5:"14415";i:2;s:5:"12969";i:3;s:5:"12979";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9042,7 +9042,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The new electronic booking system is saving the business unit hundreds of hours in time, and many more in scheduling conflict resolution.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect designed, built and supports an electronic booking system for the telematics department at University of – used to schedule, book and record the activities of the broadcast studio, videoconferencing facilities and mobile camera unit. <br /><br /><blockquote>The system automates the process of assigning, tracking and invoicing for these facilities.</blockquote><br /><br />The new electronic booking system is saving the business unit hundreds of hours in time, and many more in scheduling conflict resolution.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9087,7 +9087,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14391";i:1;s:5:"12975";i:2;s:5:"14411";i:3;s:5:"13037";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9142,7 +9142,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[The faculty of Medicine and Health Sciences at Stellenbosch University partnered with Entelect to revamp their placement process for medical students.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The faculty of Medicine and Health Sciences at Stellenbosch University partnered with Entelect to revamp their placement process for medical students. ]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9160,7 +9160,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_2]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />The solution extends to full curriculum management to accurately track resource utilisation and enable cost recovery from state funding.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[<br />The challenge was that different departments within the faculty used various platforms for student placements, and that the business management function of the faculty needed a central management portal. The solution was to design and develop an app that supports the faculty in the management of student placements at over 150 medical facilities as part of their clinical training. <br /><br /><blockquote>Entelect’s solution was to create a robust software solution that would ultimately be able to scale across the entire university.</blockquote><br /><br />The solution extends to full curriculum management to accurately track resource utilisation and enable cost recovery from state funding.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_2]]></wp:meta_key>
@@ -9187,7 +9187,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14391";i:1;s:5:"12975";i:2;s:5:"14411";i:3;s:5:"13037";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9242,7 +9242,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Entelect provided the technical direction, architecture and development services which allowed DGL to build and launch the revamped digital gaming league platform which supports complex leagues, cups, ladders and tournaments for first and third party organisers.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect worked alongside Telkom’s gaming division (DGL) in 2016. <br /><br /><blockquote>The goal was to reimagine and rebuild Telkom’s gaming presence entirely.</blockquote><br /><br />Entelect provided the technical direction, architecture and development services which allowed DGL to build and launch the revamped digital gaming league platform which supports complex leagues, cups, ladders and tournaments for first and third party organisers.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9287,7 +9287,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:3:{i:0;s:5:"14391";i:1;s:5:"14408";i:2;s:5:"14427";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9341,7 +9341,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[The Transnet Engineering OEM strategy includes offering electrical equipment and digital solutions bundled with the sale of a locomotive or wagon. One such digital solution is the Locomotive Condition Monitoring System (LCMS) which is an IoT communication or gateway device fitted on-board locomotives. <br /><br />Entelect has partnered with Transnet Engineering to design and develop the powerful and robust IoT management portal on top of the Microsoft Azure IoT stack.<br /><br />“We were pleasantly surprised with how much work was completed by Entelect in the short time period without compromising its quality. My guys have spoken highly of the Entelect development team – especially their willingness to adapt as they made sure everything was as we needed for optimum operational usage.”– Susan Mani, Principal Engineer at Transnet Engineering]]></wp:meta_value>
+      <wp:meta_value><![CDATA[The Transnet Engineering OEM strategy includes offering electrical equipment and digital solutions bundled with the sale of a locomotive or wagon. One such digital solution is the Locomotive Condition Monitoring System (LCMS) which is an IoT communication or gateway device fitted on-board locomotives. <br /><br />Entelect has partnered with Transnet Engineering to design and develop the powerful and robust IoT management portal on top of the Microsoft Azure IoT stack.<br /><br /><blockquote class=”quote-style-2”>“We were pleasantly surprised with how much work was completed by Entelect in the short time period without compromising its quality. My guys have spoken highly of the Entelect development team – especially their willingness to adapt as they made sure everything was as we needed for optimum operational usage.”<span>– Susan Mani, Principal Engineer at Transnet Engineering</span></blockquote>]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9386,7 +9386,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"12978";i:1;s:5:"14388";i:2;s:5:"14389";i:3;s:5:"12975";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9438,7 +9438,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This included moving the platform to the Microsoft Azure cloud infrastructure, allowing for resources to be ramped up quickly during high-load auctions. Other functional enhancements have also been made to platform to ensure a robust and feature-rich auction platform is presented to Trans Atlantic Gem Sales’ client base.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Trans Atlantic Gem Sales (previously eDiamond) provides an online solution for rough diamond sales, through a network of sales offices in Antwerp, Cape Town and Dubai. <br /><br />Their existing web-based auction platform was deemed poor from a scalability and reliability perspective. <br /><br /><blockquote>Entelect performed a technical assessment of the platform, and implemented an optimisation and improvement programme.</blockquote><br /><br />This included moving the platform to the Microsoft Azure cloud infrastructure, allowing for resources to be ramped up quickly during high-load auctions. Other functional enhancements have also been made to platform to ensure a robust and feature-rich auction platform is presented to Trans Atlantic Gem Sales’ client base.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9483,7 +9483,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{i:0;s:5:"14354";i:1;s:5:"14433";i:2;s:5:"12977";i:3;s:5:"12976";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
@@ -9535,7 +9535,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />This will allow them to service merchants through both physical point of sale devices and ecommerce solutions. Our development and analyst teams are working across several agile delivery squads to design, build and implement brand new first-party mobile payments and wallet functionality across web and mobile channels for Vodacom's customer base.<br /><br />The payment platform will provide merchants with many payment options such as card payments, EFT, QR code scanning and loyalty point. Other features are being developed to allow Vodacom to differentiate themselves, such as the Vodapay Digital Wallet and mobile payment app.]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Entelect is a software engineering partner supporting Vodacom's ambitious horizontal expansion into financial services. <br /><br /><blockquote>Entelect is helping them to achieve this goal by helping them to create a world class payment solution.</blockquote><br /><br />This will allow them to service merchants through both physical point of sale devices and ecommerce solutions. Our development and analyst teams are working across several agile delivery squads to design, build and implement brand new first-party mobile payments and wallet functionality across web and mobile channels for Vodacom's customer base.<br /><br />The payment platform will provide merchants with many payment options such as card payments, EFT, QR code scanning and loyalty point. Other features are being developed to allow Vodacom to differentiate themselves, such as the Vodapay Digital Wallet and mobile payment app.]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9633,7 +9633,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />Some of the major features we’ve built onto the platform include recurring payments, store card, consolidated storing of transaction from internal and external systems, and a reconciliation engine.<br /><br />Current merchants that have integrated with the payment gateway include:<br />- All Events Africa<br />- Vodacom<br />- Airtime recharge and hardware purchases on MyVodacom App and Web<br />- Digital Lifestyle Services<br />- Vodacom World Bookings<br />- Prepaid electricity and water<br />- Netstar<br />- Toyota]]></wp:meta_value>
+      <wp:meta_value><![CDATA[Vodacom Financial Services (VFS) wanted to grow in the payments gateway market, but their current system was not up to standard.<br /><br /><blockquote>VFS partnered with Entelect to revamp their payments gateway system, as well as the web and app integration with the gateway.</blockquote><br /><br />Some of the major features we’ve built onto the platform include recurring payments, store card, consolidated storing of transaction from internal and external systems, and a reconciliation engine.<br /><br />Current merchants that have integrated with the payment gateway include:<br />- All Events Africa<br />- Vodacom<br />- Airtime recharge and hardware purchases on MyVodacom App and Web<br />- Digital Lifestyle Services<br />- Vodacom World Bookings<br />- Prepaid electricity and water<br />- Netstar<br />- Toyota]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9732,7 +9732,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
-      <wp:meta_value><![CDATA[<br /><br />These services primarily focused on creating a self-managing web-based solution to cater for the following in a secure environment:<br />- Members<br />- Funds<br />- Employers<br />- Returns <br />- Claims<br />- Documents <br />- Reporting]]></wp:meta_value>
+      <wp:meta_value><![CDATA[WA Davidson Financial Services was formed after identifying an opportunity to create a financial services company to re-adopt traditional values, providing a solution tailored to each individual company’s needs. <br /><br />Entelect was approached to perform the initial requirements analysis and thereafter created a fully bespoke system.<br /><br /><blockquote>The system’s main requirements were to provide customised retirement fund and financial planning solutions and services.</blockquote><br /><br />These services primarily focused on creating a self-managing web-based solution to cater for the following in a secure environment:<br />- Members<br />- Funds<br />- Employers<br />- Returns <br />- Claims<br />- Documents <br />- Reporting]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
@@ -9777,7 +9777,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[tools]]></wp:meta_key>
-      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"14369";i:1;s:5:"14354";}]]></wp:meta_value>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_tools]]></wp:meta_key>

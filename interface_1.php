@@ -3,6 +3,9 @@
 $file="content/step_1.html";
 $tsv= file_get_contents($file);
 $tsv= str_replace("<br />", "_linebreak_", $tsv);
+// $tsv= str_replace("<blockquote class=”quote-style-2”>", "_quote_open_", $tsv);
+// $tsv= str_replace("<blockquote class=”quote-style-2”>", "_quote_open_", $tsv);
+// $tsv= str_replace("</blockquote>", "_quote_close_", $tsv);
 // $tsv= str_replace("<td>&nbsp;</td>", "<td></td>", $tsv);
 
 
@@ -31,7 +34,7 @@ $array_3 = array();
 foreach ($array_2 as $key => $value) {
 	if ($key !== 0) {
 		foreach ($value as $key_2 => $value_2) {
-			$array_3[$key][$array_2[0][$key_2]] = $value_2;
+			$array_3[$key][$array_2[0][$key_2]] = urlencode($value_2);
 			// $array_3[$key][$key_2] = $array[0];
 		}
 	}
