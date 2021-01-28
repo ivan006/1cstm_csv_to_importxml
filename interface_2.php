@@ -103,7 +103,7 @@ foreach ($array_3[2] as $key => $value) {
 
 				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
 				if (!isset($value_1[0])) {
-					$errors[] =  $value_1;
+					$errors[] =  "gen lookups ".$value_1;
 				}
 
 				$lookup_array_3[$temp_value] = $value_1[0];
@@ -127,206 +127,201 @@ if (file_exists("content/step_2_lookups/acf_lookup.html")) {
 // exit;
 
 foreach ($array_3 as $key => $value) {
-  ob_start();
-  ?>
+	if ($value["title"]["export_value"] !== "") {
 
-  <item>
-		<?php
-		foreach ($value as $key_2 => $value_2) {
-			if ($value_2["type"] == "simple_string") {
-				if ($key_2 == "title") {
-					?>
-					<title><?php echo $value_2["export_value"] ?></title>
-					<?php
+	  ob_start();
+	  ?>
+
+	  <item>
+			<?php
+			foreach ($value as $key_2 => $value_2) {
+				if ($value_2["type"] == "simple_string") {
+					if ($key_2 == "title") {
+						?>
+						<title><?php echo $value_2["export_value"] ?></title>
+						<?php
+					}
+					elseif ($key_2 == "wp:post_type") {
+						?>
+	          <wp:post_type><![CDATA[projects]]></wp:post_type>
+						<?php
+					}
+					elseif ($key_2 == "content:encoded") {
+						?>
+	          <content:encoded><![CDATA[...]]></content:encoded>
+						<?php
+					}
+					elseif ($key_2 == "wp:status") {
+						?>
+	          <wp:status><![CDATA[publish]]></wp:status>
+						<?php
+					}
+					else {
+						?>
+						<<?php echo $key_2 ?>><![CDATA[<?php echo $value_2["export_value"] ?>]]></<?php echo $key_2 ?>>
+						<?php
+					}
 				}
-				elseif ($key_2 == "wp:post_type") {
-					?>
-          <wp:post_type><![CDATA[projects]]></wp:post_type>
-					<?php
-				}
-				elseif ($key_2 == "content:encoded") {
-					?>
-          <content:encoded><![CDATA[...]]></content:encoded>
-					<?php
-				}
-				elseif ($key_2 == "wp:status") {
-					?>
-          <wp:status><![CDATA[publish]]></wp:status>
-					<?php
-				}
-				else {
-					?>
-					<<?php echo $key_2 ?>><![CDATA[<?php echo $value_2["export_value"] ?>]]></<?php echo $key_2 ?>>
-					<?php
-				}
-			}
-			elseif ($value_2["type"] == "simple_multilookup") {
+				elseif ($value_2["type"] == "simple_multilookup") {
 
 
 
-				$value_2["export_value"] = json_decode($value_2["export_value"]);
+					$value_2["export_value"] = json_decode($value_2["export_value"]);
 
-				// if (!is_array($value_2["export_value"])) {
-				// 	// code...
-				// 	header('Content-Type: application/json');
-				// 	echo json_encode($value_2["export_value"], JSON_PRETTY_PRINT);
-				// 	exit;
-				// }
-				foreach ($value_2["export_value"] as $key_3 => $value_3) {
-
-					if ( in_array($value_3, array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
-						$value_3 = '';
-					} else {
-						if (strlen($value_3) > 50) {
-							$value_3 = substr($value_3, 0, 50)."...";
-						}
-
+					// if (!is_array($value_2["export_value"])) {
+					// 	// code...
+					// 	header('Content-Type: application/json');
+					// 	echo json_encode($value_2["export_value"], JSON_PRETTY_PRINT);
+					// 	exit;
+					// }
+					foreach ($value_2["export_value"] as $key_3 => $value_3) {
 
 						if (isset($lookup[$key_2][$value_3])) {
 							$value_3 = $lookup[$key_2][$value_3];
 							// code...
 						} else {
-							$errors[] = "translation -- ".$key_2." -- ".$value_3." -- simple_multilookup";
+							$errors[] = "translation -- simple_multilookup -- $key_2 -- ".$value_3."";
 							// echo "Error (".$value_2["export_value"].")";
 							// exit;
 						}
+						if ($value_3 !== "none") {
+							?>
+							<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[]]></category>
+							<?php
+						}
 					}
+				}
+				// elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
+				elseif (in_array($value_2["type"], array('semiadvanced_string','semiadvanced_lookup'), true ) ) {
 
+
+					if ($value_2["type"] == "semiadvanced_lookup") {
+						if ( in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
+							$value_2["export_value"] = '';
+						} else {
+							if (strlen($value_2["export_value"]) > 50) {
+								$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+							}
+
+
+							if (isset($lookup[$key_2][$value_2["export_value"]])) {
+								$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
+								// code...
+							} else {
+								// echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
+								$errors[] = "translation -- semiadvanced_lookup -- $key_2 -- ".$value_2["export_value"]."";
+
+								// exit;
+							}
+						}
+
+					}
+					elseif ($value_2["type"] == "semiadvanced_string") {
+
+						if ($key_2 == "dyncontel_elementor_templates") {
+
+							$value_2["export_value"] = "12797";
+						}
+
+					}
 					?>
-					<category domain="<?php echo $key_2 ?>" nicename="<?php echo slugify($value_3) ?>"><![CDATA[<?php echo $value_3 ?>]]></category>
+					<wp:postmeta>
+						<wp:meta_key><![CDATA[<?php echo $key_2 ?>]]></wp:meta_key>
+						<wp:meta_value><![CDATA[<?php echo $value_2["export_value"]; ?>]]></wp:meta_value>
+					</wp:postmeta>
 					<?php
 				}
-			}
-			// elseif ($value_2["type"] == "semiadvanced_string" OR $value_2["type"] == "semiadvanced_lookup") {
-			elseif (in_array($value_2["type"], array('semiadvanced_string','semiadvanced_lookup'), true ) ) {
-
-
-				if ($value_2["type"] == "semiadvanced_lookup") {
-					if ( in_array($value_2["export_value"], array('NA','Waiting on Jacques', 'needs editing', ''), true ) ) {
-						$value_2["export_value"] = '';
-					} else {
-						if (strlen($value_2["export_value"]) > 50) {
-							$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
-						}
-
-
-						if (isset($lookup[$key_2][$value_2["export_value"]])) {
-							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
-							// code...
-						} else {
-							// echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
-							$errors[] = "translation -- ".$key_2." -- ".$value_2["export_value"]." -- semiadvanced_lookup";
-
-							// exit;
-						}
-					}
-
-				}
-				elseif ($value_2["type"] == "semiadvanced_string") {
-
-					if ($key_2 == "dyncontel_elementor_templates") {
-
-						$value_2["export_value"] = "12797";
-					}
-
-				}
-				?>
-				<wp:postmeta>
-					<wp:meta_key><![CDATA[<?php echo $key_2 ?>]]></wp:meta_key>
-					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"]; ?>]]></wp:meta_value>
-				</wp:postmeta>
-				<?php
-			}
-			// elseif ($value_2["type"] == "advanced_string" OR $value_2["type"] == "advanced_lookup") {
-			elseif ( in_array($value_2["type"], array('advanced_string','advanced_lookup', 'advanced_multilookup'), true ) ) {
-				$temp_value = explode("; code:",$key_2);
+				// elseif ($value_2["type"] == "advanced_string" OR $value_2["type"] == "advanced_lookup") {
+				elseif ( in_array($value_2["type"], array('advanced_string','advanced_lookup', 'advanced_multilookup'), true ) ) {
+					$temp_value = explode("; code:",$key_2);
 
 
 
-				if ($value_2["type"] == "advanced_lookup") {
+					if ($value_2["type"] == "advanced_lookup") {
 
-					if ( !in_array($value_2["export_value"], array(''), true ) ) {
-						// if (strlen($value_2["export_value"]) > 50) {
-						// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
-						// }
-
-
-						if (isset($lookup[$key_2][$value_2["export_value"]])) {
-							$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
-							// code...
-						} else {
-							$errors[] = "translation -- ".$key_2." -- ".$value_2["export_value"]." -- advanced_lookup";
-							// echo "Error (".$value_2["export_value"].")";
-							// exit;
-						}
-					} else {
-						$value_2["export_value"] = '';
-					}
-
-				}
-				elseif ($value_2["type"] == "advanced_multilookup") {
-
-					$temp_value = '';
-					$temp_array = array();
-					if (is_array(json_decode($value_2["export_value"]))) {
-						$value_2["export_value"] = json_decode($value_2["export_value"]);
-						foreach ($value_2["export_value"] as $key_3 => $value_3) {
-							// code...
-							// code...
-							// if (strlen($temp_value) > 50) {
+						if ( !in_array($value_2["export_value"], array(''), true ) ) {
+							// if (strlen($value_2["export_value"]) > 50) {
 							// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
 							// }
 
 
-							if (isset($lookup[$key_2][$value_3])) {
-								$temp_array[] = $lookup[$key_2][$value_3];
+							if (isset($lookup[$key_2][$value_2["export_value"]])) {
+								$value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
 								// code...
 							} else {
-								$errors[] = "translation -- ".$key_2." -- ".$value_3." -- advanced_multilookup";
+								$errors[] = "translation -- advanced_lookup -- $key_2 -- ".$value_2["export_value"]."";
 								// echo "Error (".$value_2["export_value"].")";
 								// exit;
 							}
+						} else {
+							$value_2["export_value"] = '';
 						}
-						// $temp_value = json_encode($temp_array);
-						$temp_value = serialize($temp_array);
+
+					}
+					elseif ($value_2["type"] == "advanced_multilookup") {
+
+						$temp_value = '';
+						$temp_array = array();
+						if (is_array(json_decode($value_2["export_value"]))) {
+							$value_2["export_value"] = json_decode($value_2["export_value"]);
+							foreach ($value_2["export_value"] as $key_3 => $value_3) {
+								// code...
+								// code...
+								// if (strlen($temp_value) > 50) {
+								// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
+								// }
+
+
+								if (isset($lookup[$key_2][$value_3])) {
+									$temp_array[] = $lookup[$key_2][$value_3];
+									// code...
+								} else {
+									$errors[] = "translation -- advanced_multilookup -- $key_2 -- ".$value_3."";
+									// echo "Error (".$value_2["export_value"].")";
+									// exit;
+								}
+							}
+							// $temp_value = json_encode($temp_array);
+							$temp_value = serialize($temp_array);
+						}
+
+						$value_2["export_value"] = $temp_value;
 					}
 
-					$value_2["export_value"] = $temp_value;
+
+
+					if (isset($acf_lookup[$key_2])) {
+						// $value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
+					} else {
+						$errors[] = "acf_lookup -- ".$key_2;
+					}
+
+
+					?>
+					<wp:postmeta>
+						<wp:meta_key><![CDATA[<?php echo $key_2; ?>]]></wp:meta_key>
+						<wp:meta_value><![CDATA[<?php echo $value_2["export_value"] ?>]]></wp:meta_value>
+					</wp:postmeta>
+	        <wp:postmeta>
+	          <wp:meta_key><![CDATA[_<?php echo $key_2 ?>]]></wp:meta_key>
+	          <wp:meta_value><![CDATA[<?php echo $acf_lookup[$key_2] ?>]]></wp:meta_value>
+	        </wp:postmeta>
+					<?php
 				}
-
-
-
-				if (isset($acf_lookup[$key_2])) {
-					// $value_2["export_value"] = $lookup[$key_2][$value_2["export_value"]];
-				} else {
-					$errors[] = $key_2." -- acf_lookup";
-				}
-
-
 				?>
-				<wp:postmeta>
-					<wp:meta_key><![CDATA[<?php echo $key_2; ?>]]></wp:meta_key>
-					<wp:meta_value><![CDATA[<?php echo $value_2["export_value"] ?>]]></wp:meta_value>
-				</wp:postmeta>
-        <wp:postmeta>
-          <wp:meta_key><![CDATA[_<?php echo $key_2 ?>]]></wp:meta_key>
-          <wp:meta_value><![CDATA[<?php echo $acf_lookup[$key_2] ?>]]></wp:meta_value>
-        </wp:postmeta>
+
 				<?php
 			}
-			?>
-
-			<?php
-		}
 
 
-    ?>
+	    ?>
 
-  </item>
+	  </item>
 
-  <?php
-  $data["body"][] = ob_get_contents();
-  ob_end_clean();
+	  <?php
+	  $data["body"][] = ob_get_contents();
+	  ob_end_clean();
+	}
 }
 $data["body"] = implode($data["body"]);
 
@@ -495,6 +490,9 @@ function slugify($text)
 
   // lowercase
   $text = strtolower($text);
+
+	$text = str_replace("-amp-", "-", $text);
+
 
   if (empty($text)) {
     return 'n-a';
