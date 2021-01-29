@@ -42,546 +42,415 @@
 
 
 
-
-		<item>
-			<title>.net</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
 		<item>
 			<title>Agile</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Agile SDLC</title>
+			<title>Amazon Web Services</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Agile Teams</title>
+			<title>Amazon Web Services (AWS)</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Amazon AWS</title>
+			<title>Android and iOS</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Analytics</title>
+			<title>Apache</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Android Native</title>
+			<title>ASP .NET MVC</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Angular 2+</title>
+			<title>Bootstrap</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Apache Spark</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>APIs</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>ASP.Net MVC</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Azure DevOps</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>BPM</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>BPM & Live modelling</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Business Intelligence</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>C#</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>C# .NET</title>
+			<title>C# and Microsoft .NET</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Data Aggregation</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Data Collection Fitness</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Data Solutions</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Data Warehouse</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Device Integration</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>DevOps</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Distributed team</title>
+			<title>ElasticSearch</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Echosign</title>
+			<title>FeatherJS</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Feature teams</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>GoLang</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Hadoop</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>High performance price modelling</title>
+			<title>Hippo CMMS</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Hippo CMS</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Hortonworks data platform</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Integrations</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Internationalization</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>IoT Data Sourcing</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>IoT Hub</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>IoT provisioning</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>J2EE</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Java Spring</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Java Spring Boot</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>JavaScript</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Jupyter Motebooks</title>
+			<title>Jupyter</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>KnockoutJS</title>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Kotlin</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Kubernetes</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Legacy Integrations</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Line of Business</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Machine learning</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Managed Solution</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Microsoft .NET</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Microsoft .NET APIs</title>
+			<title>Microsoft .NET Core</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Microsoft .NET MVC</title>
+			<title>Mongo DB</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft .NET Web</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft .NET Web API 2</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft ASP.Net MVC</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft SQL</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Microsoft.NET</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>MongoDB</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>MS SQL Server</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Multi-platform mobile apps</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>MVC</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>MySQL</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Native Android & iOS</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>NodeJS</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Omni-channel</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Oracle</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Predictive analytics</title>
+			<title>PostgreSQL</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Progessive Web Apps</title>
+			<title>Power BI</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>Progressive Web Apps</title>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Python</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>React</title>
+			<title>QlikView</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>React Native</title>
+			<title>Rabbit MQ</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-			<title>Remote Managed Solution</title>
+			<title>Redux</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>REST Services</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Salesforce</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Scrum</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Sharepoint</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Spring</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Spring Cloud</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>SQL</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>SQL Development</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>SQL Server</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
+		</item>
+		<item>
+			<title>Swagger</title>
+			<content:encoded><![CDATA[]]></content:encoded>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Swift</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>TDD</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Thymeleaf</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Time-of-use billing algorithms</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Trading Systems</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Typescript</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>UX</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>UX design</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
-		</item>
-		<item>
-			<title>Web Services</title>
-			<content:encoded><![CDATA[]]></content:encoded>
-			<wp:status><![CDATA[publish]]></wp:status>
-			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
 			<title>Xamarin</title>
 			<content:encoded><![CDATA[]]></content:encoded>
 			<wp:status><![CDATA[publish]]></wp:status>
 			<wp:post_type><![CDATA[tech_tools]]></wp:post_type>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[13038]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 
 

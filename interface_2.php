@@ -276,14 +276,17 @@ foreach ($array_3 as $key => $value) {
 							foreach ($value_2["export_value"] as $key_3 => $value_3) {
 								// code...
 								// code...
+								// code...
 								// if (strlen($temp_value) > 50) {
 								// 	$value_2["export_value"] = substr($value_2["export_value"], 0, 50)."...";
 								// }
 
 
 								if (isset($lookup[$key_2][$value_3])) {
-									$temp_array[] = $lookup[$key_2][$value_3];
-									// code...
+									if ($lookup[$key_2][$value_3] !== "0") {
+										$temp_array[] = $lookup[$key_2][$value_3];
+										// code...
+									}
 								} else {
 									$errors[] = "translation -- advanced_multilookup -- $key_2 -- ".$value_3."";
 									// echo "Error (".$value_2["export_value"].")";
