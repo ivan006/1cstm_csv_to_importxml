@@ -75,6 +75,7 @@ foreach ($array_2 as $key => $value) {
 
 $lookups = array();
 foreach ($array_3[2] as $key => $value) {
+	$lookup_array_2 = array();
 	if ( in_array($value["type"], array('semiadvanced_lookup','advanced_lookup', 'simple_multilookup', 'advanced_multilookup'), true ) ) {
 
 		$lookup_file="content/step_2_lookups/$key.html";
@@ -98,12 +99,20 @@ foreach ($array_3[2] as $key => $value) {
 		}
 
 		$lookup_array_3 = array();
+
 		foreach ($lookup_array_2 as $key_1 => $value_1) {
 			if ($key_1 !== 0) {
 
 				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
 				if (!isset($value_1[0])) {
-					$errors[] =  "gen lookups ".$value_1;
+					$errors[] =  "gen lookups ".$value_1[1];
+
+
+					// header('Content-Type: application/json');
+					// echo json_encode($lookup_array_2, JSON_PRETTY_PRINT);
+					// exit;
+
+
 				}
 
 				$lookup_array_3[$temp_value] = $value_1[0];
