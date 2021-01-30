@@ -51,7 +51,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -150,8 +150,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="technology"><![CDATA[]]></category>
@@ -251,7 +251,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -350,7 +350,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -449,7 +449,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="media"><![CDATA[]]></category>
 
@@ -548,7 +548,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="health"><![CDATA[]]></category>
 
@@ -647,7 +647,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="logistics"><![CDATA[]]></category>
@@ -747,7 +747,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
@@ -846,7 +846,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="media"><![CDATA[]]></category>
@@ -946,7 +946,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="agriculture"><![CDATA[]]></category>
 
@@ -1045,7 +1045,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -1144,7 +1144,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -1243,7 +1243,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -1343,8 +1343,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="health"><![CDATA[]]></category>
 
@@ -1443,7 +1443,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -1542,7 +1542,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -1641,7 +1641,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -1740,9 +1740,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="logistics"><![CDATA[]]></category>
@@ -2036,8 +2036,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="energy"><![CDATA[]]></category>
                       <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
@@ -2237,7 +2237,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
@@ -2435,7 +2435,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
@@ -2536,7 +2536,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="energy"><![CDATA[]]></category>
@@ -2636,9 +2636,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="media"><![CDATA[]]></category>
                       <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
@@ -2738,7 +2738,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -2837,7 +2837,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="energy"><![CDATA[]]></category>
 
@@ -2936,8 +2936,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="energy"><![CDATA[]]></category>
                       <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
@@ -3037,7 +3037,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="education"><![CDATA[]]></category>
@@ -3137,7 +3137,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -3239,7 +3239,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="technology"><![CDATA[]]></category>
@@ -3339,8 +3339,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="mining-manufacturing"><![CDATA[]]></category>
 
@@ -3439,7 +3439,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -3540,7 +3540,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
                       <category domain="industries" nicename="health"><![CDATA[]]></category>
@@ -3640,7 +3640,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
                       <category domain="industries" nicename="health"><![CDATA[]]></category>
@@ -3740,7 +3740,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -3839,7 +3839,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
                       <category domain="industries" nicename="health"><![CDATA[]]></category>
@@ -3939,7 +3939,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -4038,7 +4038,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -4138,7 +4138,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
@@ -4239,8 +4239,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
@@ -4339,8 +4339,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
@@ -4439,7 +4439,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -4539,7 +4539,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
@@ -4638,7 +4638,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -4739,7 +4739,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -4838,7 +4838,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -4937,7 +4937,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -5134,7 +5134,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -5233,8 +5233,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -5333,9 +5333,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -5435,7 +5435,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -5534,7 +5534,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -5635,7 +5635,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -5736,9 +5736,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -5837,7 +5837,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -5937,9 +5937,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -6038,7 +6038,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -6137,7 +6137,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="technology"><![CDATA[]]></category>
@@ -6237,8 +6237,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
 
@@ -6434,7 +6434,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="technology"><![CDATA[]]></category>
 
@@ -6533,9 +6533,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="health"><![CDATA[]]></category>
                       <category domain="industries" nicename="education"><![CDATA[]]></category>
@@ -6635,7 +6635,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="digital-transformation"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
@@ -6735,7 +6735,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -6835,7 +6835,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -7328,7 +7328,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="strategy-advisory"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="energy"><![CDATA[]]></category>
@@ -7723,7 +7723,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
 
@@ -7822,7 +7822,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="technology"><![CDATA[]]></category>
@@ -7922,7 +7922,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
@@ -8121,7 +8121,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
@@ -8220,7 +8220,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
 
@@ -8319,7 +8319,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="insurance"><![CDATA[]]></category>
@@ -8420,9 +8420,9 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
                       <category domain="services" nicename="data-solutions"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -8521,7 +8521,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -8620,7 +8620,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -8719,8 +8719,8 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
-                      <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
+                      <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -8819,7 +8819,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="banking"><![CDATA[]]></category>
 
@@ -9017,7 +9017,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="education"><![CDATA[]]></category>
 
@@ -9216,7 +9216,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="retail-consumer-services"><![CDATA[]]></category>
                       <category domain="industries" nicename="telecommunication"><![CDATA[]]></category>
@@ -9316,7 +9316,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="logistics"><![CDATA[]]></category>
 
@@ -9707,7 +9707,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:post_type><![CDATA[projects]]></wp:post_type>
 
-                <category domain="services" nicename="custom-software"><![CDATA[]]></category>
+                <category domain="services" nicename="custom-solutions"><![CDATA[]]></category>
 
                 <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
 
