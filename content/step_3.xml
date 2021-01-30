@@ -5627,6 +5627,105 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
 
 <item>
+            <title>NINETY ONE OVERHAULS DIGITAL CHANNELS</title>
+
+              <content:encoded><![CDATA[...]]></content:encoded>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[projects]]></wp:post_type>
+
+                <category domain="services" nicename="user-experience-engineering"><![CDATA[]]></category>
+
+                <category domain="industries" nicename="financial-services"><![CDATA[]]></category>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[company_logo]]></wp:meta_key>
+      <wp:meta_value><![CDATA[19621]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_company_logo]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5f7b2d3c2ccc8]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[20086]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[description_part_1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Entelect has various teams involved at both Silica and Investec, building Ninety One’s (previously Investec Asset Management) new transactional website in order to modernise the system.<br /> <br /><blockquote>Our UX Engineers are helping guide the designs of the system using user research, Ideation and prototyping best practices to meet the requirements of their users.</blockquote><br /> <br />After this initial analysis with our engineers and Investec analysts, the work then feeds into the Silica business and Entelect development teams at Silica to develop the product tying into both the Silica and Investec B2B systems. <br /> <br />In order to assist in reaching the delivery goals of this exciting and large-scale project, Entelect have also worked with both Silica and Ninety One to build and evolve an Agile iterative process that suits their business, timelines and aligns with modern development best practices, with the goal of this process becoming the de facto process for future development over the next few years.]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_description_part_1]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd2211db5302]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_video]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd221a4b5304]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[description_part_2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_description_part_2]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd225ec9ac99]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[#EEEBDA]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd221d5b5306]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[#009D80]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd221e7b5307]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[tools]]></wp:meta_key>
+      <wp:meta_value><![CDATA[a:2:{i:0;s:5:"20664";i:1;s:5:"20678";}]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_tools]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_5fd3632b01ce9]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[company_logo_for_card]]></wp:meta_key>
+      <wp:meta_value><![CDATA[19408]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_company_logo_for_card]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_6012d938e116d]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
             <title>STREAMLINING CLIENT APPLICATIONS<br />FOR LIBERTY INSURANCE BROKERS</title>
 
               <content:encoded><![CDATA[...]]></content:encoded>
