@@ -1,0 +1,52 @@
+
+{
+  "Prospect": {
+    "items": {
+      "processes": "object id"
+    }
+  },
+  "Visitor Activity": {
+  },
+  "Account": {
+  },
+  "Campaign": {
+  },
+  "Custom Field": {
+  },
+  "Custom Redirect": {
+  },
+  "Dynamic Content": {
+  },
+  "Email": {
+  },
+  "Email Clicks": {
+  },
+  "Email Template": {
+  },
+  "Form": {
+  },
+  "Import": {
+  },
+  "Litecycle History": {
+  },
+  "Lifecycle Stage": {
+  },
+  "List": {
+  },
+  "List Membership": {
+  },
+  "Opportunity": {
+  },
+  "Prospect Account": {
+  },
+  "Tag": {
+  },
+  "Tag Object": {
+  },
+  "User": {
+  },
+  "Visitor": {
+  },
+  "Visit": {
+  }
+}
