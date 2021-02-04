@@ -1,0 +1,13 @@
+{
+    "id": "integer",
+    "prospect_id": "integer",
+    "type": "integer",
+    "type_name": "string",
+    "details": "string",
+    "email_id": "integer",
+    "email_name": "string",
+    "email_template_id": "integer",
+    "campaign_id": "integer",
+    "created_at": "string",
+    "updated_at": "string"
+}

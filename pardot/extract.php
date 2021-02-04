@@ -1,6 +1,6 @@
 <?php
-$entity_folder = "1 Prospect";
-// $entity_folder = "2 Visitor Activity";
+// $entity_folder = "1 Prospect";
+$entity_folder = "2 Visitor Activity";
 
 $entity_page = "1";
 
