@@ -2,10 +2,12 @@
 $entity_folder = "1 Prospect";
 // $entity_folder = "2 Visitor Activity";
 
-$extract_data_path = "data_and_settings/".$entity_folder."/extract_data.json";
+$entity_page = "1";
+
+$extract_data_path = "data_and_settings/$entity_folder/extract_data/$entity_page.json";
 $extract_data = file_get_contents($extract_data_path);
 $extract_data = json_decode($extract_data, true);
-$extract_settings_path = "data_and_settings/".$entity_folder."/extract_settings.json";
+$extract_settings_path = "data_and_settings/$entity_folder/extract_settings.json";
 $extract_settings = file_get_contents($extract_settings_path);
 $extract_settings = json_decode($extract_settings, true);
 // header('Content-Type: application/json');
@@ -32,18 +34,23 @@ foreach ($extract_data["result"] as $key => $value) {
         // } else {
         //   $extracted_data[$key_2][$key_3] = gettype($value_3);
         // }
-
+        $temp_var_3 = $key_3;
         if (gettype($value_3) == "array") {
           if (isset($extract_settings[$key_3])) {
             $temp_var = $extract_settings[$key_3];
             if (isset($value_3[$temp_var])) {
-              $temp_array[$key_3."_".$temp_var] = gettype($value_3[$temp_var]);
+              $temp_var_3 = $key_3."_".$temp_var;
+
+              $temp_array[$temp_var_3] = gettype($value_3[$temp_var]);
+
 
               $temp_var_2 = $value_3[$temp_var];
             } else {
               foreach ($value_3 as $key_4 => $value_4) {
                 if (isset($value_4[$temp_var])) {
-                  $temp_array[$key_3."_".$temp_var] = gettype($value_4[$temp_var]);
+                  $temp_var_3 = $key_3."_".$temp_var;
+
+                  $temp_array[$temp_var_3] = gettype($value_4[$temp_var]);
 
                   $temp_var_2 = $value_4[$temp_var];
                 } else {
@@ -75,7 +82,7 @@ foreach ($extract_data["result"] as $key => $value) {
         //
         // } else {
         // }
-        $temp_array_2[$key_3] = $temp_var_2;
+        $temp_array_2[$temp_var_3] = $temp_var_2;
       }
       // $extracted_data["data"][$key_2] = ksort($temp_array_2);
       // ksort($temp_array_2);
@@ -97,6 +104,7 @@ foreach ($extract_data["result"] as $key => $value) {
 
 ?>
 
+<h1>Extract - <?php echo $entity_folder ?></h1>
 <details open>
   <summary>errors</summary>
   <textarea name="name" rows="8" cols="80"><?php echo json_encode($error, JSON_PRETTY_PRINT); ?></textarea>

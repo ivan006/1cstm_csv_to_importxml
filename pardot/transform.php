@@ -2,10 +2,12 @@
 $entity_folder = "1 Prospect";
 // $entity_folder = "2 Visitor Activity";
 
-$transform_data_path = "data_and_settings/".$entity_folder."/transform_data.json";
+$entity_page = "1";
+
+$transform_data_path = "data_and_settings/$entity_folder/transform_data/$entity_page.json";
 $transform_data = file_get_contents($transform_data_path);
 $transform_data = json_decode($transform_data, true);
-$transform_settings_path = "data_and_settings/".$entity_folder."/transform_settings.json";
+$transform_settings_path = "data_and_settings/$entity_folder/transform_settings.json";
 $transform_settings = file_get_contents($transform_settings_path);
 $transform_settings = json_decode($transform_settings, true);
 // // header('Content-Type: application/json');
@@ -33,14 +35,11 @@ foreach ($transform_data as $key => $value) {
 
 
 ?>
-
+<h1>Transform - <?php echo $entity_folder ?></h1>
+then use <a href="https://json-csv.com/">https://json-csv.com/</a>
 <details open>
   <summary>errors</summary>
   <textarea name="name" rows="8" cols="80"><?php echo json_encode($error, JSON_PRETTY_PRINT); ?></textarea>
-</details>
-<details open>
-  <summary>structure</summary>
-  <textarea name="name" rows="8" cols="80"><?php echo json_encode($transformed_data["structure"], JSON_PRETTY_PRINT); ?></textarea>
 </details>
 <details open>
   <summary>data</summary>
