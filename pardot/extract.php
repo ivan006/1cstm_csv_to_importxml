@@ -1,13 +1,14 @@
 <?php
-// $entity_folder = "1 Prospect";
-$entity_folder = "2 Visitor Activity";
+$entity_folder = "1 Prospect";
+// $entity_folder = "2 Visitor Activity";
 
-$entity_page = "1";
+// $entity_page = "1";
+$entity_page = "2";
 
-$extract_data_path = "data_and_settings/$entity_folder/extract_data/$entity_page.json";
+$extract_data_path = "data_and_settings/$entity_folder/1_extract_data/$entity_page.json";
 $extract_data = file_get_contents($extract_data_path);
 $extract_data = json_decode($extract_data, true);
-$extract_settings_path = "data_and_settings/$entity_folder/extract_settings.json";
+$extract_settings_path = "data_and_settings/$entity_folder/1_extract_settings.json";
 $extract_settings = file_get_contents($extract_settings_path);
 $extract_settings = json_decode($extract_settings, true);
 // header('Content-Type: application/json');
@@ -104,7 +105,7 @@ foreach ($extract_data["result"] as $key => $value) {
 
 ?>
 
-<h1>Extract - <?php echo $entity_folder ?></h1>
+<h1>1 Extract - <?php echo $entity_folder ?>, page <?php echo $entity_page ?></h1>
 <details open>
   <summary>errors</summary>
   <textarea name="name" rows="8" cols="80"><?php echo json_encode($error, JSON_PRETTY_PRINT); ?></textarea>
