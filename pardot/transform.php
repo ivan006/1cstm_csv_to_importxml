@@ -1,9 +1,9 @@
 <?php
-$entity_folder = "1 Prospect";
-// $entity_folder = "2 Visitor Activity";
+// $entity_folder = "1 Prospect";
+$entity_folder = "2 Visitor Activity";
 
 // $entity_page = "1";
-$entity_page = "2";
+$entity_page = "5";
 
 $transform_data_path = "data_and_settings/$entity_folder/2_transform_data/$entity_page.json";
 $transform_data = file_get_contents($transform_data_path);
