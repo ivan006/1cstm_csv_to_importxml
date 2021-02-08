@@ -51,13 +51,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -71,7 +71,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -80,7 +80,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -97,13 +97,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -117,7 +117,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -126,7 +126,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -143,13 +143,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -163,7 +163,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -172,7 +172,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -189,13 +189,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -209,7 +209,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -218,7 +218,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -235,13 +235,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -255,7 +255,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -264,7 +264,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -281,13 +281,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -301,7 +301,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -310,7 +310,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -327,13 +327,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -347,7 +347,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -356,7 +356,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -373,13 +373,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -393,7 +393,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -402,7 +402,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -419,13 +419,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -439,7 +439,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -448,7 +448,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -465,13 +465,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -485,7 +485,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -494,7 +494,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -511,13 +511,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -531,7 +531,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -540,7 +540,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -557,13 +557,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -577,7 +577,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -586,7 +586,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -603,13 +603,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -623,7 +623,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -632,7 +632,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -649,13 +649,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -669,7 +669,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -678,7 +678,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -695,13 +695,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -715,7 +715,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -724,7 +724,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -741,13 +741,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -761,7 +761,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -770,7 +770,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -787,13 +787,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -807,7 +807,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -816,7 +816,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -833,13 +833,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -853,7 +853,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -862,7 +862,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
@@ -879,13 +879,13 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
 
-                <category domain="category" nicename="publications"><![CDATA[]]></category>
+
 
             <wp:postmeta>
       <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
-      <wp:meta_value><![CDATA[12797]]></wp:meta_value>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -899,7 +899,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[0]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
     </wp:postmeta>
 
             <wp:postmeta>
@@ -908,7 +908,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
     </wp:postmeta>
     <wp:postmeta>
       <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
-      <wp:meta_value><![CDATA[1]]></wp:meta_value>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
     </wp:postmeta>
 
 
