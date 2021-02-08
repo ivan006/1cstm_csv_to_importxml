@@ -137,9 +137,15 @@ if (file_exists("content/step_2_lookups/acf_lookup.html")) {
 	$acf_lookup = array();
 }
 
+if (file_exists("content/step_2_lookups/defaults.html")) {
+	$defaults = parse_table_to_json_for_lookup("content/step_2_lookups/defaults.html");
+}	else {
+	$defaults = array();
+}
+
 
 // header('Content-Type: application/json');
-// echo json_encode($lookup["tools"], JSON_PRETTY_PRINT);
+// echo json_encode($defaults, JSON_PRETTY_PRINT);
 // exit;
 
 foreach ($array_3 as $key => $value) {
@@ -159,14 +165,12 @@ foreach ($array_3 as $key => $value) {
 					}
 					elseif ($key_2 == "wp:post_type") {
 						?>
-	          <wp:post_type><![CDATA[projects]]></wp:post_type>
+	          <wp:post_type><![CDATA[<?php echo $defaults["wp:post_type"] ?>]]></wp:post_type>
 						<?php
 					}
-					elseif ($key_2 == "content:encoded") {
-						?>
-	          <content:encoded><![CDATA[...]]></content:encoded>
-						<?php
-					}
+					// elseif ($key_2 == "content:encoded") {
+					// 	echo "<content:encoded><![CDATA[...]]></content:encoded>";
+					// }
 					elseif ($key_2 == "wp:status") {
 						?>
 	          <wp:status><![CDATA[publish]]></wp:status>
@@ -226,7 +230,7 @@ foreach ($array_3 as $key => $value) {
 							} else {
 								// echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
 								$errors[] = "translation -- semiadvanced_lookup -- $key_2 -- ".$value_2["export_value"]."";
-								
+
 								// exit;
 							}
 						}
@@ -236,7 +240,7 @@ foreach ($array_3 as $key => $value) {
 
 						if ($key_2 == "dyncontel_elementor_templates") {
 
-							$value_2["export_value"] = "12797";
+							$value_2["export_value"] = $defaults["dyncontel_elementor_templates"];
 						}
 
 					}

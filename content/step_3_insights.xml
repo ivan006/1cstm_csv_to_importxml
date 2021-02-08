@@ -51,7 +51,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="case-study"><![CDATA[]]></category>
 
@@ -96,7 +96,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="case-study"><![CDATA[]]></category>
 
@@ -141,7 +141,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="case-study"><![CDATA[]]></category>
 
@@ -186,7 +186,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="case-study"><![CDATA[]]></category>
 
@@ -231,7 +231,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="case-study"><![CDATA[]]></category>
 
@@ -276,7 +276,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -321,7 +321,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -366,7 +366,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -411,7 +411,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -456,7 +456,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -501,7 +501,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -546,7 +546,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -591,7 +591,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -636,7 +636,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -681,7 +681,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -726,7 +726,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -771,7 +771,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -816,7 +816,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -861,7 +861,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -906,7 +906,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -951,7 +951,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -996,7 +996,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1041,7 +1041,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1086,7 +1086,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1131,7 +1131,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1176,7 +1176,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1221,7 +1221,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1266,7 +1266,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1311,7 +1311,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1356,7 +1356,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1401,7 +1401,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1446,7 +1446,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1491,7 +1491,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1536,7 +1536,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1581,7 +1581,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1626,7 +1626,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1671,7 +1671,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1716,7 +1716,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1761,7 +1761,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1806,7 +1806,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1851,7 +1851,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1896,7 +1896,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1941,7 +1941,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -1986,7 +1986,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -2031,7 +2031,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -2076,7 +2076,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -2121,7 +2121,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="innovation-in-business"><![CDATA[]]></category>
 
@@ -2166,7 +2166,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2211,7 +2211,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2256,7 +2256,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2301,7 +2301,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2346,7 +2346,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2391,7 +2391,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2436,7 +2436,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2481,7 +2481,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2526,7 +2526,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2571,7 +2571,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2616,7 +2616,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2661,7 +2661,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2706,7 +2706,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2751,7 +2751,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2796,7 +2796,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2841,7 +2841,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2886,7 +2886,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2931,7 +2931,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -2976,7 +2976,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3021,7 +3021,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3066,7 +3066,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3111,7 +3111,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3156,7 +3156,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3201,7 +3201,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="new-technology"><![CDATA[]]></category>
 
@@ -3246,7 +3246,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3291,7 +3291,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3336,7 +3336,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3381,7 +3381,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3426,7 +3426,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3471,7 +3471,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3516,7 +3516,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3561,7 +3561,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3606,7 +3606,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3651,7 +3651,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3696,7 +3696,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3741,7 +3741,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3786,7 +3786,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3831,7 +3831,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3876,7 +3876,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3921,7 +3921,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -3966,7 +3966,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4011,7 +4011,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4056,7 +4056,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4101,7 +4101,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4146,7 +4146,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4191,7 +4191,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4236,7 +4236,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4281,7 +4281,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4326,7 +4326,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4371,7 +4371,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4416,7 +4416,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4461,7 +4461,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4506,7 +4506,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4551,7 +4551,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4596,7 +4596,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4641,7 +4641,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4686,7 +4686,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="software-best-practices"><![CDATA[]]></category>
 
@@ -4731,7 +4731,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -4776,7 +4776,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -4821,7 +4821,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -4866,7 +4866,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -4911,7 +4911,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -4956,7 +4956,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5001,7 +5001,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5046,7 +5046,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5091,7 +5091,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5136,7 +5136,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5181,7 +5181,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5226,7 +5226,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5271,7 +5271,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5316,7 +5316,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5361,7 +5361,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5406,7 +5406,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5451,7 +5451,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5496,7 +5496,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5541,7 +5541,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5586,7 +5586,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5631,7 +5631,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5676,7 +5676,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5721,7 +5721,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5766,7 +5766,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5811,7 +5811,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5856,7 +5856,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5901,7 +5901,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5946,7 +5946,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -5991,7 +5991,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6036,7 +6036,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6081,7 +6081,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6126,7 +6126,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6171,7 +6171,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6216,7 +6216,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6261,7 +6261,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6306,7 +6306,7 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
               <wp:status><![CDATA[publish]]></wp:status>
 
-              <wp:post_type><![CDATA[projects]]></wp:post_type>
+              <wp:post_type><![CDATA[insights]]></wp:post_type>
 
                 <category domain="category" nicename="teams-and-culture"><![CDATA[]]></category>
 
@@ -6344,3 +6344,4 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 
 </channel>
 </rss>
+s
