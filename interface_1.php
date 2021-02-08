@@ -50,118 +50,20 @@ foreach ($array_2 as $key => $value) {
 // echo json_encode($array_3);
 // exit;
 
-$fields = array(
-	array(
-		"export_name" => "title",
-		"type" => "simple_string",
-		"import_name" => "Heading",
-	),
-	array(
-		"export_name" => "content:encoded",
-		"type" => "simple_string",
-		"import_name" => "",
-	),
-	array(
-		"export_name" => "wp:status",
-		"type" => "simple_string",
-		"import_name" => "",
-	),
-	array(
-		"export_name" => "wp:post_type",
-		"type" => "simple_string",
-		"import_name" => "",
-	),
-	array(
-		"export_name" => "services",
-		"type" => "simple_multilookup",
-		"import_name" => array(
-			"Custom Solutions",
-			"Digital Transformation",
-			"Strategy and Advisory",
-			"Data Solutions",
-			"UX",
-			"Coaching & Training"
-		),
-	),
-	array(
-		"export_name" => "industries",
-		"type" => "simple_multilookup",
-		"import_name" => array(
-			"Financial Services",
-			"Banking",
-			"Insurance",
-			"Retail and Consumer Services",
-			"Logistics",
-			"Travel",
-			"Energy",
-			"Agriculture",
-			"Mining and Manufacturing",
-			"Industrials, Agriculture & Energy (Old)",
-			"Technology",
-			"Media",
-			"Telecommunications",
-			"Technology, Media & Telecommunications (Old)",
-			"Health",
-			"Education",
-			"Health & Education (Old)"
-		),
-	),
-	array(
-		"export_name" => "dyncontel_elementor_templates",
-		"type" => "semiadvanced_string",
-		"import_name" => "",
-	),
+$file="content\step_1_to_2.json";
+$fields = file_get_contents($file);
+$fields = json_decode($fields, true);
+
 	// array(
 	// 	"export_name" => "full_image",
 	// 	"type" => "advanced_lookup",
 	// 	"import_name" => "Card_logo_2",
 	// ),
-	array(
-		"export_name" => "company_logo",
-		"type" => "advanced_lookup",
-		"import_name" => "Logo",
-	),
-	array(
-		"export_name" => "_thumbnail_id",
-		"type" => "semiadvanced_lookup",
-		"import_name" => "Screenshots",
-	),
-	array(
-		"export_name" => "description_part_1",
-		"type" => "advanced_string",
-		"import_name" => "Content_part_1",
-	),
-	array(
-		"export_name" => "video",
-		"type" => "advanced_string",
-		"import_name" => "Video_link",
-	),
-	array(
-		"export_name" => "description_part_2",
-		"type" => "advanced_string",
-		"import_name" => "Content_part_2",
-	),
-	array(
-		"export_name" => "banner_color",
-		"type" => "advanced_string",
-		"import_name" => "Banner_strip_colour",
-	),
-	array(
-		"export_name" => "quote_color",
-		"type" => "advanced_string",
-		"import_name" => "Content_accent_colour",
-	),
-	array(
-		"export_name" => "tools",
-		"type" => "advanced_multilookup",
-		"import_name" => "Sanitised list",
-	),
-	array(
-		"export_name" => "company_logo_for_card",
-		"type" => "advanced_lookup",
-		"import_name" => "Card_logo_2",
-	),
-);
+
+
+// header('Content-Type: application/json');
+// echo json_encode($fields, JSON_PRETTY_PRINT);
+// exit;
 
 $multi_value_fields = array();
 foreach ($fields as $key => $value) {
