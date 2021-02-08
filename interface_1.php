@@ -15,11 +15,12 @@ $tsv= str_replace("\r\n</div>\r\n", "", $tsv);
 $tsv= str_replace("\r\n<div>\r\n", "", $tsv);
 $tsv= str_replace("<div>", "", $tsv);
 $tsv= str_replace("</div>", "", $tsv);
+$tsv= str_replace("&lt;img", "&lt;iimg", $tsv);
 
 $tsv= rtrim($tsv, "\n\r");
 $array_0 = html_to_obj($tsv);
 // echo json_encode(, JSON_PRETTY_PRINT);
-$array_1 = $array_0["children"][0]["children"][0]["children"][1]["children"];
+$array_1 = $array_0["children"][0]["children"][0]["children"][0]["children"];
 foreach ($array_1 as $key => $value) {
 	$array_2[$key] = array();
 	foreach ($value["children"] as $key_2 => $value_2) {
@@ -66,10 +67,12 @@ $fields = json_decode($fields, true);
 // exit;
 
 $multi_value_fields = array();
+$multi_value_fields["acf_lookup"] = array();
 foreach ($fields as $key => $value) {
 	if ($value["type"] == "simple_multilookup" OR $value["type"] == "semiadvanced_lookup" OR $value["type"] == "advanced_lookup" OR $value["type"] == "advanced_multilookup") {
 		$multi_value_fields[$value["export_name"]] = array();
 	}
+
 }
 
 
@@ -110,20 +113,27 @@ ob_start();
 					if ($value_2["type"] == "simple_multilookup") {
 
 						$temp_array = array();
-						foreach ($value_2["import_name"] as $key_3 => $value_3) {
-							if ($value[$value_3] !== "") {
-								// $temp_array[] = slugify($value_3);
-								$temp_array[] = $value_3;
-							}
+						if (is_array($value_2["import_name"])) {
+							foreach ($value_2["import_name"] as $key_3 => $value_3) {
+								if ($value[$value_3] !== "") {
+									// $temp_array[] = slugify($value_3);
+									$temp_array[] = $value_3;
+								}
 
+							}
 						}
-						echo json_encode($temp_array);
+						elseif (is_string($value_2["import_name"])) {
+							$temp_array = array($value[$value_2["import_name"]]);
+						}
+
 						if ($temp_array !== null) {
 							// code...
 							$multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], array_flip($temp_array));
 						}
+						echo json_encode($temp_array);
 					}
 					elseif ($value_2["type"] == "advanced_multilookup") {
+						$multi_value_fields["acf_lookup"] = array_merge($multi_value_fields["acf_lookup"], array($value_2["export_name"]=>1));
 						if (isset($value[$value_2["import_name"]])) {
 							if (strpos($value[$value_2["import_name"]], ',') !== false) {
 								$separator = ",";
@@ -144,7 +154,10 @@ ob_start();
 								// $multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], $value[$value_2["import_name"]]);
 								// $multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], $value[$value_2["import_name"]]);
 
-								$multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], array($value[$value_2["import_name"]]=>1));
+								if ($value[$value_2["import_name"]] !== "") {
+
+									$multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], array($value[$value_2["import_name"]]=>1));
+								}
 							}
 							else {
 								$temp_array = explode($separator, $value[$value_2["import_name"]]);
@@ -165,10 +178,26 @@ ob_start();
 						}
 					}
 					elseif ($value_2["type"] == "advanced_string") {
+						$multi_value_fields["acf_lookup"] = array_merge($multi_value_fields["acf_lookup"], array($value_2["export_name"]=>1));
 						if (isset($value[$value_2["import_name"]])) {
 							echo urlencode($value[$value_2["import_name"]]);
 						}
 
+					}
+					elseif ($value_2["type"] == "semiadvanced_lookup") {
+						if ($value[$value_2["import_name"]] !== "") {
+							// code...
+							$multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], array($value[$value_2["import_name"]]=>1));
+						}
+						if (isset($value[$value_2["import_name"]])) {
+							echo $value[$value_2["import_name"]];
+						}
+					}
+					elseif ($value_2["type"] == "advanced_lookup") {
+						$multi_value_fields["acf_lookup"] = array_merge($multi_value_fields["acf_lookup"], array($value_2["export_name"]=>1));
+						if (isset($value[$value_2["import_name"]])) {
+							echo $value[$value_2["import_name"]];
+						}
 					}
 					else {
 						if (isset($value[$value_2["import_name"]])) {
@@ -194,13 +223,21 @@ foreach ($multi_value_fields as $key => $value) {
 	ob_start();
 	?>
 	<table>
+		<tr>
+			<td>
+				db name
+			</td>
+			<td>
+				import name
+			</td>
+		</tr>
 		<?php foreach (array_keys($value) as $key_2 => $value_2) { ?>
 			<tr>
 				<td>
-					<?php echo $value_2; ?>
+					<?php echo $key_2 ?>
 				</td>
 				<td>
-					<?php echo $key_2 ?>
+					<?php echo $value_2; ?>
 				</td>
 			</tr>
 		<?php } ?>
@@ -249,8 +286,8 @@ foreach ($multi_value_fields as $key => $value) {
 			<summary>Details</summary>
 			<div class="" style="border:solid 1px grey;">
 
-				<!-- <textarea name="name" rows="8" cols="80"><?php //echo $data["body"] ?></textarea> -->
-				<?php echo $data["body"] ?>
+				<textarea name="name" rows="8" cols="80"><?php echo $data["body"] ?></textarea>
+				<?php //echo $data["body"] ?>
 			</div>
 		</details>
 

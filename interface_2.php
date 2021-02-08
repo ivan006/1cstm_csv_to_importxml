@@ -27,7 +27,7 @@ $array_0 = html_to_obj($tsv);
 // echo json_encode($array_0, JSON_PRETTY_PRINT);
 // exit;
 
-$array_1 = $array_0["children"][0]["children"][0]["children"][1]["children"];
+$array_1 = $array_0["children"][0]["children"][0]["children"][0]["children"];
 foreach ($array_1 as $key => $value) {
 	$array_2[$key] = array();
 	foreach ($value["children"] as $key_2 => $value_2) {
@@ -87,7 +87,7 @@ foreach ($array_3[2] as $key => $value) {
 		$lookup_array_0 = html_to_obj($lookup_tsv);
 
 
-		$lookup_array_1 = $lookup_array_0["children"][0]["children"][0]["children"][1]["children"];
+		$lookup_array_1 = $lookup_array_0["children"][0]["children"][0]["children"][0]["children"];
 		foreach ($lookup_array_1 as $key_1 => $value_1) {
 			$lookup_array_2[$key_1] = array();
 			foreach ($value_1["children"] as $key_2 => $value_2) {
@@ -104,6 +104,13 @@ foreach ($array_3[2] as $key => $value) {
 			if ($key_1 !== 0) {
 
 				$temp_value = trim(preg_replace('/\t+/', '', $value_1[1]));
+				if (!isset($value_1[1])) {
+					// header('Content-Type: application/json');
+					// echo json_encode($value_1, JSON_PRETTY_PRINT);
+					// exit;
+				} else {
+					// code...
+				}
 				if (!isset($value_1[0])) {
 					$errors[] =  "gen lookups ".$value_1[1];
 
@@ -534,7 +541,7 @@ function parse_table_to_json_for_lookup($file){
 	// echo json_encode($array_0, JSON_PRETTY_PRINT);
 	// exit;
 
-	$array_1 = $array_0["children"][0]["children"][0]["children"][1]["children"];
+	$array_1 = $array_0["children"][0]["children"][0]["children"][0]["children"];
 	foreach ($array_1 as $key => $value) {
 		$array_2[$key] = array();
 		foreach ($value["children"] as $key_2 => $value_2) {
