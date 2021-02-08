@@ -10,6 +10,11 @@
     "import_name": "Article"
   },
   {
+    "export_name": "excerpt:encoded",
+    "type": "simple_string",
+    "import_name": "Summary"
+  },
+  {
     "export_name": "wp:status",
     "type": "simple_string",
     "import_name": ""
