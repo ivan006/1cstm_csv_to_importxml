@@ -186,7 +186,10 @@ ob_start();
 					}
 					elseif ($value_2["type"] == "semiadvanced_lookup") {
 						if ($value[$value_2["import_name"]] !== "") {
-							// code...
+
+							if (strlen($value[$value_2["import_name"]]) > 50) {
+								$value[$value_2["import_name"]] = substr($value[$value_2["import_name"]], 0, 50)."...";
+							}
 							$multi_value_fields[$value_2["export_name"]] = array_merge($multi_value_fields[$value_2["export_name"]], array($value[$value_2["import_name"]]=>1));
 						}
 						if (isset($value[$value_2["import_name"]])) {

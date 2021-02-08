@@ -226,7 +226,7 @@ foreach ($array_3 as $key => $value) {
 							} else {
 								// echo "string"."lookup[$key_2][". $value_2["export_value"]."zzz";
 								$errors[] = "translation -- semiadvanced_lookup -- $key_2 -- ".$value_2["export_value"]."";
-
+								
 								// exit;
 							}
 						}
