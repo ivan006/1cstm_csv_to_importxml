@@ -160,7 +160,7 @@ foreach ($array_3 as $key => $value) {
 				if ($value_2["type"] == "simple_string") {
 					if ($key_2 == "title") {
 						?>
-						<title><?php echo $value_2["export_value"] ?></title>
+						<title><?php echo urldecode($value_2["export_value"]) ?></title>
 						<?php
 					}
 					elseif ($key_2 == "wp:post_type") {
@@ -169,7 +169,8 @@ foreach ($array_3 as $key => $value) {
 						<?php
 					}
 					// elseif ($key_2 == "content:encoded") {
-					// 	echo "<content:encoded><![CDATA[...]]></content:encoded>";
+					// 	// echo "<content:encoded><![CDATA[...]]></content:encoded>";
+					// 	echo  urldecode($value_2["export_value"]);;
 					// }
 					elseif ($key_2 == "wp:status") {
 						?>
@@ -178,7 +179,7 @@ foreach ($array_3 as $key => $value) {
 					}
 					else {
 						?>
-						<<?php echo $key_2 ?>><![CDATA[<?php echo $value_2["export_value"] ?>]]></<?php echo $key_2 ?>>
+						<<?php echo $key_2 ?>><![CDATA[<?php echo urldecode($value_2["export_value"]) ?>]]></<?php echo $key_2 ?>>
 						<?php
 					}
 				}
@@ -416,6 +417,7 @@ ob_end_clean();
 
 
 $data["body"]= str_replace("_linebreak_", "<br />", $data["body"]);
+$data["body"]= str_replace("<iimg", "<img", $data["body"]);
 
 
 ?>

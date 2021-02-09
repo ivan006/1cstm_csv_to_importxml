@@ -202,6 +202,11 @@ ob_start();
 							echo $value[$value_2["import_name"]];
 						}
 					}
+					elseif ($value_2["type"] == "simple_string") {
+						if (isset($value[$value_2["import_name"]])) {
+							echo urlencode($value[$value_2["import_name"]]);
+						}
+					}
 					else {
 						if (isset($value[$value_2["import_name"]])) {
 							echo $value[$value_2["import_name"]];
