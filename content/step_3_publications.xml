@@ -45,12 +45,12 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 <item>
             <title>The State of Artificial Intelligence</title>
 
-              <pubDate>Thu, 26 Jul 2018 14:18:00 +0000</pubDate>
-
               <content:encoded><![CDATA[<div id="publitas-embed-auguue9z9v"> </div> <script data-cfasync="false" data-height="undefined" data-publication="https://view.publitas.com/entelect/state-of-artificial-intelligence-introduced-by-entelect/" data-publication-aspect-ratio="1.5454545454545454" data-responsive="true" data-width="undefined" data-wrapperId="publitas-embed-auguue9z9v" publitas-embed src="https://view.publitas.com/embed.js" type="text/javascript"></script> <p> </p> <p> </p> <p>Artificial Intelligence has really woken up as an industry topic in the last two years, and it’s clear there is still a lot of confusion about what AI really means to us as consumers and businesses. Are we going to lose our jobs or become subjects of a runaway robotic overmind in our lifetimes?! I think a key challenge we face, especially as technology experts in industry right now is to demystify AI for everybody, to separate applications of it into things we can all understand. For example, we’re starting to see that there is a clear difference between an AI that follows rules and an AI that learns. <o:p></o:p></p> <p> <o:p></o:p></p> <p>The rules AI has a strict set framework and leverages formulaic computational strength to win out in an algorithmically intensive battle between a database and a human mind, but it is still very bounded. A well-known example is grand master chess player Garry Kasparov losing to IBM’s deep blue AI. While it’s despairing to know we may never beat Windows at chess again, in many ways these tools should replace menial tasks and jobs for us, and we should be happy for it because we’re then free as a workforce to do things that have more meaning: like planning and interpreting. Businesses should be excited about these, not because it is sexy AI, but because it is efficient. We rejoice as repetitive tasks disappear from our daily work, but as Kasparov himself pointed out, it’s one thing to design a computer to play chess at Grand Master level, but it’s another to call it intelligence in the pure sense. It’s simply throwing computer power at a problem and letting a machine do what it does best.<o:p></o:p></p> <p> <o:p></o:p></p> <p>The learning AI is a little more interesting and wild, and we’re really at the early stages of how to apply something like this. Also borne from newly accessible computational power, these AI systems actually teach themselves through observation and data. Some famous examples are Microsoft Tay, which famously became racist on Twitter in less than 24 hours, and Google’s image recognition platform which we’re all training each time we click pictures to ironically prove we’re not a robot online. For businesses looking to apply AI like this, it’s where things become tricky. First recognising that what you need is an AI that learns rather than an AI that repeats tasks with no experimentation, and then when taking the next step to accept that learning AI is still trained by its inputs. In the software industry we have a widely shared philosophy of “garbage in, garbage out” and this still holds true: just refer back to Microsoft’s Tay. This is where Google and Tesla are doing things right, they’re sourcing as much data as possible, with huge variety and volume to train their systems, giving autonomous driving and image recognition the best possible chance of succeeding.<o:p></o:p></p> <p> <o:p></o:p></p> <p>Ultimately, as a participant in the global technology industry, we have this responsibility to help our customers and partners cut through the hype, find real applications of what is incredible tech which can make it into production.</p> <p><o:p></o:p></p> <p><span style="font-size:10.0pt;font-family:"Helvetica","sans-serif"; color:black">- Matthew Butler, General Manager at Entelect<o:p></o:p></span></p>]]></content:encoded>
 
               <excerpt:encoded><![CDATA[Entelect introduces the "State of Artificial Intelligence" 2018]]></excerpt:encoded>
-              <wp:post_date><![CDATA[2001-02-08 16:21:50]]></wp:post_date>
+
+              <wp:post_date><![CDATA[2018-07-26 14:18:0]]></wp:post_date>
+
               <wp:status><![CDATA[publish]]></wp:status>
 
               <wp:post_type><![CDATA[publications]]></wp:post_type>
@@ -89,6 +89,850 @@ xmlns:wp="http://wordpress.org/export/1.2/"
 </item>
 
 
+<item>
+            <title>Retrospectives 2018</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/retros.jpg" style="width: 600px; height: 338px;" /></p> <p> </p> <p>by Sheldon Lyne. General Manager at Entelect</p> <p> </p> <p>Here at Entelect, we have a vision – to build something great! We do this by driving a culture of growth, relationships and a never-ending will to deliver value to our clients. This year has been a record year for us where many new initiatives have been undertaken. These have been crucial to our continued growth and vital in pushing us towards our goal – to be a prominent, multi-national end-to-end technology services and solutions provider. Through these, we have been able to transfer our philosophy, our core values and culture across new areas within the spectrum of the IT industry as well as new locations around the globe.<br /> <br /> To be able to reflect on an entire year across all divisions and departments in a company of close to 500, is truly a unique opportunity. In our Retrospective, I get to stop and look back at the year and see what we have all achieved. It is one of those rare moments that I get to pause, from helping to run an ever-growing organisation and reflect on all those things that have transpired. It is at this exact moment that I am overwhelmed with pride. 2018 has been a year where I have seen people grow, empower themselves and those around them. They have achieved their goals in their career and exceeded their own expectations.<br /> <br /> Yes, we are a technology company and there has been a diverse range of advancements in our technical knowledge, but this is not the only area in which I have seen growth, and this excites me! Each year we welcome a cohort of 45 top graduates around Africa. In general, these individuals arrive at Entelect, and are a little nervous about what career they are about to be launched into. I have had the privilege to watch many of these graduates from a few years back grow into true professionals, who are confident in their skill set, are capable of driving large teams to successful deliveries, are ready to drop everything to grow the people around them, and assist others that are going through a similar time in their career that they did.<br /> <br /> I have seen individuals show incredible bravery in stepping out of their comfort zones. Whether this has been taking some hard feedback on the chin and finding a way to do something about it or getting into a bigger project than they have ever worked on before (and they have made an absolute success of it). I have witnessed people step into leadership roles and take responsibility for growing the people around them as well as people moving into new environments and influencing positive change - as if doing this was a part of their normal day.<br /> <br /> At the end of 2018, I cannot be more proud to be working alongside the passionate professionals that have chosen to be part of our journey. In sharing our passion of making IT better than it has ever been. In believing that we are a company that proves that software development is not synonymous with non-delivery. In helping us prove that it is possible to have a great culture without sacrificing delivery and customer satisfaction. In adopting that we can be both successful and do good for people.<br />  </p> <p>Visit Retrospectives 2018 here: <a href="https://retrospectives.entelect.co.za">https://retrospectives.entelect.co.za</a> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Here at Entelect, we have a vision – to build something great! We do this by driving a culture of growth, relationships and a never-ending will to deliver value to our clients. This year has been a record year for us where many new initiatives have been undertaken. These have been crucial to our continued growth and vital in pushing us towards our goal – to be a prominent, multi-national end-to-end technology services and solutions provider. Through these, we have been able to transfer our philosophy, our core values and culture across new areas within the spectrum of the IT industry as well as new locations around the globe.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2018-12-07 07:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23336]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>From Here to There: A guide to creating disruptive software</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub-Post1-TW.png" style="width: 800px; height: 400px;" /></p> <p> </p> <p>As a mature organisation who has had success in a traditional business model over the years, you see a need to evolve with the ever-changing demands of customers through technology. Furthermore, technology is able to unlock hidden value within the business, and present new potential offerings and revenue streams. By using abductive thinking, with a focus on design, carefully understanding customers, and evaluating the strengths of the business, novel solutions surface which often serve as key differentiators for the organisation. People and technology are crucial components to creating disruptive software while iteratively improving and learning.</p> <p> </p> <p>The journey starts now.</p> <p> </p> <p> </p> <p><a class="button-box2 button-box" href="http://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/FromHeretoThere-Aguidetocreatingdisruptivesoftwareinenterprise.pdf">Download the Publication</a></p> <p> </p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Technology has the ability to unlock hidden potential within businesses and present new offerings. Learn about the journey of creating disruptive software solutions in enterprise…]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2019-11-07 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23399]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Creating a vision</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub3-TW.png" style="width: 800px; height: 400px;" /></p> <p> </p> <p> </p> <p>It all starts with a vision. Often business-as-usual includes putting out fires, making sure the small things are happening, and meeting short-term targets. For an organisation to truly be disruptive, it needs an overarching vision of where it wants to be – no matter how ambitious it might be. Without an ambitious vision, organisations tend to wither away over time. Let’s explore the facets that can guide defining a vision.</p> <p> </p> <p><strong>01. WE ARE ALL PEOPLE, WE ARE ALL USERS</strong></p> <p><br /> As users, we all know what it feels like to get frustrated with technology, but we also know the immense joy and empowerment it can bring to our lives when a solution is done right. We have apps on our phone that we simply cannot live without, other apps that are deleted within 3 seconds of downloading, and apps that are simply relegated to the app graveyard.</p> <p> </p> <p>As people, we don’t care about features, we care about accomplishing a goal. It might be communicating with loved ones, managing finances, or sharing your memories. The technical bits that make these things happen mean nothing.</p> <p> </p> <p>The key to the success of a digital solution is adoption by users and that can only be enabled through empathy for all involved, using robust qualitative research (research that’s more opinion) and quantitative research (research that’s more empirical).</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/1.png" style="padding: 0px 15px; width: 300px; float:right;" /></p> <p style="margin-top:20px"><strong>02. HOW IDEAS ARE SHAPED</strong></p> <p><br /> The life of a solution begins with an idea; the business recognises a challenge and feels it may be solved through technology. Business stakeholders may already have a clear idea of what form the solution should take, what type of tech to use and what the eventual outcome may look like. The important factors often forgotten are seeing the solution as a vehicle for strategic innovation by empathising with the people actually involved in the trenches and being open-minded about who the customers are, what their goals are, and how these ideas can address those issues while providing business value.</p> <p> </p> <p><strong>03. THE ROLE OF UX ENGINEERING: UNDERSTANDING</strong></p> <p><br /> UX engineering means to be involved with business and technical stakeholders from the very beginning to understand the potential constraints and opportunities for any potential solution. This can take many forms, such as stakeholder interviews or focus groups, heuristic evaluation (expert assessments of existing systems) and analysis of existing user data, and business or technical processes. This will allow the construction of a broad framework to direct research and design goals. Without this step, the solution is at risk of being designed solely for the assumed requirements and not the ecosystem in which the solution must live.</p> <p> </p> <p>While a thorough understanding of the business and technology is vital, it should not affect the necessary objectivity or empathy required when engaging with the users or potential users of the solution. To retain objectivity and guide a user-centred design approach, we must employ rigorous research methods ranging from large quantitative data-gathering to smaller, more targeted qualitative exercises. The type of research methods selected are as important as the research itself and the project should have a strategic UX plan to guide that process. The next diagram shows where different research approaches fit within the UX research landscape.</p> <p> </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/2.png" style="padding: 0px 15px; width: 400px; float:left;" /></p> <p> </p> <p style="margin-top:20px;">There are many considerations when choosing which research method to use and the following should be considered at the start of every project:</p> <p><br /> •    What is this research method typically used for?<br /> •    What will implementing this method cost?<br /> •    How difficult will it be to collect the data?<br /> •    How difficult will it be to analyse the data?<br /> •    What type of research category does this fall into?<br /> •    What is the context of use of the method?</p> <p> </p> <p> </p> <p>In addition to classic UX research methods, there are many new ways in which UX engineers engage with both stakeholders and users. One that has gained traction over recent years is Design Sprints. Design Sprints were created to condense and target various UX methods such as stakeholder engagement and user testing into a fast and furious 5 days. More on this coming up.</p> <p> </p> <p><strong>04. THE ROLE OF UX ENGINEERING: INTERPRETING AND EXTERNALISING</strong></p> <p><br /> The activities and artefacts generated through UX engineering include valuable information from different dimensions of the business and project. These finding are invaluable references for making critical decisions about features and direction.  </p> <p><br /> •    Contextual inquiries: Data-gathering technique combing observational research and semi-structured interviews in the user’s context of use<br /> •    One on one interviews and/or focus group transcripts and analysis<br /> •    Thematic analysis: Ways to organise research gathered, such as interviews or observations into useful and consistent themes<br /> •    Personas: Consolidating research on users into imagined users to represent a larger set of data<br /> •    User journeys: Mapping the entire journey that a user/customer takes during their use of a product or service, which aids in understanding sentiment, needs and goals</p> <p> </p> <p style="margin-top:20px"><strong>05. DESIGN SPRINT: PARTICIPATORY DESIGN</strong></p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/3.png" style="padding: 0px 15px; width: 250px; float:right;" /></p> <p>A Design Sprint is an excellent tool in the case where the business needs to be involved in ideation. As mentioned previously, this is a 5-day design process including all those that will be involved in making the project a success. Prior to beginning the sprint, those involved must have consumed the research gathered in the previous phase of the design lifecycle and now have solid grasp of their users.</p> <p> </p> <p> </p> <p><strong>Day One</strong><br /> We define our goals both for the business and the users. We then define the actors involved in the business problem and then map their journey towards the defined goals. We will also come up with questions and ideas through a process called "How Might We" (HMW). This involves crowd sourcing thoughts in a structured way to provide detailed context about a process. Additionally, it highlights areas of interest through a voting process.</p> <p> </p> <p><strong>Day Two</strong><br /> We’ll begin sketching out possible solutions to the problem. There are many methods we use to encourage creativity and allow stakeholders to explore their ability to ideate, free of constraints. We will then display the works, present them and vote on them.</p> <p><br /> <strong>Day Three</strong><br /> We’ll do the final round of voting and then begin storyboarding the solution using the best parts of each idea or sketch. As you can see, we start with individuals working collectively to form individual ideas, that are then voted on and consolidated into a single vision – this is why the eventual storyboard is so powerful.</p> <p> </p> <p><strong>Day Four</strong><br /> On the fourth day, our design team prototypes the solution. The other stakeholders may be involved if they so desire or if it is necessary to the goal, but it is often just the design team that manages this part of the process. We design a working prototype to test with real users the next day.</p> <p> </p> <p><strong>Day Five</strong><br /> On the fifth day, we venture out into real-world operations where the solution may be used. User testing is conducted and provides an opportunity to learn and validate solutions. This gives us crucial insights into the viability of a solution or part of a solution which can then be reported back to the stakeholders. In this way, we can know what works and what doesn’t with little time wasted if the idea fails and much gained if it is a success.</p> <p> </p> <p>Prototyping and testing are however more involved processes for the solution as a whole. So, while the Design Sprint offers a way to tackle innovation and collaboration on specific areas of a solution, dedicated and extensive prototyping and testing is still required.</p> <p> </p> <p><strong>06. TEST AND REFINE</strong></p> <p style="margin-left:20px"><br /> The power of the prototype is that one can create a testable design in significantly less time than it takes to develop a solution in code. According to Dr Susan Weinschenk in her paper Usability: A Business Case, 50% of development time can be saved by doing UX research upfront. Testing can take many forms, much like the user research mentioned above. Some of the same techniques we saw in the user research phase can and will be repeated here, for example:</p> <p style="margin-left:20px"> </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/4.png" style="padding: 0px 15px; width: 250px; float:right;" /></p> <p> </p> <p>•    Usability-lab studies: Controlled and observed test of users, using your prototype.<br /> •    Eye tracking: Users eye movements are tracked while using a prototype, to understand focus areas and how to optimise the design.<br /> •    A/B testing: Testing variations of your prototype or elements of it, to see which designs users favour.</p> <p> </p> <p><br />  </p> <p> </p> <p>Based on the testing done on the prototypes, the UX engineer can continue to refine the designs until they have been optimised. The reporting done during the prototype testing is again hugely valuable for the understanding of all stakeholders as to why certain design decisions have been taken. In fact, it is ideal if the product owner and team attend some of the user tests, as this engenders empathy and understanding directly.</p> <p> </p> <p><strong>07. THE RECURSIVE VALUE OF UX</strong></p> <p><br /> If a UX engineer is included in the process, it will have continuous value to all those involved in the project later down the line. The result should be a set of validated and tested prototypes that consolidate all stakeholders needs into a design vision. It should also enable decision makers, architects, developers and analysts to add value to the solution in new and innovative ways, driven by a robust body of research.</p> <p> </p> <p>Read the full From <a href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">Here </a>to There publication here.</p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[It all starts with a vision. Often business-as-usual includes putting out fires, making sure the small things are happening, and meeting short-term targets. For an organisation to truly be disruptive, it needs an overarching vision of where it wants to be – no matter how ambitious it might be. Without an ambitious vision, organisations tend to wither away over time. Let’s explore the facets that can guide defining a vision.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2019-12-05 16:05:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23402]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Retrospectives 2019</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/Retrospectives2019-LI-FB.png" style="width: 800px; height: 418px;" /></p> <p> </p> <p> </p> <p>With technology ever-changing, it’s always good to take a step back and look at a snapshot of where we are right now. We look back at the approaches, languages, frameworks, tools and everything else we need to create quality software that has delivered real business value. Doing this each year allows us to identify trends in technologies and their adoptions - retrospection!</p> <p> </p> <p>Towards the end of each year, we ask our 600 professionals to complete a “State of Technology” survey, asking a variety of questions from the tools and processes we put to use, to some fun and interesting practices. We have spent the year working across multiple industries and tech stacks, in both local and global organisations. This has equipped us with a plethora of knowledge and experience to derive and share meaningful insights via the survey.</p> <p> </p> <p>Entelect focuses on building large-scale, robust enterprise software utilising best industry practices and fit-for-purpose technologies. We deliver end-to-end solutions by considering all facets involved in solving real-world business problems that help organisations unlock potential. Learn more about how we take organisations From Here to There.</p> <p> </p> <p>Here are some industry observations we’ve seen in 2019.</p> <p> </p> <p>Cloud adoption is definitely on the way up, with a number of South African corporates embracing it, no doubt aided by the launching of new local data centres. Microsoft Azure launched in the South African North and West regions, and Amazon Web Services (AWS) is expected to launch in Cape Town in the first half of 2020. This helps fuel the DevOps movement to automate integration and deployment processes, with containerisation and orchestration continuing to be a big theme of 2019.</p> <p> </p> <p>Appetite for an API economy is still on the rise, especially with financial institutions looking to grow business-to-business partnerships by exposing some of their data and functionality. API managers and gateways are becoming commonplace with controlled access to underlying (micro)services.</p> <p> </p> <p>The focus on the end-users has led to a big drive in the fields of customer and user experience (CX & UX), with more and more projects kicking off with the goal of ensuring user needs coupled with long-term strategic vision are front and centre.</p> <p> </p> <p>With respect to coding languages being utilised, expect no big surprises with C#, Java, JavaScript and SQL still dominating the industry. Kotlin and Swift are of course now the languages to use when starting out new native Android and iOS applications respectively (over Java and Objective-C). We do expect to see a bit more usage of Go, Scala and Python in 2019 going through to 2020.</p> <p> </p> <p>Single-page applications are becoming the norm for web development, with React probably making gains on Angular as the framework of choice for new projects. TypeScript of course has always been popular after Angular took the baton from AngularJS, but is recently drawing more favour from the rest of the JavaScript community, including usage with React and Node.js.</p> <p> </p> <p>With support and maturity increasing for Progressive Web Apps, they have been growing in popularity with Apple seemingly also turning the corner after historically not embracing them as much as Android. Native mobile development is the preference in general for consumer focused products of larger organisations who can support multiple/hybrid app teams. In terms of hybrid and cross-platform offerings, React Native seems to be the most favoured over Cordova/PhoneGap, with some interest spiking in Google’s Flutter.</p> <p> </p> <p>In the data space, data lakes are being utilised more and more, while PowerBI is being embraced by more organisations over Qlik and Tableau tools. This year augmented analytics (with the use of enabling technologies such as AI and Machine Learning) has been making insights more prevalent and increasing data literacy across organisations.</p> <p> </p> <p>Being in a fast-paced environment, it is important to keep up with the latest trends and skills required to deliver quality software. Here’s looking forward to an exciting 2020!</p> <p> </p> <p>- Greg Schroder. Manager: Solutions Architecture at Entelect</p> <p> </p> <p> </p> <p><a class="button-box2 button-box" href="http://retrospectives.entelect.co.za">Click here to read the full publication </a></p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[With technology ever-changing, it’s always good to take a step back and look at a snapshot of where we are right now. We look back at the approaches, languages, frameworks, tools and everything else we need to create quality software that has delivered real business value. Doing this each year allows us to identify trends in technologies and their adoptions - retrospection! Towards the end of each year, we ask our 600 professionals to complete a “State of Technology” survey, asking a variety of questions from the tools and processes we put to use, to some fun and interesting practices. We have spent the year working across multiple industries and tech stacks, in both local and global organisations. This has equipped us with a plethora of knowledge and experience to derive and share meaningful insights via the survey.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2019-12-06 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23339]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>The business perspective: Ambition and differentiation</title>
+
+              <content:encoded><![CDATA[<p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub4-TW.png" style="width: 800px; height: 401px;" /></p> <p><br /> As outlined in the previous chapter, the life of a disruptive solution in an established enterprise should always start with a vision. The vision for where an organisation wants to be, what it looks like, and what it offers in future is where innovation happens, as opposed to putting out fires and only addressing the problems that exist now. The business aspect in the lifecycle is critical to the success of the solution. Ultimately, the solution is simply a tool to facilitate the ambitions of the business and possibly differentiate from competitors. This chapter looks at the important facets in a successful solution regarding alignment, evaluating value, mitigating risk, assigning accountability, and understanding the operations of the business.</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/BusinessPerspective-01.png" style="padding: 0px 15px; width: 400px; float:right;" /></p> <p><strong>01. Alignment: Stakeholder buy-in and alignment</strong></p> <p style="margin-right:100px;">After the process of exploring and defining a vision - which stakeholders from different areas in the business should be part of - a consensus must be agreed upon by the stakeholders. Key decision-makers, including executives, managers, and operations, must have an understanding of exactly what is trying to be achieved and how it will impact their respective areas. The proposed solution should be well understood and in alignment with existing initiatives and tactics, or at very least, not directly hinder them.<br /> <br /> Innovative solutions usually challenge the status quo which causes uneasiness among stakeholders, and challenges the existing tried and trusted ways of doing things. However, if the need for change is embraced, driven top-down and transparent, then the energy and willingness of teams are boosted, which usually reduces friction.</p> <p style="margin-right:100px;"> </p> <p style="margin-right:100px;"> </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/BusinessPerspective-02.png" style="padding: 0px 15px; width: 200px; float:left;" /></p> <p style="margin-left:100px;"> </p> <p style="margin-left:100px;"><strong>02. Value: Data-driven decisions</strong></p> <p><br /> It tends to be easy to make decisions based on gut-feel and push your ideas because, well, they’re your ideas – you want to add value and be recognised for doing so. But this becomes dangerous when an idea, or at least the core mechanics of the idea, have not been validated.</p> <p> </p> <p>It can’t be disputed that people with years of experience in an industry or business understand underlying trends and invisible consequences of actions, but that intuition is based on the past. Businesses have thrived via traditional models while making small tweaks to react to the market and demands of the consumer. But rapid advances in technology require one to take a step back, and apply knowledge and experience while taking some risk in trying something unheard of.</p> <p> </p> <p>This risk can be mitigated by making decisions based on data. By utilising data from sales, retention, behaviour and usage, operations, and the respective costs for those areas, decisions can be based on facts rather than a hunch. Analysing competitor performance where they have adopted similar approaches is also useful in validating the viability of a solution. Although these techniques do not eliminate risk completely, they provide guidance and informs decisions going forward.</p> <p> </p> <p> </p> <p><strong>03. Cost vs value</strong></p> <p><br /> One of the primary considerations for embarking on an innovation project is the cost versus value to execute. What is the return on investment? When will it start making a difference? As with anything, a return on investment, especially a big one, is not guaranteed. However, there are different approaches to consider that can reduce costs, and ease sceptical minds. These approaches include design sprints where ideas are fleshed out, prototyped, tested, and reported on during the week before a large project is undertaken.</p> <p> </p> <p>Another approach is minimum viable product (MVP) based development. The controversy – MVP is often misunderstood as “what we have plus these things”. An MVP should simply contain the “what we have”, or the “plus these things”, or do something different. Migrating existing features to a new technology is not an “innovation” project; it is good practice if a legacy system is no longer viable. Sure, this might enable future innovation, but we’re talking about truly doing something differentiating.</p> <p> </p> <p>The most successful approach is to embrace change and accept failure. To accomplish this, you commission a team to work on the new project, but priorities are decided on at each sprint, or each month. If they need improvement, great – iterate. If they don’t work, throw them away. If the entire idea is doomed, disassemble the team. The cost of running a team on a month-to-month basis while testing ideas and reacting to them is always cheaper than commissioning a team for a long period of time, with a constrained specification and no room to adapt to the ever-changing business and technology landscape. Every cost that yields learning is valuable – the trick is to strike a balance. Cost of learning must be accepted, however, learning and never leveraging it for business value can be detrimental.  </p> <p> </p> <p><strong>04. Risk: Change management and service design</strong></p> <p><br /> Apart from the cost of development, the biggest risks in these projects are more related to change management or service design. The individuals in the organisation have learnt the lay of the land, and it is human nature to resist change.</p> <p> </p> <p>The management of training, education, and roll-out with everyone on the same page is a difficult feat if not enough attention is paid to it. This is true for customers as well. Organisations often change their offerings and receive backlash from customers even though the new solution is objectively better – humans don’t like change. Strategic thinking and a pragmatic approach are needed.</p> <p> </p> <p><strong><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/BusinessPerspective-03.png" style="padding: 0px 15px; width: 400px; float:right;" /></strong></p> <p> </p> <p><strong>05. Risk: Consistency over big bang</strong></p> <p><br /> Another risk is in setting immovable deadlines for releases of big chunks of the solution. This usually ends in a sub-par experience, poor technical quality, or unmet expectations.</p> <p>An approach to mitigate this is to release smaller iterations faster, test the behaviour and impact, refine, and repeat for every aspect of the solution.</p> <p>In implementation, this can make expectations difficult to manage – but if it was easy, everyone would be a world-class, bleeding edge enterprise. More often than not, consistency is more sustainable and successful in the long run over big bang releases.</p> <p> </p> <p> </p> <p> </p> <p><strong>06. Accountability: Decision making</strong></p> <p><br /> Although there should be buy-in and alignment among a variety of stakeholders, there must be an individual owner and decider. This person should have the strategic insight of the organisation, have autonomy in making critical decisions, and influence change. This individual must lean on others for different insights and direction, but ultimately, projects that rely on many people for approvals typically create blockers, lose momentum, and drain energy due to bureaucracy. Making decisions as a committee is almost always nuanced causing long wait times or poor outcomes due to a single individual not being invested and held accountable.  </p> <p><br />  <br /> The decision-maker must be available and decisive. Do you need to allocate office space for this special project? This person should be able to make the call. Need to provision an account for a specific technology or platform? This person should be able to make the call. This individual is ultimately responsible and accountable for the solution and people involved in making it happen. Furthermore, the individuals that comprise the team should have autonomy and use their discretion for micro decisions that need to be made on a daily and hourly basis. By embracing this, measuring solution performance, and being open to iterate and fail, magic happens.</p> <p> </p> <p><strong>07. Priority and communication</strong></p> <p><br /> Friction in priority and communication are common themes in innovation projects. Everyone is excited and looking for how they can leverage the initiative. Having a single solution provide direct value to multiple stakeholders in different departments within the organisation can be problematic. It is obvious that each stakeholder will look out for their own department first and negotiate for their priorities. A strong owner must be able to understand the needs of the different stakeholders, prioritise, and communicate what will happen, when it will happen, and why that decision is preferable.  </p> <p> </p> <p><strong>08. Business Analysis: Understand operations at all levels</strong></p> <p><br /> It is important to understand the operations of the business from all levels. For example, what are the economies within the business, what is the average customer acquisition cost, what is the process followed in branches, what daily planning happens for different teams. A general understanding of these facets reveals hidden mechanisms which mould the solution, helps address problems before they happen, and creates champions for progression in the employee structure if they are involved and heard from the beginning.  </p> <p><br />  <br /> After looking at the processes that exist in the business, hidden business rules, exception cases, and ways to handle them emerge. This understanding allows for consolidation of business rules, simplification, and leaner operations. These rules will also be changed and/or developed into the new solution being developed. With more unknowns comes more complexity, cases to cater for, and uncertainty.  </p> <p><br />  <br /> Although embracing iterative development, failure, and learning is good, this does not negate the need for a concise and understandable functional specification. This could be a document, but more preferably, user stories that both business and technology teams can understand. The use of collaborative tools to track stories and share details about them is invaluable to productivity. These can manifest in story boards, wikis, and other tools that improve the productivity of everyone – do what works for the people.</p> <p> </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/BusinessPerspective-04.png" style="padding: 0px 15px; width: 350px; float:left;" /></p> <p><strong>09. IT and technology</strong></p> <p><br /> There is a chapter about technology later, but at this point in the journey, it is critical to involve and build rapport with the existing IT teams. Generally, IT divisions have been a function within the company that took care of the infrastructure to enable individuals within the organisation. This included overarching concerns such as provisioning of computers, managing networks, managing software licences, and sometimes developing solutions.</p> <p> </p> <p> </p> <p> </p> <p> </p> <p>In this day and age, IT is part of almost every business function. IT skills and decision makers are mandated to build and maintain technology. For this to be successful, business and technology must work together and cannot be separated concerns anymore. Involving IT teams in at the beginning creates ownership, buy-in, and energy to work together rather than receiving tasks with little context over a wall. Understanding the existing IT landscape is useful in planning ahead. Existing adopted technology should not stifle the technology decisions for the solution, but planning for how it can be incorporated as seamlessly as possible is a real need which is better embarked on earlier rather than later.</p> <p> </p> <p>Ultimately, the success of any solution, whether it involves technology or not, is centred around people. We need to facilitate communication and alignment in understanding, mitigate risk, forecast value, and learn from what we do. With these fundamental principles, solving hard problems becomes easier.</p> <p> </p> <p><br /> Read the full <strong>From Here to There</strong> publication <a href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">here</a>.</p> <p> </p> <p> </p> <p> </p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[As outlined in the previous chapter, the life of a disruptive solution in an established enterprise should always start with a vision. The vision for where an organisation wants to be, what it looks like, and what it offers in future is where innovation happens, as opposed to putting out fires and only addressing the problems that exist now. The business aspect in the lifecycle is critical to the success of the solution. Ultimately, the solution is simply a tool to facilitate the ambitions of the business and possibly differentiate from competitors. This chapter looks at the important facets in a successful solution regarding alignment, evaluating value, mitigating risk, assigning accountability, and understanding the operations of the business.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2019-12-12 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23405]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Quality and certainty rely on a process</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub5-FB-LI.png" /></p> <p> </p> <p> </p> <p>Any engineering discipline requires a reliable process to produce solutions or products that bring value to an organisation. The chosen process should help teams to deliver a quality solution or product within a predictable timeline and at a sustainable pace. In software, this process is called the Software Development Life Cycle (SDLC) which has process elements including requirements gathering, design, implementation, testing, deployment and maintenance. Various nuances of these process elements exist and are applied differently depending on the environment the team find themselves in.</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/Jan2020-1.png" style="padding: 0px 15px; width: 400px; float:right;" /></p> <p><strong>01. Agile means being adaptable</strong></p> <p><br /> Software teams struggle when the principles and values of the chosen process are rooted in traditional manufacturing and engineering disciplines. The software engineering profession is fundamentally different in several ways which causes traditional processes to fail.</p> <p> </p> <p>Traditional planning is centred around predictable tasks or activities with known manufacturing times while software projects usually start with an end goal and the tasks or activities are discovered and figured out along the way. </p> <p> </p> <p>Progress is not linear to time because in problem solving, people generally start to work faster as soon as the problem is solved. In traditional manufacturing, the throughput rate is usually consistent and linear to time.</p> <p> </p> <p>In the following sections we will look at some key considerations for implementing a successful software development process. Whether your organisation calls it Agile, Waterfall or any hybrid SDLC in between those two extremes, we advocate to focus on getting four key considerations right for the development process. They are called considerations because this gives organisations the freedom to make it work in their context instead of feeling like they are failing because they do not follow the Agile or Waterfall textbook.</p> <p> </p> <p><strong>02. Software Development Lifecycles</strong></p> <p><br /> The first consideration is demystifying the noise around the SDLC and whether teams are following an Agile approach. The reality is that Agile is not a process, but rather a set of values and principles that a team lives and applies daily. This gives the team the freedom to follow any process or methodology they like while pursuing continuous improvement in iterative cycles.</p> <p> </p> <p>The Agile manifesto proposes the following values for an adaptive team and development lifecycle:</p> <p><br /> •    Individuals and interactions over processes and tools</p> <p><br /> •    Working software over comprehensive documentation</p> <p><br /> •    Customer collaboration over contract negotiation</p> <p><br /> •    Responding to change over following a plan</p> <p> </p> <p>That is, while there is value in the items on the right, we value the items on the left more.</p> <p> </p> <p>If we evaluate the manifesto from a process point of view, it is clear that whatever methodology you choose, make sure you have regular interactions with all stakeholders in the project. The process should make time in everyone’s calendars to talk and discuss the project. The goal is to have effective conversations about the project on a regular basis and we have found that co-location and face-to-face discussions is the preferred approach. The best alternative to co-location and face-to-face discussions is to have video conferencing combined with an instant messaging platform geared towards group discussions. When working with a distributed team, the most effective approach is when everyone is remote. A co-located group with a minority of individuals remoting in tends to treat the remote members as second-class citizens.</p> <p> </p> <p>The process must enable the delivery of working software instead of creating documents which do not solve business problems. Documentation must have an audience and only describe concepts which do not often change, e.g. project vision and purpose, logical system architecture, and business rules and key decisions made during the project that have a significant impact. Specifying features in detail will often not be accurate and maintaining the documentation becomes cumbersome and adds little value.</p> <p> </p> <p>Economic factors will play a role in customer collaboration, and so contract negotiation cannot be ignored. Projects do not have unlimited budgets and need to be delivered within the economic constraints of the business. The principle here is that if customers are part of the development process, then the solution or project will evolve and change with the team. The scope negotiated at the start of the project should not be enforced to the letter if the final delivered solution still solves the business problem, which is typically not the same as originally envisaged at inception. Being clear on the project vision and purpose at the start of the journey will aid the team to make decisions as the project evolves and test their decisions against this vision and purpose.</p> <p> </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/Jan2020-2.png" style="padding: 0px 15px; width: 400px; float:left;" /></p> <p> </p> <p>Regular planning sessions enable the team to respond to change rather than creating a plan up front and sticking to it no matter what. Different levels of planning from a high-level flight plan, to a sprint plan broken down into tasks all contribute to keeping the team focussed on what must happen next while keeping an eye on the overall project progress. Scope creep or changes in direction need to be embraced but must be done in a responsible way. Changes in planning should be done between iterations to keep the team focussed during the iteration. Having a high-level flight plan coupled with a detailed sprint plan helps the team to determine the impact of scope changes to the overall project scope.  The stakeholders must be involved in the planning sessions to make decisions if plans need to be adjusted.</p> <p> </p> <p><strong>3. Cross-functional teams</strong></p> <p><br /> Other considerations for software development processes include skills and capability, prioritisation, and participation and transparency.</p> <p><br /> Any process is only as good as the people who execute it, and making sure that a team of individuals have the right skill combinations for the problem space, is how we build self-organising teams. This requires people to have analysis, development, testing, data and project management skills within the team. It does not mean that one person is responsible for each of these disciplines but rather the team needs these skills spread across individuals.</p> <p> </p> <p>Large organisations tend to employ people to fulfil a specific responsibility in the SDLC, e.g. only do analysis, development, testing or project management. This approach will inevitably lead to silos and bottle necks within the organisation, coupled with a large management overhead.</p> <p> </p> <p>The size of a team is also a factor which is considered. Having two teams of 5 is usually more effective than having one team of 10. Quality practices like pull requests, code reviews and interpersonal communication are all affected by the size of a team. A truly self-organising team requires a high level of awareness within the team and this becomes challenging in a large team.</p> <p> </p> <p>Prioritisation and clarity, or a shared understanding of what needs to be built, is the cornerstone of effective software teams. A self-organising team is about trusting the team to figure out how to solve a problem. It is not about letting the team figure out business priority and what needs to be solved. The process for delivering good software ensures that a shared understanding is created between the business stakeholders and development team, which is why a good project vision is key. Techniques like joint application design (JAD) sessions, event storming and user journeys/storyboards are all powerful ways to create a shared understanding.</p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/Jan2020-3.png" style="padding: 0px 15px; width: 400px; float:right;" /></p> <p> </p> <p>To effectively prioritise, the team and decision makers need to gain insight into the value vs effort, as well as dependencies to deliver. Clear and concise acceptance criteria for tasks or user stories will enable the team to estimate with a higher level of confidence and point out any dependencies which need to be resolved before development can start.</p> <p> </p> <p>Creating a backlog of user stories or features with clear acceptance criteria and associated effort estimations, enables decision-makers to weigh up different options. This allows them to decide on what the team needs to work on for the next period. This can only happen if the decision-makers are available for the relevant ceremonies conducted in the team for project planning and discussions. Context, continuity and authority to make decisions in the business make for successful projects. When decision making is deferred to a group of people who are not involved in the project on a regular basis, it usually results in rework, missed deadlines and demotivated teams.  </p> <p> </p> <p><strong>4. Take aways</strong></p> <p><br /> The final consideration for a good process is participation and transparency from all stakeholders. People enjoy ownership of delivery if they are part of the planning and decision-making process. Making commitments on behalf of the delivery team leaves them feeling like resources and demotivated. A process that enables open feedback with regular demos and a safe environment which values the ideas from all stakeholders lead to a more refined solution. End users will have a better experience using the solution and focus will be given to high value features.</p> <p> </p> <p> </p> <p><a class="button-box2 button-box" href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">Read the full From Here to There publication </a></p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Any engineering discipline requires a reliable process to produce solutions or products that bring value to an organisation. The chosen process should help teams to deliver a quality solution or product within a predictable timeline and at a sustainable pace. In software, this process is called the Software Development Life Cycle (SDLC) which has process elements including requirements gathering, design, implementation, testing, deployment and maintenance. Various nuances of these process elements exist and are applied differently depending on the environment the team find themselves in.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-01-08 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23408]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Technology: Understanding the digital landscape</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub6-FB-LI.png" /></p> <p> </p> <p>Software plays a role in almost every part of every business. Technical teams are responsible for understanding the digital landscape within the organisation and outside of it. This includes selecting the most sensible tools and frameworks to solve problems, and designing software using best practices to enable maintainable solutions that can evolve going forward.</p> <p> </p> <p>In order to make system design decisions, some level of understanding is needed of what the envisioned functional and non-functional requirements are. The following questions need to be answered:</p> <p><br /> •    What is the problem we are trying to solve?  <br /> •    Who/what will use it?  <br /> •    What does the existing technology landscape look like and what integrations are needed?  <br /> •    How must it scale and perform?  <br /> •    Who is going to develop and maintain it?  <br /> •    What technical skills are available?</p> <p> </p> <p>Taking the answers to these questions into account, we will be able to make critical decisions like:</p> <p><br /> •    Where the solution will be deployed and hosted?<br /> •    Which technologies will be used to build the solution?<br /> •    What the plan is for scaling up under load?<br /> •    What security measures are needed?<br /> •    How does the solution fit into the greater technology ecosystem?</p> <p> </p> <p>There are several technology and deployment stacks available today, each with their own advantages and disadvantages. There are differences to what each technology is good at and the ease with which they can be used to implement different types of solutions, but often the deciding factor is what skills are available in the team who is to develop and maintain it and where the team is going strategically. As new technologies come out frequently one does want to be a little conservative: one should make sure any proposed technology has a proven track record with regards to scalability and maintainability.</p> <p> </p> <p><strong>1. Architecture</strong><br /> When designing a solution there are many technical architecture considerations known as non-functional requirements that need to be considered. Even if most of these requirements are not implemented at the start, it is essential to keep them in mind from the beginning and have a clear understanding of how provision will be made when the time comes to cater for them. This is needed because these types of requirements typically take much more effort to implement later in the life of the solution if no consideration was given to them early on. Some examples are mentioned on the next page.</p> <p> </p> <p><strong>•    Scalability</strong><br /> This is how system resources are added to handle a growing amount of work, e.g. adding memory to the database host or adding another node on a cluster. Some applications (especially legacy applications) can only be scaled vertically. This means more resources like memory or CPU power must be added to a single server in order to get better performance. However this has physical limits, and costs increase faster than the improvement in performance. It is preferable for an application to allow horizontal scaling to allow adding more average powered nodes to a cluster for better performance. This is typically more cost-effective and has many secondary benefits, such as better availability and reliability.</p> <p> </p> <p><strong>•    Throughput</strong><br /> The rate at which the system must be able to handle requests, e.g. the number of transactions per second the system must cater for.</p> <p> </p> <p><strong>•    Performance</strong><br /> The amount of useful work accomplished by the system with a given amount of resources, e.g. having a low response time or low resource utilisation.</p> <p> </p> <p><strong>•    Volumes</strong><br /> How much data the system must be able to handle, e.g. storing two million records per year or handle 1MB file imports.</p> <p> </p> <p><strong>•    Security</strong><br /> The resilience the system has against potential harm, unwanted changes and data leaks. No system is 100% secure. The key business risks need to be understood for appropriate technical solutions to be implemented. For instance, proper web security and encryption are sufficient for most public facing web applications. However when money is involved, e.g. with a bank website, extra levels of authentication, encryption, monitoring and auditing are required. Threat modelling is a technique for identifying, preventing and mitigating threats in an optimised way by determining where the most effort should be applied as the system and external factors change.</p> <p> </p> <p><strong>•    Reliability</strong><br /> The probability that the system behaves as designed. No system is 100% reliable, so it needs to be understood what the risk to the business is if a single transaction fails due to system failure. The envisaged design needs to take this into account and find solutions to have the desired reliability, e.g. the system can automatically retry certain steps that are susceptible to network timeouts.</p> <p> </p> <p><strong>•    Availability</strong><br /> The proportion of time a system is in a functioning condition. No system is 100% available so the business risks related to any downtime needs to be understood and catered for. If the business loses money for every second the system is down, a high availability like 99.99% up-time may be the service level agreement, thus requiring many levels of redundancy in the system.</p> <p> </p> <p><strong>•    Maintainability</strong><br /> The ease with which defects can be fixed or new features added to the system. Short-lived research applications might not have the same maintainability requirements as a core business application that must last more than 10 years. This is a balancing act of spending extra effort to make the system more maintainable versus using the time to add new features faster. Developers with different personalities types tend to have wildly different natural biases in this regard, so the vision of the business must be clear so that good decisions can be made by the team.</p> <p> </p> <p><strong>•    Internationalisation</strong><br /> Should the system be able to be adapted to various languages and regions without engineering changes? If a front-end does not cater for this from the start, it can be a lot of effort to add this later in the lifecycle.</p> <p> </p> <p><strong>2. Front-end</strong><br /> Most modern applications are mainly accessed via a web front-end or a mobile application. Unless there are specific business requirements, it usually makes sense to start off on a responsive web application that works on different devices – the userbase should determine how much effort to put into making it scale well to mobile devices. This is highly dependent on the context of the problem and the users involved.</p> <p> </p> <p>A public facing application will almost always need to function well on both mobile and desktop environments, whereas a business facing application might only ever be accessed on a specific platform.  </p> <p> </p> <p><strong>o    Web</strong><br /> Depending on the business requirements, there are several options for making the system available online. Informative websites typically only contain static web content which is fairly simple to host on premises (low-medium volume) or in the cloud. For high volume static content, a content delivery network (CDN) might be used which spreads the load across the globe.  </p> <p> </p> <p>There are different ways of implementing web applications that support user interaction. Initially web applications were built using frameworks that rendered the final HTML on the server but this does not scale well. Now we mostly host a single static web page containing a JavaScript library (SPA) on the server and let the final HTML rendering happen on the client browser. A Bootstrap page is loaded first and any additional resources are retrieved as needed. Data access is achieved using data exchange paradigms like REST which is more efficient than transferring fully rendered web pages.</p> <p> </p> <p>In order to provide a native-feeling application via the web browser one can implement a progressive web application (PWA). They are built using common web technologies including HTML, CSS and JavaScript so they are intended to work on any platform that uses a modern standards-compliant browser. Functionality that a normal web application doesn’t typically provide but that native mobile or desktop apps do provide, can be obtained when implementing a PWA, e.g. working offline, push notifications, device hardware access, enabling creating user experiences similar to native applications on desktop and mobile devices.</p> <p> </p> <p><strong>o    Mobile</strong></p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2801-1.png" style="padding: 0px 15px; width: 400px; float:right;" />A In order to provide a mobile presence, one can implement multiple native applications using the platform’s native tools. This is typically the best user experience for rich applications that need a lot of device interaction and offline capabilities. However, since a completely different application needs to be implemented for each mobile platform (Android, iOS, etc.), it can be costly and finding specialised developers could be a challenge.</p> <p> </p> <p>There are alternative options like using a cross-platform framework where one application is developed that works on multiple mobile platforms with a lot less effort than supporting multiple native apps. The frameworks are not perfect as there are limitations and potentially a slightly less-than-native feel to the application, but depending on the business requirement this could be an option.</p> <p>As mentioned in the web section, PWAs are also an option with even less specialist skill requirements and effort, but with more limitations.</p> <p> </p> <p><strong>3. Back-end</strong><br /> As applications have grown larger and more complex over time, with higher demands on scalability and availability, application architectures have adapted accordingly to support them. Instead of building a monolithic application that is hard to scale out and maintain, applications are typically broken up into several smaller applications or micro services – each with its own focus, maintenance lifecycle and non-functional requirements (scalability, availability, etc.) .  </p> <p> </p> <p>Splitting up applications into small pieces helps teams to understand what each service does without keeping the complexity of the entire application in mind. This requires deployments to be automated, services to be automatically discoverable and connections routed accordingly. Asynchronous communications help the system to cope better with spikes and overall stability.</p> <p> </p> <p>As back-end systems are broken up into smaller pieces that can be maintained by separate teams, it can make sense to also split up the front-ends. This ensures that each team is only responsible for maintaining their little piece and allowing different maintenance and framework upgrade cycles – which can be difficult in a big front-end application. There is typically an overarching application that stitches together the individual pieces.  </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2801-2.png" style="padding: 0px 15px; width: 400px; float:right;" /></p> <p>Historically all applications were hosted in private data centres that had to be maintained by teams of specialised system administrators. Cloud computing seeks to commoditise computing infrastructure by implementing large scale data centres that can be optimised and provide highly reliable and scalable infrastructure with less effort to get set up and maintain. Most hosting is quickly moving to the cloud, as it is more cost effective and reliable in most cases. However, many businesses still use physical and virtual servers. Private cloud hosting can be an option, but one would still need a team that can support it.  </p> <p> </p> <p>To be cost effective in the cloud requires that the application be designed to work efficiently in the cloud. The traditional mindset of having a virtual server that you maintain manually in the cloud will be more costly. With the ‘serverless’ model, the application pieces are hosted on shared infrastructure that is highly tuned for each type of workload. That way the business just pays for each usage of the system instead of renting fixed hardware that sits idle most of the time.  </p> <p> </p> <p><strong>4. Persistence</strong><br /> This is an area where incorrect decisions can have a long-term impact, beyond the life of the solution itself. Data stores tend to outlive the application itself and have value to the business outside of just what the application it was built for does.  </p> <p> </p> <p>There are some important questions to ask when choosing a persistence layer:</p> <p><br /> •    What is being stored, and for what purpose?  <br /> •    Is the data heavily numeric with a requirement to perform complicated calculations on that data?  <br /> •    Is it high-volume event data from IoT devices where the individual events are less important than trends and anomalies?  <br /> •    Is it unstructured, where there’s no defined or expected schema, or where the schema is expected to change frequently?  </p> <p> </p> <p><strong>•    Types of persistence</strong><br /> <img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2801-3.png" style="padding: 0px 15px; width: 400px; float:right;" /><br /> There are several types of databases available today. The relational database - historically the most popular database type - is joined by document databases, graph databases, key-value stores and more. The choice of database type should be guided by the type of data being stored, not by what is popular in the media. A poor decision here can have major repercussions throughout the application’s development and usage.</p> <p> </p> <p><strong>•    Picking a solution</strong><br /> The type of data being stored is not the only consideration. Consistency and data security are two other important aspects that must be taken into account before deciding on a database platform.</p> <p> </p> <p>Consistency is about the behaviour of the system under concurrent reads and writes. If three processes write to the database and then a fourth one reads, is it important that the fourth process sees all three of the writes? Is it going to break anything in the application if it only sees the first two? Or if it only sees the third write? Typically, relational database engines only support strong consistency, meaning that in the example the fourth process would always see all three writes, while non-relational databases support eventual consistency, meaning the fourth process could see any combination of the writes, including none of them. There are exceptions however, with some modern database systems offering selectable consistency models.</p> <p> </p> <p>Data security has always been important, but the increasing frequency of data breaches and the existence of laws such as GDPR have brought it into focus. This isn’t just a matter of whether the database engine has any known security vulnerabilities. It’s also about auditing, encryption, granularity of permissions and a lot more.</p> <p> </p> <p>Is there sensitive data in the database that needs to be stored encrypted? If so, and the database chosen does not support such encryption, then the application development gains extra complexity as the encryption would have to be implemented within the application. Depending on the requirements, it may also be worth investigating how and where keys can be stored, what kind of work would be required to rotate keys, and whether the encryption protects the data against the administrators of the servers or not.</p> <p> </p> <p>Does access to certain types of data need to be tracked and audited? Do changes need to be audited? Do schema changes, in the case of relational databases, need to be audited? These are often not obvious requirements when the initial application requirements are detailed, but they are critically important nonetheless.  </p> <p> </p> <p>Once all the technical requirements are out of the way, there’s also the question of existing skills and investments. This isn’t just a matter of what the development team is familiar with, but also what your operations teams are familiar with. Training is costly and time-consuming, so introducing a completely new database engine may not be desirable. This goes for infrastructure and cloud investments as well. What you have in terms of infrastructure and where they’re investing in a cloud footprint (or if you're staying completely on-prem) can also affect the choice of database engine used for the application.</p> <p> </p> <p><strong>5. Business intelligence</strong><br /> <img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2801-4.png" style="padding: 0px 15px; width: 400px; float:right;" />Today businesses collect large amounts of data and information that can be used to derive real-world value. This is what business intelligence (BI) excels at, as it comprises of the strategies and technologies used by enterprises for data analysis of business information.  This information is often used to provide historical, current and predictive views of business operations and facilitates efficient and effective decision-making, and enables automation of current business processes. Time to value, e.g. BI projects have demonstrated that even in organisations that are improving their BI maturity, the time to value is very low and insights can be obtained in a few weeks. However, to ensure your initiatives are sustainable, the organisation will eventually have to mature and get the necessary infrastructure in place.</p> <p> </p> <p>Most of the market-leading BI tools these days are so similarly matched that the biggest contributing factors in deciding which tool to use comes down to how much data transformation needs to be handled by the tool itself and the total cost of ownership. When a business decides to embark on the BI journey, it's important to take an approach that will future-proof the solution. This means spending most of the time curating your data effectively. Start by establishing a data warehouse solution whereby business principles and logic are built into a foundation layer that is centrally located and controlled.  What this will enable is the ability to implement any BI tool on top of this established data warehouse, and provide the versatility and flexibility to easily substitute the BI tool being used, should there be the need to do so. This ensures the sustainability of an entire BI solution.</p> <p> </p> <p>Once a healthy foundation is set, the BI tools themselves need to be compared to determine which tool would be the best business fit. Some of the aspects that need to be considered are:</p> <p> </p> <p><strong>•    Development time</strong><br /> This involves the amount of time required to get the BI project up and running. The development time directly impacts the overall development cost of the project.  </p> <p> </p> <p><strong>•    User experience</strong><br /> Choosing a BI tool that is easy to use, simple to understand and aesthetically pleasing to look at, will aid in the tools adoption rate and overall success of the solution.</p> <p> </p> <p><strong>•    Security</strong><br /> The capability of restricting data to only be viewed by certain individuals or ensuring that all the data in a BI model is safe has become a standard in all BI reporting tools. There are however various methods that can be used to facilitate this function.</p> <p> </p> <p><strong>•    Self-service</strong><br /> Generally, in any business there should be a few “power users”. The ease with which these users create a particular view, dashboard or develop their own model to save on development costs is referred to as the self-service aspect of a tool.</p> <p> </p> <p><strong>•    License cost</strong><br /> The costs associated with implementing and maintaining the tool generally involves a licensing cost. This could either be a single enterprise wide licensing cost and/or licensing cost per user. This is one of the most important aspects to choosing the correct BI tool for an organisation.</p> <p> </p> <p><strong>•    Functionality</strong><br /> Although a lot of the market-leading BI tools share similar features and have more or less the same capabilities, careful consideration should be given to the overall goal of the organisation and the capabilities that will be required for the particular task at hand.</p> <p> </p> <p><strong>•    Customisability</strong><br /> BI tools offer a wide range of customisability in terms of the look and feel. This usually involves adding corporate identity to any model that will be developed.</p> <p> </p> <p><strong>•    Embedding</strong><br /> Embedding of models have become a very popular addition in many BI tools. This allows models to be incorporated into a web interface allowing a seamless transition from, for example an intranet site to the BI tool. This greatly improves the adoption rate within an organisation as there is no need to alternate between two interfaces to access the tools.  </p> <p> </p> <p><strong>•    Push reports</strong><br /> Many years ago, it was common to pull your reports from the BI tools, however, a shift has come whereby push reporting capabilities have been incorporated. This allows users to be sent reports in various formats via email. Removing the need to go to the tool itself and pull data.</p> <p> </p> <p><strong>•    Integrations</strong><br /> BI tools allow integration between other components such as Python, R and other statistical tools. Additionally, the capabilities of connecting to various data sources forms part of the integration capabilities and is an important consideration as not all of the tools are able to connect to an equal amount of data sources and some tools require additional expenditure to facilitate connecting to particular source systems.</p> <p> </p> <p><strong>6. Take aways</strong><br /> A team with experience using a variety of technologies can give expert advice from lessons learned, what the new trends are and common pitfalls. Make sure the vision for the solution is clear and the functional and non-functional requirements are understood in advance to avoid future re-work, but don’t try to do everything at once: figure out what the MVP is so that a working application can be delivered quickly. Then feedback and changing business requirements can be incorporated to meet the business demands as needed.</p> <p><a class="button-box2 button-box" href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">Read the full From Here to There publication </a></p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Software plays a role in almost every part of every business. Technical teams are responsible for understanding the digital landscape within the organisation and outside of it. This includes selecting the most sensible tools and frameworks to solve problems, and designing software using best practices to enable maintainable solutions that can evolve going forward.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-01-21 15:50:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23411]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Automation lets you move fast and learn fast</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub7-FB-LI.png" style="width: 800px; height: 418px;" /></p> <p> </p> <p>Developers are hired to solve business problems, but in the world of software development there often end up being many menial, repetitive tasks. There are multiple issues with developers performing these tasks manually:<br /> <br /> •    They are not providing direct value to the business when distracted with these tasks<br /> •    Humans are prone to error when doing the same thing over and over (as we become familiar, we become over-confident and make silly mistakes)<br /> •    The tasks are not challenging to the mind of a developer which can cause boredom and a lack of job satisfaction</p> <p> </p> <p>Fortunately, many of these repetitive tasks are nothing more than a set of well-defined steps that need to be executed in a specific sequence, often depending on the output of the previous step. These are perfect candidates for automation.</p> <p> </p> <p>The following war cry sums it up well: “If it’s important and repetitive, then automate it!”.</p> <p> </p> <p><strong>1. Foundations of software development automation</strong></p> <p> </p> <p>An extremely important practice is required to enable automation. This practice is source control, or sometimes called version control.  </p> <p> </p> <p>Source control allows a team to track changes made to the source code as features are developed. Developers can see a comprehensive history of changes made as well as jump around that history to revert to a specific point in time.</p> <p> </p> <p>These practices also allow for the “branching” of code which enables developers to make sweeping changes without affecting the work of others. There are various strategies around branching, each with their own pros and cons, but the two most popular are:</p> <p><br /> 1)    Trunk-based or master-based development: All work is continuously merged into the main branch, even if the feature is not yet complete.</p> <p><br /> 2)    Feature branches: Work is done on a separate branch and only merged into the main branch once complete.</p> <p> </p> <p>Besides the primary benefits of a source control system, maintaining the source of an application in a centralised, version-controlled repository is the key to unlocking many of the automations mentioned below.</p> <p> </p> <p><strong>2. Types of automation</strong></p> <p> </p> <p>There are many kinds of tasks that are performed across all software projects, there are also unique tasks per specific project. Most of these tasks can be automated. Let’s have a look at some generally accepted best practices for automation in the life of building a solution.</p> <p> </p> <p><strong>•    Continuous integration</strong></p> <p><br /> Eventually, most software projects grow large, and the development teams expand to cope with the demand for new features and maintenance. This results in many parallel branches of the code existing at the same time and in various states.</p> <p> </p> <p>These branches will have to be merged together (and back into the main branch) at some point. There is a high risk of merging errors, as well as logic bugs when this code comes together, especially if the branches have lived alone for any extended period. The solution is to merge all branches regularly and to make sure everything is always working all the time. This process is known as “continuous integration,” and is defined by Martin Fowler as “a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including automated tests) to detect integration errors as quickly as possible.”</p> <p> </p> <p>Another advantage of this automated integration is a consistent build. We have a well-defined automated process that produces binaries to be deployed onto some environment. This removes the risk of a developer having some specific setup that no-one else can replicate and resulting in only that developer being able to build for a release. We also remove the commonly used “but it works on my machine” excuse. If it doesn’t build on the build server, it doesn’t go to production.</p> <p> </p> <p><strong>•    Automated testing</strong></p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2901-1.png" style="padding: 0px 15px; width: 300px; float:right;" /><br /> An extremely important part of continuous integration is the execution of all automated tests. These tests should be written by the developers as a safety net that gives them confidence to make changes without accidentally breaking something else in the code base.</p> <p> </p> <p>In the diagram, the bottom 3 levels can be automated with varying degrees of difficulty.</p> <p> </p> <p>Unit tests are the most straight-forward to automate as they should be small self-contained tests that only confirm the functionality of a single piece of code under very specific conditions. These tests should have no outside dependencies (or all dependencies are mocked out) so that they can be executed over and over with no side-effects.</p> <p>Integration tests are used to ensure that blocks of functionality can talk to each other successfully. This may mean accessing a database or file system, or calling a service over the network. These types of tests may also check the flow of data through the entire system. Automated integration tests are harder to set up, as they often require a valid database to access (with valid test data pre-populated) or real services to call.</p> <p> </p> <p>Acceptance tests exist to make sure that the end-to-end solution being built meets the requirements specified by the business. In systems with a user interface, these often take the form of scripted steps through a specific flow, recording and verifying along the way that the system is behaving as expected. For non-UI systems, these tests may include loading production-like data into the system and checking the output. Acceptance tests require a deployed instance of the application to be executed on.</p> <p> </p> <p>Whatever the type of test, running them manually would put a huge strain on the team and severely affect delivery. Executing the tests on every code check-in (or once a day for heavier integration and acceptance tests) provides confidence in the changes being made with very little effort from the team required (beyond writing the tests when functionality is built).</p> <p> </p> <p><strong>•    Automated deployment/continuous delivery</strong></p> <p> </p> <p>Deploying an application into an environment can take many forms. In most cases there is a file copy involved, and often there are multiple steps involved before and after the file copy. These steps could theoretically be documented as a recipe for someone to follow when deploying, but there is still room for error when a human gets involved with simple, repetitive tasks.  </p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2901-2.png" style="padding: 0px 15px; width: 300px; float:right;" /></p> <p>An application could also be deployed to various testing environments on its way through the production environment. To get feedback quickly, it’s a good idea to deploy the latest changes to a test environment as they are made. Doing all these deployments manually would be a huge time sink for the team.</p> <p> </p> <p>At a minimum, deployments should be executed by a script. In an ideal world, that script should be controlled by a system that can put permissions and auditing around when a script is executed, who executed it and what the results of that execution were.</p> <p> </p> <p><strong>•    Provisioning and scaling</strong></p> <p><br /> In this era of cloud-based computing, it is also possible to automate the provisioning of resources for the consumption of our application. We can spin up an entirely new environment just to run a set of tests and then tear it down again when done.  </p> <p> </p> <p>We may have a system that provides functionality for adding new customers each with their own dedicated resources. These resources can be automatically provisioned on demand.</p> <p> </p> <p><strong>•    Monitoring</strong></p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2901-3.png" style="padding: 0px 15px; width: 300px; float:right;" /><br /> Once an application is released into the wild, it is extremely important to ensure that it continues running well and that any errors or unexpected behaviour is picked up immediately. Systems should be put in place that alert the team to anomalies, instead of requiring someone to watch dashboards all day or sift through thousands of system generated error reports. Artificial intelligence can also play an important role in identifying unusual trends.</p> <p> </p> <p><strong>3. Automation tooling</strong></p> <p><br /> As with many tools available in the software development world, there is a wide variety of tools and systems that will help a team accomplish its automation goals.</p> <p> </p> <p><strong>•    Scripting tools</strong></p> <p><br /> Scripts allow the chaining together of commands into a single parameterised command. Initially, the team would execute the scripts themselves until they feel confident they are performing as intended.</p> <p> </p> <p><strong>•    DevOps tools</strong></p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/IMG2901-4.png" style="padding: 0px 15px; width: 300px; float:right;" /><br /> The term DevOps is used to describe a set of practices that combine software development and IT operations teams in order to shorten the cycle of delivering working software and realising business value. Automation falls into these practices and there are many software solutions available in this space.</p> <p> </p> <p>A team should invest in these systems so that they are able to automate and control the execution of the scripts (or extend them with further capabilities) and provide additional functionality such as permissions, logging, remote execution, scheduling, etc.</p> <p> </p> <p>There are many players in this field and the choice of system would depend on many factors:</p> <p><br /> o    What technologies are used to build the application?<br /> o    Are there operating system constraints on the build tools?<br /> o    Does the organisation have preferred software vendors?<br /> o    Is it suitable to execute builds and tests in the cloud, or must it be on-prem?<br />  </p> <p> </p> <p><a class="button-box2 button-box" href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">Read the full From Here to There publication </a></p> <p>   </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Developers are hired to solve business problems, but in the world of software development there often end up being many menial, repetitive tasks. There are multiple issues with developers performing these tasks manually...]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-01-29 12:19:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23414]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Measurement quantifies your success</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/TechPub8-TW.jpg" /></p> <p> </p> <p>Once an idea has made its journey into an implemented solution, it is necessary to make sure the original need has been met. Just because something is in production, it does not necessarily mean it is doing what it should be, and often it’s difficult to tell straight away.</p> <p> </p> <p>There are various techniques that can be used to measure the success of an implementation, both from a business point of view as well as technical.</p> <p> </p> <p><strong>1. Measuring technical success</strong><br /> There are many things that could potentially fail in a live system. Many of these risks would have been considered when making technology stack choices and while implementing the solution. But there is still a very important need to keep a close eye on what is happening in real time and to be prepared to act as soon as something fails.</p> <p> </p> <p><strong>•    Gathering metrics</strong></p> <p>A software system has the potential to generate large amounts of data related to the way it is functioning. This data can take various forms:</p> <p><br /> o    Text log files<br /> o    Database log entries<br /> o    Hardware performance metrics</p> <p><br /> Gathering all this data presents some unique challenges, substantial amounts of storage are required and there is a risk of overloading support staff to the degree that important information is missed or ignored.</p> <p> </p> <p><strong>•    Making sense of metrics</strong><br /> Simply gathering data is not useful to the business or technical team unless they are able to glean insights from it. The data needs to be processed and analysed (in an automated tool) so that trends and anomalies are easily identified. Artificial intelligence and statistical analysis have the potential to find things in the data that most humans would miss.</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/0204_1.png" style="padding: 0px 15px; width: 300px; float:right;" /></p> <p><strong>•    Radiating information</strong><br /> Once trends and worrying issues are identified, the relevant stakeholders need to be made aware of them. Simply emailing reports is likely to get them filtered away and ignored. The insights need to be on display all the time and radiating throughout the workspace of the people responsible for the health of the solution.  </p> <p> </p> <p>Permanent dashboards displayed on TVs are a great way to radiate information. They do, however, need to be well thought out to be the most effective. Make sure that anomalies are instantly visible, show trends over time so that unusual changes stick out. There is also room for showing successful metrics to promote confidence in the health of the system.</p> <p> </p> <p><strong>2. Measuring business success</strong><br /> As part of the implementation process, a business intelligence (BI) solution would have been chosen and put into place. Now is the time to leverage that effort to measure the business success of the implemented idea. The chosen BI stack will allow stakeholders to slice and dice the data in order to extract key metrics and indicators.</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/0204_2.png" style="padding: 0px 15px; width: 300px; float:right;" /></p> <p><strong>•    The data pyramid</strong><br /> The data pyramid shows how reporting, roles and use cases for the data change in a mature data environment. The insights gained, frequency and granularity of the underlying data, and audience viewing the reports change, depending on the layer of the pyramid.</p> <p> </p> <p>At the bottom layer, reporting is primarily based on transactional or “near real time” information. This serves the purpose of showcasing the as-is processes within the business and serves to improve visibility of business processes.</p> <p> </p> <p>On the upper layers, reporting becomes more analytical and strategic in nature, providing a more aggregated view of information which could help better infer trends, which assists management in doing comparative analysis and scenario planning, among others. This helps identify where a business needs to be and what adjustments need to be made in order to better reach business goals. This is achieved by enabling an accurate view of key indicators tracked against organisational targets.  </p> <p> </p> <p>The capstone of the data pyramid is predictive and prescriptive analytics that come into play through the use of data science. Predictive analytics indicates what is likely to happen in future (i.e. what will happen), whereas prescriptive analytics refers to recommended actions and strategies (i.e. what to do about it).</p> <p> </p> <p>The BI maturity model and the data pyramid work hand-in-hand. Having a mature data environment naturally enables more analytical data use cases through the insights journey below.</p> <p> </p> <p><img alt="" src="http://cdn.myactive.co.za/wm-462416-cmsimages/0204_3.png" style="padding: 0px 15px; width: 300px; float:right;" /></p> <p><strong>•    The BI Maturity Model</strong><br /> Each organisation or division is on a journey to an optimised data warehouse (DWH). Even a mature and optimised DWH will still change as new analytical requirements are discovered and as new trends emerge in the field.</p> <p> </p> <p>The reporting and analytical requirements of an entity change significantly as they move through the steps in the BI maturity model, as explained to the right. Please note that an entity could be in more than one level across different facets of their business.</p> <p> </p> <p><strong>Stage 1</strong><br /> This stage represents the pre-data warehouse environment where an organisation relies entirely on operational reports for information. In general, these reports are static and inflexible and show a limited range of data for a limited set of processes providing little benefit to the organisation. During this stage it is mostly spreadsheets on local machines that are used to support the reporting requirement of the organisation.<br />  </p> <p><strong>Stage 2</strong><br /> The entity’s first attempt at a BI solution, where an initiative is started by a department without fully understanding all the fundamental requirements of a successful BI solution. The first BI tools are introduced - primarily for ad-hoc queries, reporting and basic OLAP - where licences are given to only a handful of power users and analysts. Benefits are starting to be derived, but only by a handful of people within the organisation.<br />  </p> <p><strong>Stage 3</strong><br /> At this point, a business unit recognises the value of consolidating these silos of information into a single data warehouse to save money and gain greater consistency in the information it uses to understand and analyse the business.<br />  </p> <p><strong>Stage 4</strong><br /> An area is entered where BI/DWH delivers a strategic, enterprise resource that enables organisations to achieve their key objectives. This is accomplished through a unified data warehousing architecture defined by a common set of semantics and rules for terms and metrics shared across the business.<br />  </p> <p><strong>Stage 5</strong><br /> This phase completes the cycle by converting core BI/DWH capabilities into services, both technical and commercial, and redistributing development back out to the business units via centres of excellence.</p> <p> </p> <p><strong>Stage 6</strong><br /> With a well-established curated DWH solution in place, true value can be derived from BI by using predictive and prescriptive analytics that come into play by incorporating data science. The focus shifts from looking at the past, to trying to look into the future by learning from mistakes made or improving on past successes.</p> <p> </p> <p> </p> <p><a class="button-box2 button-box" href="https://culture.entelect.co.za/our-engineering/disruptive-software-2019/">Read the full From Here to There publication </a></p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Once an idea has made its journey into an implemented solution, it is necessary to make sure the original need has been met. Just because something is in production, it does not necessarily mean it is doing what it should be, and often it’s difficult to tell straight away.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-02-04 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23417]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Leadership guidelines for remote conversations</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Working_Remotely_-_Marketing_content_Bannerv1.png" style="width: 100%;" /></p> <p> </p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p> </p> <p>Working from home (WFH) comes with its own challenges, and is another skill that we all should endeavour to learn and master. This chapter shares some experience and insights into how we keep our teams talking and engaging as efficiently as possible in a remote world.</p> <p> </p> <p> </p> <p><span style="color:#000000;"><span style="font-size:20px;"><strong>How to run productive remote meetings and eliminate the time overhead</strong></span></span><br /> Embracing the best-practices and setting the right example for remote meeting culture will ensure that all meetings are productive.</p> <p> </p> <p><strong>Make sure you are WFH-ready</strong><br /> In order to work from home, you first need to be prepared for work from home. Ensure you have the following prepped at your remote workstation:<br /> •    Decent battery life and backup power<br /> •    VPN access to your email, servers, tools and systems<br /> •    A stable internet connection (and mobile backup for emergencies)<br /> •    A functional audio-visual setup<br /> •    Headphones/earphones<br /> •    A comfortable workspace which is quiet enough for remote calls</p> <p> </p> <p><strong>Establish a remote operating procedure</strong><br /> We recommend that every team takes the time to define their remote operating procedure, which outlines the following:<br /> •    When teams meet and what they meet for<br /> •    Notifications and availability standards<br /> •    How to get help and from who<br /> •    How to hold each other accountable<br /> •    Who takes ownership of traditional team rituals and tasks</p> <p> </p> <p><strong>Choose the right communication medium</strong><br /> The hallway-conversations we're used to can't become diarised meetings. We've learned to prevent calendars being filled with excessive meetings by selecting the most appropriate communication tool for the purpose.</p> <p> </p> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WFH1.png" style="width: 100%;" /> <p><br /> <strong>Remote meeting etiquette</strong><br /> We recognise team meetings are beneficial to keep everyone aligned but it’s easy to stray off topic. To help you keep your meetings productive and professional, here are some guidelines for virtual meeting etiquette:</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WFH2.png" style="width: 100%;" /></p> <p>  <br /> <span style="color:#000000;"><span style="font-size:20px;"><strong>How to prevent encroachment of your team's workday into personal time</strong></span></span><br /> WFH can blur the lines between work and home life, and so we need to establish a responsible daily routine to help the people in our teams continue to be productive in a sustainable way:</p> <p><br /> •    Set working hours</p> <p style="margin-left: 40px !important;">o    Decide on a clear start and end to your workday (and try to align this with the rest of your team)<br /> o    Down time is important. Take time off, even if you're not going away</p> <p style="margin-left: 40px !important;"> </p> <p>•    Take breaks</p> <p style="margin-left: 40px !important;">o    Plan how many breaks you need and when you will take them<br /> o    Align breaks for sections of the team and schedule no meetings for then, e.g. have lunch between 12pm and 1pm</p> <p><br /> •    Manage a to-do list</p> <p style="margin-left: 40px !important;">o    Start each day by planning your feasible must-do tasks and get them done<br /> o    If you foresee that you won't meet a deadline, keep your team informed</p> <p><br /> •    Set boundaries</p> <p style="margin-left: 40px !important;">o    Put boundaries in place regarding when and how you deal with personal matters during the workday<br /> o    Set practical rules for team comms after hours and over weekends</p> <p> </p> <p> </p> <p><span style="color:#000000;"><span style="font-size:20px;"><strong>Why you need to focus on supporting non-technical roles</strong></span></span><br /> <em>The developers, technologists and tinkerers in our teams are usually content with working in isolation. On the other hand, the analysts, scrum masters, product owners, subject matter specialists and others in our teams who may be in less technical roles have a disproportionately harder time being as effective as they're used to.</em></p> <p> </p> <p>Those who are comfortable in the remote work style should make the effort <strong>to proactively support and engage</strong> with the rest of the team who are in unfamiliar territory.</p> <p> </p> <p>This means as IT teams, <strong>we need to be extra available and responsive</strong>. We need to be sharing frequent status updates, using the status indicator in our tools diligently, and <strong>responding quickly to queries with positive language.</strong></p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Embracing the best-practices and setting the right example for remote meeting culture will ensure that all meetings are productive.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-06-29 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23501]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Useful tools when working remotely</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WorkingRemotely-Usefultools_Banner.png" style="width: 100%;" /></p> <p> </p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p> </p> <p>We've put together a selection of tools and ideas we've successfully used across our various teams at Entelect. If you're looking for ideas to help solve specific frustrations, experiment with these and adopt what works.</p> <p> </p> <h2><span style="color:#000000;"><strong>1. Team alignment</strong></span></h2> <p>A Project Canvas is a great way to reconnect a team to their purpose, business drivers, actions and ideas. It can be done remotely with great success, and promotes a healthy conversation about priorities.</p> <p> </p> <p>You can download our template <a href="https://projectcanvas.entelect.co.za/" target="_blank">here</a>.</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/PC-01.png" style="width: 100%;" /></p> <h2> </h2> <h2><strong><span style="color:#000000;">2. Other useful tools</span></strong></h2> <p>Finding the best technology and tools for working remotely can make all the difference. No matter where you work, communication is key. These are the tools we've been using to collaborate, communicate and keep our culture strong.</p> <p> </p> <p>* We’ve marked the tools we believe are the best in each category, and which Entelect has had the most success with.</p> <p> </p> <p><strong>Real-time communication</strong><br /> There are a variety of tools available for the daily synchronous to-and-fro communication. We have been using the below across the different modes of communication.</p> <p> </p> <p> </p> <div class="news row"> <div class="column left" style="width:350px;"> <p><span style="color:#73b819;"><strong>Video calling</strong></span></p> <p>Select the tool that fits your business based on existing access, costs and use cases.</p> <p><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Zoom.png" style="width: 35px; height: 35px;" /> <a href="https://zoom.us/" target="_blank">Zoom </a>*<br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Microsoft Teams.png" style="width: 35px; height: 35px;" /> <a href="https://www.microsoft.com/en-za/microsoft-365/microsoft-teams/download-app" target="_blank">Microsoft Teams</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Skype for Business.png" style="width: 35px; height: 35px;" /> <a href="https://www.microsoft.com/en-za/microsoft-365/skype-for-business/download-app" target="_blank">Skype for Business</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Google Hangouts.png" style="width: 35px; height: 35px;" /> <a href="https://hangouts.google.com/" target="_blank">Google Hangouts</a></p> <p> </p> </div> <div class="column middle" style="width:350px;"> <p><span style="color:#73b819;"><strong>Voice chat</strong></span></p> <p>Use this as a replacement for the feeling of an open plan office.</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Discord.png" style="width: 35px; height: 35px;" /> <a href="https://discord.com/new" target="_blank">Discord </a>*<br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/TeamSpeak.png" style="width: 35px; height: 35px;" /> <a href="https://teamspeak.com/en/downloads/" target="_blank">TeamSpeak</a></p> <p> </p> <p> </p> <p> </p> </div> <div class="column right" style="width:350px;"> <p><span style="color:#73b819;"><strong>Instant messaging</strong></span></p> <p>Use these for more relaxed conversations or when you need short, instant replies.</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Slack.png" style="width: 35px; height: 35px;" /> <a href="https://slack.com/intl/en-za/" target="_blank">Slack*</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WhatsApp.png" style="width: 35px; height: 35px;" /> <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Telegram.png" style="width: 35px; height: 35px;" /> <a href="https://telegram.org/" target="_blank">Telegram</a></p> <p> </p> <p> </p> </div> </div> <p><strong>Collaborating</strong><br /> Integration is key, and team members working remotely need the right online collaboration tools that bring together features such as instant messaging, video calls, screen sharing, and time tracking to help them get the job done.</p> <p> </p> <p> </p> <div class="news row"> <div class="column left" style="width:350px;"> <p><span style="color:#73b819;"><strong>Project collaboration and management</strong></span></p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Microsoft Teams.png" style="width: 35px; height: 35px;" /> <a href="https://www.microsoft.com/en-za/microsoft-365/microsoft-teams/download-app" target="_blank">Microsoft Teams</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Microsoft OneNote.png" style="width: 35px; height: 35px;" /> <a href="https://www.microsoft.com/en-za/microsoft-365/onenote/digital-note-taking-app?rtc=1" target="_blank">Microsoft OneNote</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Trello.png" style="width: 35px; height: 36px;" /> <a href="https://trello.com" target="_blank">Trello</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Google_G_Suite-40.png" style="width: 35px; height: 35px;" /> <a href="https://gsuite.google.com/" target="_blank">Google G-Suite</a></p> <p> </p> </div> <div class="column middle" style="width:350px;"> <p><span style="color:#73b819;"><strong>Whiteboarding</strong></span></p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Miro.png" style="width: 35px; height: 35px;" /> <a href="https://miro.com/">Miro *</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Apple.png" style="width: 35px; height: 35px;" /> Apple pencil + screen sharing<br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Excalidraw.png" style="width: 35px; height: 35px;" /><a href="https://excalidraw.com/"> Excalidraw</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Awwapp.png" style="width: 35px; height: 35px;" /> <a href="https://awwapp.com/">Awwapp</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Invision.png" style="width: 35px; height: 35px;" /> <a href="https://www.invisionapp.com/feature/freehand">Invision</a></p> <p> </p> </div> <div class="column right" style="width:350px;"> <p><span style="color:#73b819;"><strong>Company meetings</strong></span></p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Zoom.png" style="width: 35px; height: 35px;" /> <a href="https://zoom.us/webinar" target="_blank">Zoom Webinar *</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Slido.png" style="width: 35px; height: 35px;" /> <a href="https://www.sli.do/" target="_blank">Slido *</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/GoTo Meeting.png" style="width: 35px; height: 35px;" /> <a href="https://www.gotomeeting.com/en-za" target="_blank">GoTo Meeting</a></p> <p> </p> <p> </p> <p> </p> </div> </div> <p><strong>Issue tracking and pull-requests</strong><br /> Individuals in engineering teams use source code repositories throughout their day. Beyond managing code, repository platforms also offer features for voting on code commits, issues and ideas. This can accelerate decisions and allow for consensus to be formed remotely.</p> <p> </p> <p> </p> <div class="news row"> <div class="column" style="width:350px;"><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Azure DevOps.png" style="width: 35px; height: 35px;" /> <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">Azure DevOps</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Jira.png" style="width: 35px; height: 35px;" /> <a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Bitbucket.png" style="width: 35px; height: 36px;" /> <a href="https://bitbucket.org/product" target="_blank">Bitbucket</a><br /> <br />  </div> <div class="column" style="width:350px;">  <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Github.png" style="width: 35px; height: 35px;" /> <a href="https://github.com/" target="_blank">Github</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Gitlab.png" style="width: 35px; height: 35px;" /> <a href="https://about.gitlab.com/" target="_blank">Gitlab</a><br />  </p> <p> </p> </div> </div> <p><strong>Social and culture</strong><br /> Keeping the culture alive throughout the business and teams is crucial for employees’ morale. These tools are a bit more informal, and should be used for socialising and team building.</p> <p> </p> <p> </p> <div class="news row"> <div class="column" style="width:350px;"><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Workplace.png" style="width: 35px; height: 35px;" /> <a href="https://www.workplace.com/" target="_blank">Workplace</a><a href="https://zoom.us/" target="_blank"> </a>*<br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Playing Cards.png" style="width: 35px; height: 35px;" /> <a href="http://playingcards.io/" target="_blank">Playing Cards</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Jack Box.png" style="width: 35px; height: 35px;" /> <a href="https://www.microsoft.com/en-za/microsoft-365/skype-for-business/download-app" target="_blank">Jack Box Party Pack </a> <p> </p> <p> </p> </div> <div class="column" style="width:350px;"><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Houseparty.png" style="width: 35px; height: 34px;" /> <a href="https://houseparty.com/" target="_blank">Houseparty</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Donut.png" style="width: 35px; height: 35px;" /> <a href="https://www.donut.com/?ref=slackdirectory" target="_blank">Donut</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Skribbl.io.png" style="width: 35px; height: 34px;" /> <a href="https://skribbl.io/" target="_blank">Skribbl.io</a><br />   <p> </p> </div> </div> <p><strong>Training</strong><br /> Many of the major online learning institutes are having sales on their courses during these social distancing periods. Our teams at Entelect have been using their downtime to upskill using the below platforms.</p> <p> </p> <p> </p> <div class="news row"> <div class="column" style="width:350px;"><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Pluralsight.png" style="width: 35px; height: 35px;" /> <a href="https://www.pluralsight.com/" target="_blank">Pluralsight *</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Udemy.png" style="width: 35px; height: 35px;" /> <a href="https://www.udemy.com/" target="_blank">Udemy *</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Udacity.png" style="width: 35px; height: 36px;" /> <a href="https://www.udacity.com/" target="_blank">Udacity</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Coursera.png" style="width: 35px; height: 35px;" /> <a href="https://www.coursera.org/" target="_blank">Coursera</a><br /> <br />  </div> <div class="column" style="width:350px;"><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Khan.png" style="width: 35px; height: 35px;" /> <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Lynda.png" style="width: 35px; height: 35px;" /> <a href="https://www.lynda.com/" target="_blank">LinkedIn Learning: Lynda</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/edX.png" style="width: 35px; height: 36px;" /> <a href="https://www.edx.org/" target="_blank">edX</a><br /> <img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Stanford.png" style="width: 35px; height: 35px;" /> <a href="https://online.stanford.edu/" target="_blank">Stanford Online</a> <p> </p> </div> <div class="column right" style="width:350px;">  <p> </p> </div> </div>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[We've put together a selection of tools and ideas we've successfully used across our various teams at Entelect. If you're looking for ideas to help solve specific frustrations, experiment with these and adopt what works.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-07-08 16:12:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23498]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Leadership decision-making during a crisis</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WorkingRemotely-Chapter3_Bannercopy2.png" style="width: 100%;" /></p> <p> </p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p>Leadership roles and responsibilities have drastically changed and will most likely continue to do so. This section focuses on making decisions, remaining transparent, and facing challenges while having spontaneous conversations.</p> <p> </p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Ch3-03.png" style="width: 100%;" /></p> <p> </p> <h3><span style="color:#73b819;"><strong>Decisions made quickly over decisions made with precision</strong></span></h3> <p><br /> •    Use the triangulation principle of getting input from the 2-3 most credible people, and taking the middle point of the agreement, as fast as possible. Roll these decisions out to the rest of the teams.<br /> •    Waiting to decide is a decision itself and you should try to avoid unnecessary decision-making delays.<br /> •    Own problems. Don’t waste time on trying to figure out who is ‘technically responsible’ for issues. Everyone in leadership should pick up and take ownership of whatever they can help with. Encourage this behaviour in your senior team.</p> <p> </p> <h3><span style="color:#73b819;"><strong>Buy-in via transparency over buy-in via consultation</strong></span></h3> <p><br /> •    Employees will need assurance that leadership is being proactive and transparent.<br /> •    The best way to get buy-in from people excluded from decision-making processes is to give frequent updates to your teams on decisions that are made.<br /> •    Explain to those who are not involved why and how decisions are being made and agreements are reached.</p> <p> </p> <h3><span style="color:#73b819;"><strong>Adapt towards opportunity over only mitigating risk</strong></span></h3> <p><br /> •    You suddenly have to make high-impact decisions that will have both short- and long-term consequences. Go with your gut.<br /> •    Environments will change rapidly and so will the impact on your organisation. Set frequent checkpoints to review your plans and measures appropriately.<br /> •    Understand your standard rulebook may need to change, even dramatically, to achieve the best results for your organisation. Challenge the entrenched mindset, strategy and tactics.</p> <p> </p> <h3><span style="color:#73b819;"><strong>Spontaneous conversations over scheduled calls and meetings</strong></span></h3> <p> </p> <p>Promote a flexible schedule and become interactive<br /> •    Leadership gets into the habit of scheduling their days, weeks in a particular way. Scheduling needs to be more flexible to allow on-the-spot conversations.<br /> •    Use the freed up time from having less meetings to reserve calendar time for these spontaneous conversations.<br /> •    Be responsive and available by checking your channels regularly. Executives need to role-model this behaviour.<br /> •    Schedules that previously relied on "corridor" or "desk time" for quick decisions now have to be replaced by calls or IM conversations for spontaneous input.</p> <p><br /> <strong>Individual decision-making is now more important than ever</strong></p> <p><em><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Ch3-04.png" style="width: 350px; height: 324px; float: right;padding: 10px;" /></em><br /> •    Right now, the fastest way to save time in meetings is to make decisions yourself.<br /> •    Don’t shy away from your responsibility to make a judgement call by hiding behind consensus.<br /> •    Delegate authority and encourage independent thinking within a provided framework.</p> <p> </p> <p><strong>A decision-making scale</strong></p> <p><br /> <em>As importance of decision-making increases, fewer people, a single channel and more synchronous communication is required to make quicker decisions. Synchronous communication channels lend themselves better to spontaneous conversation.</em></p> <p> </p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Leadership roles and responsibilities have drastically changed and will most likely continue to do so. This section focuses on making decisions, remaining transparent, and facing challenges while having spontaneous conversations.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-07-13 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23486]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Staying productive while working from home</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WorkingRemotely-Chapter4_Banner.png" style="width: 100%;" /></p> <p> </p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p>When projects and capex are reigned in during a crisis, how do you keep your people productive and adding value amidst uncertainty? How do you keep teams motivated, inspired and growing while ensuring you continue to create value.</p> <p> </p> <p><strong>Capitalise on spare capacity and time</strong><br /> Numbered in order of importance and value, a combination of these tactics can be used to build a strategy to ensure you can adapt and build value despite a slow-down in project work and budget.</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WFHchapter4diagram-07.png" style="width: 100%;" /></p> <p> </p> <p><span style="font-size:18px;"><span style="color:#003b84;"><strong>01. Accelerate and over-deliver</strong></span></span></p> <p> </p> <ul> <li>Accelerate initiatives by adding spare capacity to projects that are under way. You could finish projects early, but ride out the crisis enough that there is little or no efficiency lost by running projects over capacity for several months. This takes proportionally extra care and energy from leadership on these projects, but is also the most effective use of capacity if done correctly.<br />  </li> <li>Over-deliver – use extra hands to add an added layer of quality to your projects. This can be achieved through polish, features or performance. A long-term investment that will be recognised by your customers and pay dividends in the future.<br />  </li> <li> A roadmap could also be partially accelerated in this way, if spare capacity was able to pull planned future projects out of sequence and start working on them earlier.</li> </ul> <p> </p> <p><span style="font-size:18px;"><strong><span style="color:#9f077d;">02. Innovate and create opportunities</span></strong></span></p> <p> </p> <ul> <li>Now is a great time to innovate, change and make your environment more resilient, more modern and more stable. Fix the glaring technical issues that have been deprioritised to your "if we have time" backlog.<br />  </li> <li>Consider offering your team’s expertise to other business units to build relationship capital, and help other areas of the business which may be under more pressure to deliver.<br />  </li> <li>You should be encouraging teams to focus on experiments that couldn't get priority, test different methodologies, team setups, practices and culture innovation, or small product ideas which need to be taken to a minimum viable product stage to test the market.<br />  </li> <li>Create business opportunities by using the sunk cost of capacity to try secure longer term relationships, or close sales opportunities by taking the short-term impact (which would be borne anyway) to build relationships.</li> </ul> <p> </p> <p><span style="font-size:18px;"><strong><span style="color:#008c41;">03. Encourage cross-skilling</span></strong></span></p> <p> </p> <ul> <li>When under market pressure, the businesses that are able to adapt are usually the ones that survive and succeed. Most people's talents reach outside of their current role, and most businesses will have a shifting demand picture which could benefit from a versatile workforce.<br />  </li> <li>You might be surprised at the willingness of individuals and teams to support the business by rapidly learning and stepping into different roles for the organisation.<br />  </li> <li>Redirect your most versatile resources to areas with the most demand.<br />  </li> <li>Recognise them and reward them. This is life-saving behaviour for the company.<br />  </li> <li>For many people, this is an exciting opportunity to learn new skills and spend some time diversifying experience, and doesn't take much convincing.</li> </ul> <p> </p> <p><span style="font-size:18px;"><strong><span style="color:#00909d;">04. Learn and upskill</span></strong></span></p> <p> </p> <ul> <li>Maximise on otherwise lost time by allowing teams to grow themselves in preparation for future projects. There are many options available for short-term and high impact skills development courses.<br />  </li> <li>This doesn't work well for protracted time periods, but can be an effective addition to a combined strategy.<br />  </li> <li>As highlighted in our Useful Tools section, many major online learning institutes are having sales on their courses during these social distancing periods.</li> </ul> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[When projects and Capex are reigned in during a crisis, how do you keep your people productive and adding value amidst uncertainty? How do you keep teams motivated, inspired and growing while ensuring you continue to create value?]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-07-22 10:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23489]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Keeping culture alive while working from home</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WorkingRemotely-Chapter5_Banner.png" style="width: 100%;" /></p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p>COVID-19 lockdowns have forced a sudden global change in working environments and team arrangements. The knock-on economic pressure means that our people are feeling alone and uncertain</p> <p> </p> <p>In this section we're sharing perspectives on the tactics leaders in every organisational area can employ to prevent negativity from spreading, tackle key concerns head-on, and maintain a hopeful and invested community.</p> <p> </p> <p><strong>Supporting organisational culture through a pandemic</strong></p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Chapter5-08.png" style="width: 100%;" /></p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[COVID-19 lockdowns have forced a sudden global change in working environments and team arrangements. The knock-on economic pressure means that our people are feeling alone and uncertain]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-07-27 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23492]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Returning to the office</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/WorkingRemotely-Chapter6_Banner.png" style="width: 100%;" /></p> <p> </p> <p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-462416-cmsimages/Entelect-Practicalleadershipguidelinesforremoteteamworkdecisionsandculture.pdf" target="_blank">READ THE FULL<strong> <em>LEADERSHIP GUIDELINES FOR WORKING REMOTELY</em></strong> PUBLICATION</a></p> <p>Planning a transition back to the office goes beyond productivity and safety. The office you left is not going to be the office you return to, and it's critical to manage employee culture and morale during this period.</p> <p> </p> <p>This final section explores different considerations to rebuild culture after a morale-sapping lockdown.</p> <p> </p> <p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Chapter6-13.png" style="width: 100%;" /></p> <p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Planning a transition back to the office goes beyond productivity and safety. The office you left is not going to be the office you return to, and it's critical to manage employee culture and morale during this period.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-08-07 09:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23495]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>South Africa as a great offshoring option</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/SouthAfricaasagreatoffshoringoption_Bannercopy2.png" style="width: 100%;" /></p><br /><br /><p> </p><br /><br /><p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-698609-cmsimages/Entelect-Offshoring-SouthAfrica.pdf" target="_blank">READ THE FULL <em><strong>SOUTH AFRICA: AN OFFSHORE TECHNOLOGY SERVICES CONTENDER PUBLICATION</strong></em></a></p><br /><br /><p>Offshore software development partners are useful and necessary extensions to your onshore IT capability, but they can also introduce a number of obstacles such as differing time zones, cultural and language barriers, and remote communication obstructions.</p><br /><br /><p> </p><br /><br /><p>These challenges shouldn’t be underestimated in their ability to derail or impede delivery, but when addressed intentionally in the ways we describe, they can be overcome and you can leverage the full potential of an offshore IT delivery partner.</p><br /><br /><p> </p><br /><br /><p>Take a few lessons from our experience as inspiration to get more from your existing offshore engagements, and learn more about South Africa as a remarkable destination for IT offshoring.</p><br /><br /><p> </p><br /><br /><h4><strong>Why South Africa</strong></h4><br />With a strong affinity to western culture, the South African software engineering workforce places a focus on being intuitive, critical and collaborative. Cost is important on any project, and although South Africa's software development costs are lower than most developed markets, the cost saving does not result in a poorer quality of service or output quality.<br /><br /><p> </p><br /><br /><p><strong>No compromise on quality and capability</strong></p><br /><br /><ul><br /><li>South Africa has a unique offshoring value proposition - high quality software development at a competitive price point.</li><br /><li>We match onshore capabilities in problem-solving, engagement and quality, but at a lower cost.</li><br /><li>Our capabilities are broader, and we can manage complex, large deliveries, as well as provide a higher level of quality delivery compared to traditional offshoring destinations in eastern Europe and South-East Asia.</li><br /><li>A favourable exchange rate further creates price advantage.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>Business-friendly environment</strong></p><br /><br /><ul><br /><li>South Africa has a growing talent pool with an increasing number of people going through software development training at grassroots and tertiary levels, at globally accredited institutions.</li><br /><li>Modernised information and communications technology infrastructure and the growing adoption of next-gen technology have resulted in South Africa’s commendable ascent on the Ease-of-Doing-Business index.</li><br /><li>The country also has a solid legal system that respects privacy and intellectual property rights, creating a safe and business-friendly environment for international investors.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>Cultural match</strong></p><br /><br /><ul><br /><li>South Africa has a highly collaborative, results-oriented workforce with a strong cultural affinity with markets like Europe, Australia and the US.</li><br /><li>South Africans are resourceful and entrepreneurial, and the country’s IT professionals thrive on solving business problems.</li><br /><li>The country has a native English-speaking workforce with a strong education system.</li><br /><li>Countries with strong educational systems, particularly in the sciences and at tertiary levels tend to produce a consistent supply of IT talent. South Africa has a strong university education system with international alignment and accreditations.</li><br /><li>South Africa has a central time zone (GMT+2) and therefore has some part of the workday overlapping with all foreign countries.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>Accolades</strong></p><br /><br /><ul><br /><li>GSA Awards named South Africa the Global Offshoring Destination of the Year twice in the last five years.</li><br /><li>South Africa has jumped 7 positions in the World Economic Forum’s Global Competitiveness Index during the 2018-19 period, indicative of its position as a highly preferred business destination.</li><br /><li>South Africa has a world-leading financial services sector, with technology being a major focus and enabler for banking, insurance and wealth management. South African technology companies are at the forefront of this.</li><br /><li>These factors have already attracted major global brands like Accenture, IBM, Amazon and Capital One, and won the nation numerous industry awards.</li><br /></ul><br /><br /><p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Offshore software development partners are useful and necessary extensions to your onshore IT capability, but they can also introduce a number of obstacles such as differing time zones, cultural and language barriers, and remote communication obstructions.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-11-11 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23390]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Entelect taking on international offshore projects</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Offshoringpub-Marketingcontent_Banner.png" style="width: 100%;" /></p><br /><br /><p> </p><br /><br /><p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-698609-cmsimages/Entelect-Offshoring-SouthAfrica.pdf" target="_blank">READ THE FULL <em><strong>SOUTH AFRICA: AN OFFSHORE TECHNOLOGY SERVICES CONTENDER PUBLICATION</strong></em></a></p><br /><br /><p>Entelect has an international track record delivering in remote and distributed environments for customers across North and South America, Europe, Asia and Australasia, with zero compromise on collaboration and engineering quality.</p><br /><br /><p> </p><br /><br /><p><strong>Delivery</strong></p><br /><br /><p>Entelect teams thrive on solving complex business problems through technology, using the same multi-disciplinary team-based model for both o­ffshore and onshore engagements.</p><br /><br /><p> </p><br /><br /><p>Collaborative and agile software creation is the default, and our ideas and critical thinking are applied to requirements at all times.</p><br /><br /><p> </p><br /><br /><p>We have an international presence with offices in South Africa, New Zealand and The Netherlands, and have the ability to service both off­shore and onshore engagements from these locations.</p><br /><br /><p> </p><br /><br /><p><strong>Capability</strong></p><br /><br /><p>Entelect teams are multi-disciplinary and include a broad range of capabilities required to deliver end-to-end technology services.</p><br /><br /><p> </p><br /><br /><p>These capabilities include management consulting, technology leadership, design, user experience engineering and architecture. Beyond implementation, capabilities further extend to quality assurance, as well as infrastructure and support.</p><br /><br /><p> </p><br /><br /><p>Our teams are tailored to meet the context of each engagement, giving our customers assurance that Entelect can deliver the right-size off­shoring solution under one roof.</p><br /><br /><p> </p><br /><br /><p><strong>Culture</strong></p><br /><br /><p>Entelect is a culture-first organisation and is recognised as a magnet for outstanding technology talent. We look after our people so they will look after you.</p><br /><br /><p> </p><br /><br /><p>Our teams are personally invested in the outcomes. We will challenge your thinking in order to gain a proper understanding of your business, and engineer solutions that deliver real returns, in collaboration with your own onshore teams.</p><br /><br /><p> </p><br /><br /><p>We get things done when we say we will, and have a deep understanding of what it takes to deliver in off­shore engagements.</p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Entelect has an international track record delivering in remote and distributed environments for customers across North and South America, Europe, Asia and Australasia, with zero compromise on collaboration and engineering quality.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-11-19 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23285]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
+
+
+<item>
+            <title>Making internationally remote projects work</title>
+
+              <content:encoded><![CDATA[<p><img alt="" src="https://cdn.myactive.co.za/wm-462416-cmsimages/Offshoringpub-Marketingcontent_Bannercopy4.png" style="width: 100%;" /></p><br /><br /><p> </p><br /><br /><p><a class="newsItemLink" href="https://eolstoragewe.blob.core.windows.net/wm-698609-cmsimages/Entelect-Offshoring-SouthAfrica.pdf" target="_blank">READ THE FULL <em><strong>SOUTH AFRICA: AN OFFSHORE TECHNOLOGY SERVICES CONTENDER PUBLICATION</strong></em></a></p><br /><br /><p>Working alongside remote teams requires a shift in mindset, process and flexibility. Here are three recommendations based on our experience of operating offshore delivery teams.</p><br /><br /><p> </p><br /><br /><h4><strong>Rethink culture</strong></h4><br />It is difficult to maintain a sense of singular purpose and team across remote boundaries, let alone across continents. Team culture should therefore be adapted accordingly.<br /><br /><p> </p><br /><br /><p><strong>1. Build a one-team mindset</strong></p><br /><br /><ul><br /><li>Fostering trust, inclusion, team-based accountability and cultural affinity should be a core focus for leaders in offshoring engagements that value high-performance.</li><br /><li>Leaders should model the mindset and behaviours of a unified team. This means demonstrating respect, fairness, and treating all participants involved in a delivery as a singular team, with shared goals and priorities.</li><br /><li>Hold everyone to a common performance standard, and ensure that accountability is held at a team-level for the success or failure of goals and commitments.</li><br /><li>Eliminate favouritism, disrespectful behaviour, cultural biases, and 'us and them' attitudes.</li><br /><li>Involve both sides of the border in planning, estimations, decision making and social interactions where possible.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>2. Assign team ambassadors</strong></p><br /><br /><ul><br /><li>Make the one-team mindset somebody's core responsibility, on both sides.</li><br /><li>Relationship building activities are the bedrock of trust, respect and a highly collaborative work environment.</li><br /><li>This is a full-time job that requires two willing parties to own the following responsibilities:<br /><ul style="margin-left: 40px;"><br /><li>To own and manage the delivery and expectations on both sides.</li><br /><li>To act as ambassadors for their teams and people to the other side, to ensure that cross-border trust, alignment and affinity is cared for throughout the engagement.</li><br /></ul><br /></li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>3. Encourage many-to-many relationships</strong></p><br /><br /><ul><br /><li>Let problem-solvers on both sides talk directly with those who can help on the other side. Don’t let hierarchy or process prevent people from building natural, synchronous and useful relationships that help them get their work done.</li><br /><li>Allow for communication to flow openly between team members across shores and avoid strict communication protocols that filter everything through a single person.</li><br /><li>Make sure the teams understand what communication tools are available to them, and when they are appropriate.</li><br /><li>Prioritise face-time between teams regularly. This requires sacrifices on both sides due to time-zone differences and busy calendars, but it is necessary to maintain alignment and to prevent drifting expectations.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>4. Be explicit in your ways of working</strong></p><br /><br /><ul><br /><li>Standards, processes and tools need to be discussed and agreed upon clearly by everyone using them.</li><br /><li>If this mindset is shared by your onshore and offshore teams, you generate buy-in, compliance, and eliminate misunderstanding.</li><br /><li>A singular team, means a singular method of operation unless otherwise prescribed.</li><br /><li>At the start of a new offshoring engagement, expect to take a bit of pain to onboard a new delivery team into your ways of working.</li><br /><li>Spend time defining, sharing and campaigning for your ways of working on an ongoing basis. This can be driven by the team-ambassadors on both sides.</li><br /></ul><br /><br /><p> </p><br /><br /><h4><strong>Design workflow for asynchronicity</strong></h4><br />Operating software teams remotely and across conflicting time zones requires us to adapt our delivery processes and commit time differently to getting it right in an asynchronous setup.<br /><br /><p> </p><br /><br /><p><strong>1. Plan and deliver differently</strong></p><br /><br /><ul><br /><li>You cannot make decisions as quickly or easily as when you have everyone co-located in the same time zone. That does not mean that you cannot be agile and change direction, it means you just need more discipline to adhere to your sprint plan.</li><br /><li>Plan features so that dependencies are minimised where possible. Alternatively, you can do this by creating modularised work packages that can be tackled independently.</li><br /><li>Turnaround times on questions can be a major obstacle, and so you need to manage technical questions and resolution as a matter of process. A useful way to do this is to use your issue tracking system to create tickets for questions and manage accountability as with any other task.</li><br /><li>Make decisions transparent and available. Teams on both sides of an offshore engagement will benefit from recording their conversations and making them available to the other team to go through when they come online. The story and context behind decision making is important for offshore team members to grasp, and apply correctly in their work.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>2. Meet and interact differently</strong></p><br /><br /><ul><br /><li>If possible, set daily stand-up and stand-down meetings with the teams at the beginning and end of each work day. The goal of the meeting should be handover or alignment of work done and work to be done for that day. This should also be used as an opportunity to discuss and eliminate impediments.</li><br /><li>If you can’t find an overlap to hold joint stand-ups, you may have to rely on a fully asynchronous communication approach like email, persistent chat or recorded video/audio for operational activities.</li><br /><li>Prepare to have late night or early morning demos. Real-time conversation is critical for your offshore team to get feedback and gauge sentiment.</li><br /><li>Maintain a standby duty roster, where someone from the off-duty team will be available to field calls, escalations or matters of urgency on both sides if needed.</li><br /></ul><br /><br /><p> </p><br /><br /><h4><strong>Getting the right start</strong></h4><br />Leaders on both sides of a remote engagement need to pay heightened attention in the initial weeks to ensure things are working well, and adapt away from things that aren't.<br /><br /><p> </p><br /><br /><p><strong>1. Actively solicit feedback in the early stages</strong></p><br /><br /><ul><br /><li>Ask for granular status reporting on projects. This will arm you with delivery performance data and help you to understand any underlying process or collaboration issues, as well as to inform your remedial actions more precisely. In addition to this, it will help to drive productive and spontaneous conversations between team members about process, culture and collaboration issues that are impeding delivery.</li><br /><li>Keep your finger on the pulse of sentiment with tactical face-time. Set up check-in sessions with team-members on both sides of the engagement. This will allow you to understand how well your culture campaign is working, and will inform any cultural remediation actions that may be necessary.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>2. Lead with candid conversation</strong></p><br /><br /><ul><br /><li>Share progress and issues, threats and wins openly in the team. This will create alignment on delivery and culture issues between teams, team ambassadors and executive sponsors, especially in the early stages of each engagement. Don't be afraid to hold difficult conversations in an open-format. This approach will allow you to reach an optimum state quickly.</li><br /><li>Create a safe space for honest and constructive conversation about what is working and what isn’t for teams on both sides, by rewarding and encouraging those who do so publicly.</li><br /></ul><br /><br /><p> </p><br /><br /><p><strong>3. Crystallise context</strong><br /><br />Useful tools for maintaining transparency and alignment in offshoring engagements:</p><br /><br /><ul><br /><li>A <strong><a href="https://projectcanvas.entelect.co.za/" target="_blank">project canvas</a> </strong>can be a valuable tool to keep the team aligned and build a common understanding of the project that they are endeavouring to deliver together. The goal of a project canvas exercise is for the execution team to clearly and collaboratively define the project goals, success criteria, milestones, stakeholders, constraints and risks. This, along with the business canvas becomes a living public document available for any team member to revisit and consider in their daily decision making process.</li><br /><li>A <strong>business canvas </strong>is a tool for creating understanding about how your business works and can help drive better decision making in project teams. The goal of the business canvas is for the product owners or executive sponsors to introduce the execution team to the fundamentals of their business - revenue streams, customer segments, value proposition, objectives, partners and sales channels. This context creates an affinity and common-understanding of the business dynamics outside of the immediate project.</li><br /><li>A <strong>team charter </strong>is a document that describes core principles for how teams interact and work with each other, and can be useful for driving collaboration and the goals of the work that is underway. Team charters are public assets that can be displayed on walls, desks at home and in the office, or virtual backgrounds. They are most effective when created collaboratively with all team members on both sides of the engagement.</li><br /></ul><br /><br /><p> </p><br /><br /><p> </p>]]></content:encoded>
+
+              <excerpt:encoded><![CDATA[Working alongside remote teams requires a shift in mindset, process and flexibility. Here are three recommendations based on our experience of operating offshore delivery teams.]]></excerpt:encoded>
+
+              <wp:post_date><![CDATA[2020-12-02 00:00:0]]></wp:post_date>
+
+              <wp:status><![CDATA[publish]]></wp:status>
+
+              <wp:post_type><![CDATA[publications]]></wp:post_type>
+
+
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[dyncontel_elementor_templates]]></wp:meta_key>
+      <wp:meta_value><![CDATA[23544]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+      <wp:meta_value><![CDATA[Making internationally remote projects work]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_banner_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213dec96398]]></wp:meta_value>
+    </wp:postmeta>
+
+            <wp:postmeta>
+      <wp:meta_key><![CDATA[quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[]]></wp:meta_value>
+    </wp:postmeta>
+    <wp:postmeta>
+      <wp:meta_key><![CDATA[_quote_color]]></wp:meta_key>
+      <wp:meta_value><![CDATA[field_60213df896399]]></wp:meta_value>
+    </wp:postmeta>
+
+
+</item>
 
 
 </channel>
