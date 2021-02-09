@@ -15,6 +15,11 @@
     "import_name": "Summary"
   },
   {
+    "export_name": "wp:post_date",
+    "type": "simple_string",
+    "import_name": "Date 2"
+  },
+  {
     "export_name": "wp:status",
     "type": "simple_string",
     "import_name": ""

@@ -163,6 +163,11 @@ foreach ($array_3 as $key => $value) {
 						<title><?php echo urldecode($value_2["export_value"]) ?></title>
 						<?php
 					}
+					elseif ($key_2 == "pubDate") {
+						?>
+	          <wp:post_type><?php echo $defaults["wp:post_type"] ?></wp:post_type>
+						<?php
+					}
 					elseif ($key_2 == "wp:post_type") {
 						?>
 	          <wp:post_type><![CDATA[<?php echo $defaults["wp:post_type"] ?>]]></wp:post_type>
