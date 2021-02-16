@@ -79,16 +79,16 @@ class TrelloBoardToCsv {
             $output .= $card->name;
             $output .= "</td>";
 
-            $temp_var = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
+            $haystack = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
 
 
             $needle = "<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>";
             $matches = array();
-            if (preg_match('/'.$needle.'/s',$temp_var, $matches)) {
+            if (preg_match('/'.$needle.'/s',$haystack, $matches)) {
 
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$haystack, $matches);
               // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
 
 
@@ -99,7 +99,7 @@ class TrelloBoardToCsv {
 
               $output .= "<td>";
               $output .= $matches[3];
-              // $output .= $temp_var;
+              // $output .= $haystack;
               $output .= "</td>";
               // print_r($matches[1]);
             } else {
@@ -107,7 +107,7 @@ class TrelloBoardToCsv {
               $output .= "";
               $output .= "</td>";
 
-              $output .= $needle;
+              $output .= $haystack;
               // print_r($matches[1]);
             }
 
