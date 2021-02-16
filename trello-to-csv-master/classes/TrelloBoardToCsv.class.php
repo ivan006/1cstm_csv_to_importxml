@@ -82,25 +82,34 @@ class TrelloBoardToCsv {
             $temp_var = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
 
 
-
+            $needle = "<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>";
             $matches = array();
-            preg_match('/<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
-            // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
-            // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
-            // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
-            // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
+            if (preg_match('/'.$needle.'/s',$temp_var, $matches)) {
+
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
+              // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
+              // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
 
 
 
-            $output .= "<td>";
-            $output .= $matches[2];
-            $output .= "</td>";
+              $output .= "<td>";
+              $output .= $matches[2];
+              $output .= "</td>";
 
-            $output .= "<td>";
-            $output .= $matches[3];
-            // $output .= $temp_var;
-            $output .= "</td>";
-            // print_r($matches[1]);
+              $output .= "<td>";
+              $output .= $matches[3];
+              // $output .= $temp_var;
+              $output .= "</td>";
+              // print_r($matches[1]);
+            } else {
+              $output .= "<td>";
+              $output .= "";
+              $output .= "</td>";
+
+              $output .= $needle;
+              // print_r($matches[1]);
+            }
 
             $output .= "</tr>\n";
           }
