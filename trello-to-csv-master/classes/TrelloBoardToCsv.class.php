@@ -68,13 +68,45 @@ class TrelloBoardToCsv {
       }
 
       if ($print_list) {
-        $output .= "\n" . '"' . $list->name . '"' . "\n";
+        $output .= "<h1>".$list->name."</h1>";
+        $output .= "<table>";
 
         foreach ($this->json->cards as $j => $card) {
           if ($card->closed == FALSE && $card->idList == $list->id) {
-            $output .= '"' . $card->name . '"' . "\n";
+            $output .= "<tr>";
+
+            $output .= "<td>";
+            $output .= $card->name;
+            $output .= "</td>";
+
+            $temp_var = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
+
+
+
+            $matches = array();
+            preg_match('/<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
+            // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
+            // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$temp_var, $matches);
+            // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$temp_var, $matches);
+            // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
+
+
+
+            $output .= "<td>";
+            $output .= $matches[2];
+            $output .= "</td>";
+
+            $output .= "<td>";
+            $output .= $matches[3];
+            // $output .= $temp_var;
+            $output .= "</td>";
+            // print_r($matches[1]);
+
+            $output .= "</tr>\n";
           }
         } // end card foreach
+
+        $output .= "</table>";
       }
     } // end list foreach
 
@@ -85,7 +117,7 @@ class TrelloBoardToCsv {
    * Creates the CSV file
    */
   function save_csv() {
-    $result = file_put_contents($this->filename . '.csv', $this->csv);
+    $result = file_put_contents($this->filename . '.html', $this->csv);
     if ($result === FALSE) {
       throw new Exception('Could not write the file.');
     }
