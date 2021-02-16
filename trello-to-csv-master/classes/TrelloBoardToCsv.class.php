@@ -75,40 +75,61 @@ class TrelloBoardToCsv {
           if ($card->closed == FALSE && $card->idList == $list->id) {
             $output .= "<tr>";
 
-            $output .= "<td>";
-            $output .= $card->name;
-            $output .= "</td>";
+            if ("name" == "name") {
+              // $output .= "<td>";
+              // $output .= $card->name;
+              // $output .= "</td>";
 
-            $haystack = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
+              $haystack = "<td>".$card->name."</td>";
 
-
-            $needle = "<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>";
-            $matches = array();
-            if (preg_match('/'.$needle.'/s',$haystack, $matches)) {
-
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
-              // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$haystack, $matches);
-              // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
+              $needle = "/<td>(.*?) (.*?)<\/td>/s";
+              $matches = array();
+              if (preg_match($needle,$haystack, $matches)) {
 
 
+                $output .= "<td>";
+                $output .= $matches[1];
+                $output .= "</td>";
+              } else {
+                $output .= "<td>";
+                $output .= "";
+                $output .= "</td>";
+              }
 
-              $output .= "<td>";
-              $output .= $matches[2];
-              $output .= "</td>";
+            }
 
-              $output .= "<td>";
-              $output .= $matches[3];
-              // $output .= $haystack;
-              $output .= "</td>";
-              // print_r($matches[1]);
-            } else {
-              $output .= "<td>";
-              $output .= "";
-              $output .= "</td>";
+            if ("Desc" == "Desc") {
 
-              $output .= $haystack;
-              // print_r($matches[1]);
+              $haystack = "<td>".preg_replace( "/\r|\n/", "", $card->desc)."</td>";
+
+              $needle = "/<td>\*\*someone\*\* created a new Feedback \(#(.*?)\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: (.*?)<\/td>/s";
+              $matches = array();
+              if (preg_match($needle,$haystack, $matches)) {
+
+                // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
+                // preg_match('/<td>\*\*someone\*\* created a new Feedback \(#\) on \*\*(.*?)\*\*>(.*)\*\*Session details:\*\*\- Feedback ID: <\/td>/s',$haystack, $matches);
+                // preg_match('/<td>\*\*someone\*\* created a new Feedback (#(.*?)) on \*\*(.*?)\*\*>(.*?)\*\*Session details:\*\*- Feedback ID: (.*?)<\/td>/s',$haystack, $matches);
+                // preg_match('/<div class="my-con">(.*?)<\/div>/s', $htmlContent, $match);
+
+
+
+                $output .= "<td>";
+                $output .= $matches[2];
+                $output .= "</td>";
+
+                $output .= "<td>";
+                $output .= $matches[3];
+                // $output .= $haystack;
+                $output .= "</td>";
+                // print_r($matches[1]);
+              } else {
+                $output .= "<td>";
+                $output .= "";
+                $output .= "</td>";
+
+                $output .= $haystack;
+                // print_r($matches[1]);
+              }
             }
 
             $output .= "</tr>\n";
