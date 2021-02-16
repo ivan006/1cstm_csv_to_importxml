@@ -21,4 +21,3 @@ try {
 catch (Exception $e) {
   print 'Exception thrown: ' . $e->getMessage();
 }
-
