@@ -86,9 +86,9 @@ class TrelloBoardToCsv {
               $matches = array();
               if (preg_match($needle,$haystack, $matches)) {
 
-
+                // 5.31	 and 31 had problems
                 $output .= "<td>";
-                $output .= $matches[1];
+                $output .= $matches[1]."_this_is_a_string";
                 $output .= "</td>";
               } else {
                 $output .= "<td>";
@@ -126,7 +126,7 @@ class TrelloBoardToCsv {
                 $output .= "<td>";
                 $output .= "";
                 $output .= "</td>";
-
+                
                 $output .= $haystack;
                 // print_r($matches[1]);
               }
