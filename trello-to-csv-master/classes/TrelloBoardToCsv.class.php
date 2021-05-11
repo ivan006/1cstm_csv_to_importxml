@@ -95,6 +95,7 @@ class TrelloBoardToCsv {
                 $output .= "";
                 $output .= "</td>";
               }
+              $name_matches = $matches;
 
             }
 
@@ -124,12 +125,14 @@ class TrelloBoardToCsv {
                 // print_r($matches[1]);
               } else {
                 $output .= "<td>";
-                $output .= "";
+                $output .= $name_matches[2];
                 $output .= "</td>";
-                
+
                 $output .= $haystack;
                 // print_r($matches[1]);
               }
+
+              $desc_matches = $matches;
             }
 
             $output .= "</tr>\n";
